@@ -1,0 +1,2035 @@
+user_id,locale,birthyear,gender,joinedAt,location,timezone
+4101519751,id_ID,1994.0,male,375596,Yogyakarta,420.0
+2163304477,es_ES,1994.0,male,375572,Santo Domingo  Dominican Republic,60.0
+397493741,id_ID,1994.0,male,374815,Medan  Indonesia,420.0
+383523902,fr_FR,1996.0,female,375443,Camp De Masque  Flacq  Mauritius,240.0
+3554343061,id_ID,1991.0,male,375442,Yogyakarta,420.0
+1538685648,id_ID,1993.0,male,375273,Medan  Indonesia,420.0
+3251568850,id_ID,1994.0,female,375375,Purwokerto  Jawa Tengah  Indonesia,420.0
+2879905973,ko_KR,1991.0,male,375607,Phnom Penh,420.0
+3095718598,en_US,1995.0,female,375885,Newark  New Jersey,-300.0
+2008761267,en_US,1982.0,male,374807,Stoney Creek  ON,-300.0
+483332100,id_ID,1997.0,female,374641,Medan  26,420.0
+3071657222,en_US,1996.0,male,373213,,240.0
+1948333652,id_ID,1987.0,male,375386,Yogyakarta,-360.0
+3142327997,en_US,1988.0,male,375755,Tbilisi  Georgia,240.0
+2752875123,en_GB,1986.0,female,375287,London  United Kingdom,
+4288238269,fr_FR,1992.0,male,375254,Los Angeles  California,60.0
+2356937947,es_LA,1994.0,female,375381,Santo Domingo  Dominican Republic,-180.0
+4058274528,id_ID,1987.0,male,375407,Mataram,510.0
+1369905557,id_ID,1993.0,male,375413,Medan  Indonesia,420.0
+1809934947,id_ID,1994.0,male,374655,Medan  Indonesia,420.0
+1507405031,id_ID,1993.0,male,375338,Yogyakarta,420.0
+1629404827,id_ID,1992.0,female,375461,Malang,420.0
+517270916,en_US,1978.0,male,374303,Millbrae  California,-480.0
+3325600533,es_LA,1996.0,female,375137,Santo Domingo  Dominican Republic,-240.0
+3887778002,id_ID,1984.0,male,375060,Medan  Indonesia,420.0
+569826712,id_ID,1994.0,male,374790,Boston  New York,420.0
+7547671,en_US,1991.0,male,376333,Los Angeles  California,270.0
+3925613292,en_US,1993.0,female,375700,Phnom Penh,420.0
+2048999821,id_ID,1994.0,female,375318,Yogyakarta,420.0
+3123500032,es_ES,1992.0,female,375613,Madrid  Spain,60.0
+1079339663,en_US,1981.0,male,374624,Toronto  Ontario,-300.0
+3646961870,id_ID,1994.0,male,374889,Tebing Tinggi,420.0
+2271261888,en_US,1995.0,male,375846,Tonekabon,210.0
+3816191065,ka_GE,1990.0,male,375713,Tbilisi  Georgia,-720.0
+3986193980,id_ID,1992.0,male,374595,Medan  Indonesia,420.0
+2193694254,en_US,1966.0,female,375434,Eugene  Oregon,-480.0
+247769793,id_ID,1994.0,male,376101,Cilegon,450.0
+1918945522,id_ID,1996.0,female,375675,Sidoarjo  Jawa Timur  Indonesia,420.0
+2971889961,en_US,1981.0,male,375210,Medan  Indonesia,420.0
+2393365897,en_GB,1994.0,male,375118,Los Angeles  California,-480.0
+3709066919,id_ID,1993.0,female,374721,Medan  Indonesia,420.0
+4179324570,id_ID,1992.0,male,375421,Djokja  Yogyakarta  Indonesia,120.0
+1774655165,id_ID,1991.0,male,375284,Surabaya  08,390.0
+2164973127,en_US,1994.0,male,375485,Phnom Penh,420.0
+527523423,en_US,1990.0,female,375830,Kerman  Iran,210.0
+3131909049,es_LA,1998.0,female,375452,Santo Domingo  Dominican Republic,-240.0
+1292184871,id_ID,1986.0,male,375310,Medan  Indonesia,-480.0
+2257286686,id_ID,1989.0,male,375368,Medan  Indonesia,420.0
+1349230619,en_US,1971.0,male,374876,Toronto  Ontario,-240.0
+174994783,en_US,1976.0,female,373085,,-240.0
+2563679078,fr_FR,1997.0,male,375489,Curepipe  Mauritius,240.0
+3227661980,id_ID,1993.0,female,375554,Djokja  Yogyakarta  Indonesia,420.0
+3752474458,id_ID,1994.0,female,375119,Semarang  Indonesia,420.0
+3187292148,id_ID,1985.0,male,375345,Medan  Indonesia,420.0
+2041677127,en_US,1988.0,female,375539,Phnom Penh,420.0
+605903903,id_ID,1996.0,male,374772,Medan  Indonesia,420.0
+863771353,en_US,1979.0,male,376459,Cebu City,480.0
+3944021305,en_US,1995.0,female,374952,Toronto  Ontario,-360.0
+2684781446,en_US,1990.0,female,375474,,240.0
+3198504537,id_ID,1995.0,male,374738,Medan  Indonesia,420.0
+875823959,id_ID,1998.0,female,375488,Palembang,420.0
+1178274219,id_ID,1997.0,female,374773,Medan  Indonesia,-300.0
+1548216840,en_US,1991.0,male,374333,Glendale  Arizona,-420.0
+3235544076,es_ES,1996.0,female,375554,Santo Domingo  Dominican Republic,-300.0
+1728055600,en_US,1980.0,female,374476,Mesa  Arizona,-420.0
+2290297293,en_US,1986.0,male,375483,Phnom Penh,420.0
+2822972903,en_US,1988.0,male,375665,Duarte  California,-480.0
+168764910,es_ES,1997.0,female,375358,Santo Domingo  Dominican Republic,-270.0
+2916559717,en_US,1992.0,male,375950,  ,
+70585535,id_ID,1995.0,female,374746,Jakarta  04,420.0
+3851487388,id_ID,1991.0,female,375449,Purwokerto  Jawa Tengah  Indonesia,420.0
+3198801990,es_LA,1993.0,male,375617,Santo Domingo  Dominican Republic,-240.0
+3191212256,en_US,1989.0,male,375653,Poipet,420.0
+3771702031,id_ID,1990.0,female,375437,Yogyakarta,420.0
+967361915,id_ID,1991.0,male,374807,Medan  Indonesia,420.0
+282914818,en_GB,1991.0,male,375446,Trabek  05,420.0
+2033945746,id_ID,1993.0,male,374821,Medan  Indonesia,420.0
+3965529047,es_ES,1983.0,male,375625,Santo Domingo  Dominican Republic,-240.0
+3669048335,id_ID,1995.0,male,374816,Medan  26,420.0
+2567514456,id_ID,1991.0,male,374824,Medan  Indonesia,420.0
+122826603,en_US,1993.0,female,375368,Yogyakarta,420.0
+3994781966,en_US,1993.0,female,374853,Irvine  California,-480.0
+2877985693,en_US,1960.0,female,375894,Phnom Penh,-420.0
+2188094871,en_US,1993.0,male,374153,,-300.0
+3680318580,id_ID,1990.0,female,375419,Yogyakarta,420.0
+4146086354,en_US,1993.0,male,372699,,-240.0
+1783276120,id_ID,1996.0,male,375409,Medan  Indonesia,420.0
+1597392855,en_US,1984.0,female,375807,Compton  California,-480.0
+2545657612,id_ID,1992.0,female,375143,Jogjakarta  Indonesia,420.0
+1641960627,es_ES,1995.0,male,375798,Guaricano  Distrito Nacional  Dominican Republic,60.0
+3567042309,id_ID,1992.0,male,374630,Medan  Indonesia,420.0
+2265864872,id_ID,1993.0,female,375366,,420.0
+1292417817,id_ID,1994.0,female,375345,Padang Sidempuan,420.0
+439507113,id_ID,1994.0,male,374549,Jakarta  04,420.0
+3535608264,id_ID,1986.0,male,375391,Djokja  Yogyakarta  Indonesia,420.0
+3507534894,id_ID,1993.0,male,374646,Bekasi,420.0
+2619163162,id_ID,1996.0,male,375618,Bandung Dua  Jawa Barat  Indonesia,-330.0
+396929851,id_ID,1993.0,male,375951,DKI Jakarta,420.0
+4103253513,en_GB,1995.0,female,375443,Cassis  Port Louis  Mauritius,240.0
+2068379568,en_US,1995.0,male,375439,Phnom Penh,-300.0
+3635047946,en_US,1992.0,male,375358,North Highlands  California,-480.0
+1601125543,en_US,1993.0,male,374947,Covina  CA,-480.0
+322814221,en_US,1992.0,male,375587,Phnom Penh,420.0
+1834669948,id_ID,1994.0,female,375151,Pematangsieantar  Sumatera Utara  Indonesia,420.0
+1990188032,ar_AR,1993.0,male,374848,Cairo  11,120.0
+248375618,es_ES,1998.0,male,375453,Santo Domingo  Dominican Republic,60.0
+2383553413,id_ID,1992.0,male,375438,Yogyakarta,420.0
+2638473114,id_ID,1970.0,male,375424,Jakarta  Indonesia,420.0
+3909997753,en_US,1990.0,female,375422,Petit Raffray  Riviere Du Rempart  Mauritius,240.0
+3775078143,en_US,1986.0,female,375745,New Delhi  India,330.0
+4269216118,id_ID,1995.0,male,374917,Medan  Indonesia,420.0
+2034536037,id_ID,1993.0,male,374913,Medan  Indonesia,420.0
+1354120181,id_ID,1994.0,male,375207,Medan  Indonesia,-300.0
+4040322582,id_ID,1998.0,male,375127,Medan  Indonesia,420.0
+3723896394,id_ID,1995.0,male,374724,Medan  Indonesia,420.0
+995603012,en_US,1992.0,male,374757,Los Angeles  California,-480.0
+4185115186,en_US,1997.0,female,375486,Phnom Penh  11,-90.0
+1463717359,id_ID,1993.0,female,375583,Purwokerto  Jawa Tengah  Indonesia,420.0
+932543338,en_US,1985.0,male,375950,Highland Falls  New York,-300.0
+3336438888,id_ID,1987.0,female,375370,Yogyakarta,420.0
+1701323236,id_ID,1976.0,female,375432,Bantul,420.0
+2912946138,en_US,1993.0,female,374737,Kalibo Town  Aklan  Philippines,420.0
+210296799,en_US,1988.0,male,374947,Los Angeles  California,240.0
+2116294822,en_GB,1994.0,male,375488,Yogyakarta,420.0
+1006838695,id_ID,1997.0,female,375430,Jombang  Jawa Timur  Indonesia,420.0
+3788009173,en_US,1993.0,male,374326,Glendale  Arizona,-420.0
+4046490355,en_US,,male,371412,,-240.0
+593799836,id_ID,1988.0,male,374678,Medan  Indonesia,420.0
+3245671824,en_US,1980.0,male,375212,Gardena  CA,-480.0
+352769719,id_ID,1997.0,male,375441,Medan  Indonesia,420.0
+2223946882,en_US,1993.0,male,374655,Toronto  Ontario,-300.0
+2787637778,en_US,1987.0,female,375458,Phnom Penh,420.0
+1898427878,en_US,1986.0,male,375485,Phnom Pen  Phnum Penh  Cambodia,420.0
+4239616087,id_ID,1990.0,male,375733,Bekasi,420.0
+4002956902,fr_FR,1992.0,male,375463,Phnom Penh,420.0
+1038432983,en_US,1981.0,female,374619,Ottawa  Ontario,-240.0
+280995052,en_US,1989.0,male,373322,,-240.0
+1368412107,en_US,1984.0,male,375455,  ,420.0
+990116823,id_ID,1995.0,male,375540,Jombang  Jawa Timur  Indonesia,420.0
+1875891307,en_US,1998.0,female,375442,,240.0
+2706413631,id_ID,1996.0,male,374772,Medan  Indonesia,420.0
+1484078818,id_ID,1993.0,male,375377,Klaten  Jawa Tengah  Indonesia,420.0
+1747471686,en_US,1997.0,male,375447,Oberhausen  Germany,420.0
+439279583,id_ID,1996.0,male,374817,Medan  Indonesia,420.0
+2804635189,en_US,1993.0,female,374496,Phoenix  Arizona,-420.0
+3198823658,en_US,1992.0,male,375488,Phnom Penh,-90.0
+1539256277,id_ID,1992.0,male,375486,Rantauprapat  Sumatera Utara  Indonesia,420.0
+3685921102,en_US,1987.0,female,375445,Argy  Flacq  Mauritius,450.0
+3175354507,id_ID,1997.0,female,375827,Medan  Indonesia,420.0
+4236494,en_US,1998.0,female,375433,Beau Vallon  Grand Port  Mauritius,240.0
+2321074684,id_ID,1997.0,female,375365,Medan  Indonesia,420.0
+1030441254,es_ES,1985.0,male,372138,,-300.0
+2903662804,en_US,1981.0,female,372460,,-480.0
+810608905,en_US,1992.0,male,375118,Toronto  ON,-300.0
+3096870348,en_US,1989.0,male,375651,Phnom Penh,420.0
+1047741032,en_US,1988.0,male,374318,Tucson  Arizona,-420.0
+4157365314,id_ID,1992.0,male,375449,Porsea  Sumatera Utara  Indonesia,420.0
+2163512224,id_ID,1981.0,male,374803,Medan  Indonesia,420.0
+2030266367,en_US,1989.0,female,375805,Sihanoukville,420.0
+3592311259,en_US,1984.0,male,375501,San Francisco  California,-480.0
+2604497840,en_US,1988.0,male,375703,Lahore  04,300.0
+354974889,id_ID,1992.0,male,375904,Yogyakarta,420.0
+2485670452,id_ID,1997.0,female,374966,Medan  Indonesia,480.0
+3835637004,en_US,1983.0,male,372162,,-480.0
+1063393664,id_ID,1994.0,male,375391,Medan  Indonesia,-300.0
+2933561364,en_GB,1992.0,male,375351,Quatre Bornes  17,240.0
+2937549539,id_ID,1991.0,female,374553,Medan  Indonesia,420.0
+2679652649,id_ID,1993.0,female,375220,Medan  Indonesia,420.0
+2856945250,en_US,,male,376103,San Francisco  CA,-480.0
+1933513142,en_US,1964.0,female,375885,Hemet  California,-480.0
+4170157131,en_US,1990.0,female,375940,Phnom Penh  11,420.0
+1115244043,id_ID,1976.0,male,375860,Jeddah  14,180.0
+1213744330,en_GB,1991.0,female,374980,Anaheim  CA,-480.0
+4048868881,en_US,1991.0,male,375442,Phnom Penh,420.0
+3155504635,en_US,1986.0,female,372276,,-240.0
+3751635372,id_ID,1993.0,male,374791,Medan  26,420.0
+3556981605,en_US,1991.0,male,375485,Phnom Penh,480.0
+2845673972,es_LA,1990.0,male,375325,Santo Domingo  Dominican Republic,-240.0
+2803741841,id_ID,1995.0,male,374764,Medan  Indonesia,420.0
+4137863751,en_US,1978.0,female,374926,San Francisco  California,-480.0
+243893094,en_US,1952.0,male,372002,,-240.0
+3930126543,id_ID,1994.0,female,375317,Medan  Indonesia,420.0
+327414596,id_ID,1990.0,female,375269,Medan  26,420.0
+1444113850,en_US,1995.0,male,375683,Batac  Ilocos Norte,480.0
+3291092348,en_US,1982.0,male,375459,Phnom Penh,420.0
+959300591,id_ID,1995.0,male,374760,Medan  Indonesia,420.0
+3430986998,id_ID,1998.0,male,374840,Medan  Indonesia,420.0
+962338748,es_LA,1938.0,female,375788,Santo Domingo  Dominican Republic,-360.0
+1000293064,id_ID,1995.0,female,375394,Medan  Indonesia,-480.0
+1851530247,en_US,1989.0,female,374491,Lukachukai  AZ,-360.0
+2728047278,id_ID,1993.0,female,375002,Medan  Indonesia,420.0
+2252845148,en_US,1991.0,male,375460,Phnom Penh,420.0
+3316715342,en_US,1995.0,female,374445,Oshawa  Ontario,-300.0
+1946827878,en_US,1993.0,female,375445,Phnom Penh,420.0
+4202112938,id_ID,1989.0,male,375573,,420.0
+2264585544,id_ID,1994.0,male,375391,Bumiayu  Jawa Tengah  Indonesia,420.0
+354026608,id_ID,1994.0,female,375417,Yogyakarta,420.0
+1230559341,id_ID,1994.0,female,374989,Medan  Indonesia,420.0
+642317092,id_ID,1996.0,female,374861,Jakarta  Indonesia,420.0
+19283444,en_US,1988.0,female,373432,,-240.0
+3548214416,id_ID,1991.0,male,375387,Yogyakarta,420.0
+1320099877,fr_FR,1985.0,male,375999,Port Louis  Mauritius,240.0
+3180412264,en_US,1983.0,female,374515,Toronto  Ontario,-300.0
+3719137321,en_US,1981.0,female,375503,Oakland  California,-480.0
+2340199364,en_US,1985.0,female,375441,Phnom Penh,420.0
+29002074,es_LA,1994.0,male,375883,Hollywood  California,-240.0
+13301498,id_ID,1981.0,male,375266,Medan  Indonesia,420.0
+2507955484,id_ID,1994.0,male,375324,Los Angeles  California,420.0
+206173756,id_ID,1993.0,female,375462,Jogjakarta  Indonesia,480.0
+4186528243,en_US,1992.0,male,375485,Phnom Penh,420.0
+4134124728,ka_GE,1996.0,female,375567,Tbilisi  Georgia,240.0
+422002690,en_US,1987.0,male,375448,Port Harcourt  50,60.0
+2813753172,id_ID,1990.0,male,375439,Kuta Raja  Aceh  Indonesia,420.0
+1974832510,id_ID,1994.0,female,375385,Medan  Indonesia,420.0
+2071842684,en_US,1991.0,female,375486,Phnom Penh  11,420.0
+2863143805,en_US,1990.0,male,375448,Port Louis  Mauritius,240.0
+516841937,en_US,1983.0,female,375776,Paramount  CA,-480.0
+2793393083,id_ID,1993.0,male,375086,Sibolga,420.0
+3803479601,id_ID,1992.0,male,374243,,270.0
+2827067982,id_ID,1991.0,male,375459,Yogyakarta,420.0
+875145825,en_US,1994.0,female,375025,Medan  Indonesia,540.0
+1166204486,es_LA,1997.0,female,375611,Santo Domingo  Dominican Republic,-240.0
+4261865653,id_ID,1993.0,male,375482,Magelang,540.0
+1815238419,es_LA,1995.0,male,375337,Santo Domingo  Dominican Republic,-240.0
+1984545931,en_GB,1991.0,female,375487,Purwokerto  Jawa Tengah  Indonesia,420.0
+3004312073,id_ID,1993.0,male,375445,Yogyakarta,420.0
+3878851138,id_ID,1992.0,female,375364,Yogyakarta,420.0
+709445936,fr_FR,1995.0,female,375728,Ibiza  Islas Baleares  Spain,240.0
+476865227,en_US,1972.0,female,375906,Compton  California,-480.0
+651258472,en_US,1978.0,male,376011,Los Angeles  California,-480.0
+3611774179,en_US,1985.0,male,375315,Yogyakarta,420.0
+544449933,id_ID,1995.0,female,374737,Medan  Indonesia,420.0
+1159947871,id_ID,1994.0,male,374716,Medan  Indonesia,420.0
+3210206992,en_US,1993.0,male,374764,Los Angeles  California,-480.0
+3766417922,id_ID,1990.0,male,376376,Los Angeles  California,-150.0
+1826584692,en_US,1992.0,female,375382,Yogyakarta,420.0
+2238460219,en_US,1991.0,male,375456,Phnom Penh,420.0
+3282509573,en_US,1994.0,male,375486,Phnom Pen  Phnum Penh  Cambodia,420.0
+535350558,id_ID,1994.0,male,374832,Medan  Indonesia,420.0
+3631889944,id_ID,1993.0,female,375362,Medan  Indonesia,420.0
+2400147519,id_ID,1995.0,male,375391,Jakarta  04,420.0
+2683024755,en_US,1992.0,female,375456,Purwokerto  Jawa Tengah  Indonesia,420.0
+738525400,en_US,1973.0,male,375713,San Francisco  California,-480.0
+4222590338,en_US,1993.0,male,374508,Bronx  NY,-240.0
+689225317,id_ID,1994.0,male,375384,Yogyakarta,420.0
+2864941156,en_US,1979.0,female,373468,,-240.0
+1554993130,id_ID,1990.0,female,375627,Yogyakarta,420.0
+1308650192,id_ID,1989.0,female,375580,Bantul,-180.0
+3318646261,id_ID,1995.0,male,374738,Medan  Indonesia,420.0
+987701123,id_ID,1945.0,female,375374,Kudus,420.0
+3642118045,en_US,1990.0,male,375364,Sydney  Australia,420.0
+1720019070,en_US,1987.0,female,375462,San Diego  California,-420.0
+1595465532,id_ID,1994.0,male,375443,Jakarta  Indonesia,420.0
+1290399197,en_US,1990.0,female,375557,Bandung  Indonesia,420.0
+2546983756,en_US,1989.0,male,373671,,480.0
+4278168842,en_GB,1995.0,female,375489,Flacq  Flacq  Mauritius,240.0
+379327893,en_US,1986.0,male,375189,Toronto  Ontario,-300.0
+110310789,en_US,1984.0,male,375196,Los Angeles  CA,-480.0
+3292982761,id_ID,1998.0,male,375594,Medan  Indonesia,420.0
+3598881287,en_US,1990.0,female,373107,,-300.0
+1039126403,en_US,1990.0,male,375474,Phnom Pen  Phnum Penh  Cambodia,420.0
+682721107,id_ID,1991.0,male,374767,Medan  Indonesia,420.0
+1213367737,id_ID,1993.0,female,374767,Medan  Indonesia,420.0
+373631588,es_LA,1996.0,female,375455,Santo Domingo  Dominican Republic,-240.0
+4106525792,id_ID,1993.0,female,375422,Surabaya  08,420.0
+836628838,es_LA,1993.0,male,375454,Santo Domingo  Dominican Republic,480.0
+3224203982,id_ID,1994.0,male,374821,Medan  Indonesia,420.0
+50457238,en_US,1992.0,male,375455,Phnom Penh,420.0
+1676582816,en_US,1994.0,female,375460,Phnom Penh,420.0
+2196784941,en_US,1962.0,female,375055,Leamington  Ontario,-300.0
+2480816831,es_ES,1997.0,female,375431,Villa Mella  Dominican Republic,-270.0
+2202271093,en_US,1994.0,male,375459,Phnom Pen  Phnum Penh  Cambodia,420.0
+793834125,id_ID,1993.0,male,375446,Medan  Indonesia,420.0
+384932005,id_ID,1996.0,male,375391,Medan  Indonesia,420.0
+3818890017,id_ID,1988.0,male,375974,Cengkareng  Jakarta Raya  Indonesia,420.0
+2571725299,en_US,1982.0,male,375722,Phnom Penh,420.0
+2932861723,id_ID,1992.0,male,375758,Yogyakarta,420.0
+35629376,id_ID,1991.0,male,375409,Yogyakarta,420.0
+736262792,id_ID,1996.0,male,374648,Medan  Indonesia,420.0
+413292015,en_GB,,female,373111,,-300.0
+964607716,en_US,1993.0,female,375442,Paris  France,60.0
+4181543522,en_US,1984.0,male,375489,Phnom Penh,420.0
+1358236584,en_US,1994.0,male,375278,Nagpur,330.0
+458389001,en_US,1985.0,male,373106,,-240.0
+3460014666,id_ID,1993.0,male,375348,Jogjakarta  Indonesia,420.0
+893322374,en_US,1993.0,male,375388,Yogyakarta,420.0
+1571490313,en_US,1995.0,female,375649,Montalban  Rizal,480.0
+1725995841,en_US,1966.0,female,372985,,-150.0
+314484928,id_ID,1992.0,male,375886,Yogyakarta,420.0
+4044282675,id_ID,1994.0,female,375460,Yogyakarta,420.0
+3395257600,id_ID,1991.0,female,375433,Yogyakarta,420.0
+3702967330,en_US,1988.0,male,375005,Toronto  Ontario,-300.0
+1075126714,en_US,1987.0,female,374787,New York  New York,-300.0
+1882344631,en_US,1991.0,female,374520,New Haven  CT,-300.0
+267902048,en_US,1994.0,female,375460,Phnom Penh,420.0
+3842862938,id_ID,1995.0,male,375564,Jombang  Jawa Timur  Indonesia,420.0
+2706298619,en_US,1990.0,male,375966,Khulna,360.0
+3378002804,fr_CA,1973.0,female,374552,Montreal  Quebec,-300.0
+1184895977,en_US,1987.0,female,375704,Corona  California,-480.0
+882525479,id_ID,1995.0,male,375554,Rantauprapat  Sumatera Utara  Indonesia,420.0
+3563882371,en_US,1986.0,male,375770,Phnom Pen  Phnum Penh  Cambodia,420.0
+3035853030,en_US,1977.0,male,374251,Toronto  Ontario,420.0
+3153655575,id_ID,1995.0,male,375372,Medan  Indonesia,420.0
+3071252660,id_ID,1995.0,male,374796,Bekasi,420.0
+2282893903,id_ID,1995.0,female,374676,Medan  Indonesia,420.0
+184140061,id_ID,1990.0,male,375460,Bangko  Jambi  Indonesia,420.0
+1747091728,id_ID,1997.0,male,374715,Medan  Indonesia,450.0
+2436252940,es_LA,1994.0,female,375478,Santo Domingo  Dominican Republic,480.0
+1214006960,en_US,1990.0,male,375389,Santa Clarita  California,-420.0
+576776993,en_US,1993.0,female,374202,,-420.0
+2543824082,id_ID,1992.0,male,375344,Sibolga,420.0
+2593432040,en_US,1994.0,female,375463,Flacq  Flacq  Mauritius,240.0
+3043291654,id_ID,1997.0,male,375389,Jakarta  Indonesia,420.0
+2571895925,en_US,1987.0,female,374643,San Francisco  California,-480.0
+2480747202,en_US,1989.0,female,375484,Phnom Penh,420.0
+887085722,id_ID,1995.0,male,374792,Medan  Indonesia,420.0
+734292380,es_LA,1977.0,male,375578,Ontario  California,-480.0
+943483502,en_US,1992.0,female,375682,,120.0
+507847098,id_ID,1995.0,male,375177,Medan  Indonesia,420.0
+1236336671,en_US,1966.0,male,375439,Phnom Penh,510.0
+3998399905,en_US,1996.0,female,375775,Soroako,420.0
+3297493554,en_US,1975.0,female,374498,Barrie  Ontario,-300.0
+2436389418,id_ID,1991.0,female,375015,Medan  Indonesia,420.0
+769376177,id_ID,1989.0,male,375116,Medan  Indonesia,420.0
+80379054,it_IT,1985.0,male,375910,Turin  Italy,60.0
+1732120655,id_ID,1995.0,male,374771,Medan  Indonesia,420.0
+2975026524,en_US,1959.0,male,374645,Ottawa  Ontario,-300.0
+3469589500,id_ID,1994.0,female,374772,Medan  Indonesia,420.0
+363577443,en_US,1966.0,female,373719,,-240.0
+38985694,en_US,1986.0,male,375935,Los Angeles  California,-480.0
+2249748129,en_US,1986.0,female,374965,Hamilton  Ontario,-300.0
+4067602271,id_ID,1998.0,male,375274,Medan  Indonesia,-630.0
+2458068456,fr_FR,1996.0,female,375489,Curepipe  Mauritius,240.0
+4020164258,id_ID,1992.0,female,375564,Balige  Sumatera Utara  Indonesia,420.0
+3643380555,es_ES,1997.0,female,375428,Santo Domingo  Dominican Republic,-240.0
+475620820,en_US,1990.0,male,375402,Long Beach  CA,-480.0
+4151484001,id_ID,1984.0,male,375422,Jayapura  Indonesia,540.0
+517357553,en_US,1991.0,male,372840,,180.0
+4152805025,en_US,1977.0,male,375497,Simi Valley  California,480.0
+2345460195,id_ID,1996.0,male,375376,Medan  Indonesia,420.0
+261990895,es_LA,1974.0,male,375542,Santo Domingo  Dominican Republic,-480.0
+1951340806,en_US,1990.0,male,375338,Multan,300.0
+3193929919,es_LA,1913.0,female,375759,Santo Domingo  Dominican Republic,-240.0
+895967408,en_US,1981.0,male,374759,San Francisco  California,-480.0
+4257951883,en_US,1983.0,male,374928,Manila  Philippines,480.0
+3223036396,id_ID,1987.0,male,374803,Medan  Indonesia,420.0
+2074086523,id_ID,1991.0,male,375329,Medan  Indonesia,420.0
+2978622176,en_US,1996.0,male,375418,Bel Air  Flacq  Mauritius,240.0
+3178723259,en_US,1978.0,male,375180,Seoul  11,540.0
+1619453117,id_ID,1995.0,male,374771,Medan  Indonesia,420.0
+2360121322,en_US,1995.0,female,375565,Phnom Penh,420.0
+3826739942,en_US,1992.0,female,375457,Phnom Penh,420.0
+749467696,en_US,1973.0,female,373250,,-420.0
+2265899995,en_US,1975.0,male,375377,Curepipe  Mauritius,240.0
+985547042,en_US,1990.0,male,375731,Phnom Penh,420.0
+1025593498,es_ES,1992.0,female,374662,Los Angeles  California,-300.0
+986039272,id_ID,1992.0,male,375254,Medan  Indonesia,-240.0
+2261578513,en_US,1987.0,female,375481,Banda Aceh  Indonesia,420.0
+2129690960,id_ID,1994.0,male,375413,Jokjakarta  Yogyakarta  Indonesia,420.0
+2022308068,id_ID,1994.0,female,375390,Yogyakarta,420.0
+3773947618,id_ID,1984.0,male,375421,Jogjakarta  Indonesia,420.0
+3466521212,en_US,1971.0,female,374612,San Francisco  California,-480.0
+2791232352,en_US,1991.0,female,375417,Banda Aceh  Indonesia,420.0
+691831024,en_US,1994.0,male,375689,Phnom Pen  Phnum Penh  Cambodia,420.0
+3500240032,en_US,1990.0,male,375488,,420.0
+609630180,en_US,1992.0,male,376297,Los Angeles  California,-480.0
+4052225912,en_US,1977.0,male,375490,Phnom Penh,420.0
+2761872404,en_US,1985.0,male,375883,San Diego  California,-480.0
+2054531858,en_US,1984.0,female,376126,Aberdeen,-360.0
+1785235519,id_ID,1998.0,male,375199,Medan  Indonesia,420.0
+2054648409,id_ID,1994.0,male,375449,Medan  Indonesia,420.0
+2712853779,id_ID,1992.0,male,375388,Djokja  Yogyakarta  Indonesia,420.0
+724483958,en_US,1984.0,female,375332,Thimphu  Bhutan,60.0
+429489211,id_ID,1992.0,male,375371,Palembang,420.0
+4238321438,en_US,1991.0,female,375584,Batac  Ilocos Norte,480.0
+2281560980,en_US,1989.0,male,375540,  ,420.0
+3799854455,id_ID,1995.0,male,374242,,420.0
+3866177358,id_ID,1993.0,male,375317,Bandung  Indonesia,420.0
+4005604348,en_US,1993.0,male,374768,Battambang,420.0
+639250885,en_US,1994.0,male,375019,Medina  Saudi Arabia,180.0
+637505307,en_US,1992.0,female,374327,Phoenix  Arizona,-420.0
+1876906939,en_US,1988.0,male,374981,Bangalore  India,330.0
+3036141956,id_ID,1997.0,male,374600,Medan  Indonesia,-420.0
+3866909611,en_US,1983.0,male,376122,Liverpool  H8,
+2271406145,id_ID,1992.0,male,375363,Yogyakarta,420.0
+127904873,id_ID,1990.0,male,375074,Medan  Indonesia,420.0
+809834239,id_ID,1995.0,male,374707,Medan  Indonesia,-420.0
+1649320589,id_ID,1992.0,male,375452,Paris  France,420.0
+296126900,id_ID,1990.0,male,375420,Los Angeles  California,420.0
+1372842685,en_US,1994.0,female,375464,Phnom Penh,-480.0
+571210795,en_US,1987.0,female,375432,Yogyakarta,420.0
+3799386472,zh_CN,1989.0,female,375666,Guangzhou  China,-480.0
+1312400822,en_US,1971.0,male,375396,San Francisco  California,-480.0
+2014445987,en_GB,1992.0,female,375985,Semarang  Indonesia,420.0
+1679420385,id_ID,1994.0,male,375424,Medan  Indonesia,420.0
+1072041355,id_ID,1995.0,male,374630,Medan  Indonesia,420.0
+763143562,en_US,1991.0,female,375364,Bantoel  Yogyakarta  Indonesia,420.0
+3647725503,id_ID,1996.0,male,374907,Medan  26,420.0
+3037654114,es_LA,1994.0,female,375479,Santo Domingo  Dominican Republic,-240.0
+645414373,en_US,1994.0,male,376065,Quetta  02,300.0
+1540298318,en_US,1991.0,male,376476,Torrance  CA,300.0
+567534910,en_US,1991.0,male,375245,Wellesley  Massachusetts,-300.0
+4118821425,id_ID,1986.0,male,375394,Yogyakarta,420.0
+4206209185,en_US,1994.0,male,375463,Phnom Penh,420.0
+4196666928,en_US,1992.0,male,375444,Phnom Penh,420.0
+3941958556,en_US,1994.0,male,375160,Bandung  Indonesia,420.0
+3467219840,en_GB,1989.0,male,375426,Port Louis  Mauritius,240.0
+358368837,id_ID,1995.0,male,375421,Sibolga,420.0
+344906444,id_ID,1991.0,female,375318,Medan  Indonesia,420.0
+1741814612,es_LA,1994.0,male,375429,Santo Domingo  Dominican Republic,-240.0
+351713549,id_ID,1995.0,male,375610,London  United Kingdom,420.0
+616227847,id_ID,1991.0,male,375390,Yogyakarta,420.0
+386145959,en_US,1980.0,female,373994,,-240.0
+1170938005,id_ID,1991.0,female,375324,Yogyakarta,420.0
+81458678,en_US,1976.0,male,372816,,-480.0
+2223714757,en_US,1996.0,female,375369,Flacq  Flacq  Mauritius,240.0
+171842881,id_ID,1994.0,male,374864,Medan  Indonesia,420.0
+3098511794,id_ID,1994.0,male,375366,Medan  Indonesia,420.0
+3118355226,id_ID,1991.0,male,375349,Yogyakarta,420.0
+1612038297,en_US,1979.0,male,376117,Los Angeles  CA,-480.0
+185422302,id_ID,1995.0,male,375557,Yogyakarta,420.0
+4136285322,en_US,1995.0,female,375379,Centre de Flacq  Mauritius,240.0
+564641393,id_ID,1995.0,male,375445,Medan  Indonesia,420.0
+3091527231,id_ID,1980.0,female,375245,Medan  Indonesia,420.0
+1625530935,en_US,1985.0,female,375452,Philadelphia  Pennsylvania,-300.0
+2127416756,id_ID,1991.0,male,375429,Pematangsiantar,-420.0
+2495407859,es_ES,1976.0,female,375474,Santo Domingo  Dominican Republic,-240.0
+4075574010,id_ID,1992.0,male,375833,Depok Dua Timur  Jawa Barat  Indonesia,420.0
+1304554072,en_US,1994.0,female,374712,Hacienda Heights  California,-420.0
+2441936878,en_US,1992.0,male,374804,Los Angeles  California,-480.0
+2701755218,en_US,1984.0,male,375448,Delhi  07,330.0
+2203000569,id_ID,1989.0,male,375457,Jogjakarta  Indonesia,420.0
+3622262372,id_ID,1994.0,female,374722,Medan  Indonesia,420.0
+4247824186,id_ID,1995.0,male,374799,Medan  Indonesia,-420.0
+3617843828,en_GB,1990.0,male,375460,Phnom Pen  Phnum Penh  Cambodia,420.0
+1296420014,id_ID,1998.0,female,374858,Jakarta  04,420.0
+3654861045,id_ID,1991.0,female,375131,Medan  Indonesia,420.0
+2659357596,id_ID,1995.0,female,374623,Medan  Indonesia,420.0
+246547106,jv_ID,1990.0,male,375543,Djokja  Yogyakarta  Indonesia,420.0
+1164338332,id_ID,1995.0,female,375915,Bantoel  Yogyakarta  Indonesia,
+143093592,ru_RU,1989.0,male,375260,Kyiv  Ukraine,180.0
+2162823560,en_US,1992.0,male,376118,Lahore  04,300.0
+3843287866,id_ID,1993.0,male,374764,Medan  Indonesia,420.0
+1369743769,id_ID,1994.0,female,375327,Yogyakarta,420.0
+1301945337,en_US,1993.0,male,375448,Phnom Pen  Phnum Penh  Cambodia,420.0
+4133514703,id_ID,1992.0,male,374719,Medan  Indonesia,420.0
+1421630185,en_US,1986.0,male,375436,Phnom Penh,420.0
+661151794,en_US,1989.0,male,374235,,-480.0
+3276463946,id_ID,1991.0,male,374832,Medan  Indonesia,420.0
+3670434254,en_US,1995.0,female,375446,Phnom Penh,420.0
+528218683,en_GB,1979.0,male,375447,Phnom Penh  11,420.0
+1127657981,en_US,1988.0,male,375556,Haveli  Punjab  Pakistan,300.0
+1522287705,es_ES,1969.0,female,375480,Santo Domingo  05,480.0
+3922819697,id_ID,1989.0,male,374698,Jakarta  Indonesia,420.0
+568409249,id_ID,1998.0,female,374749,Medan  Indonesia,270.0
+3084096535,es_ES,1997.0,female,375373,Santo Domingo  Dominican Republic,-360.0
+3894667987,en_US,1993.0,female,375464,Trou Aux Biches  Pamplemousses  Mauritius,240.0
+479907067,en_US,1940.0,female,375334,San Francisco  California,-480.0
+2381922770,en_US,1980.0,female,374802,San Francisco  California,-480.0
+3833491880,id_ID,1993.0,female,374717,Medan  Indonesia,420.0
+265682801,id_ID,1990.0,male,375396,Manila  Philippines,420.0
+3981819420,id_ID,1995.0,male,375446,Pekanbaru,420.0
+3616798795,en_US,1985.0,female,375215,Los Angeles  California,-480.0
+23170479,id_ID,1995.0,male,374718,Medan  Indonesia,420.0
+82923911,en_US,1988.0,female,375396,Yogyakarta,420.0
+3427263623,id_ID,1996.0,male,375421,Jombang  Jawa Timur  Indonesia,420.0
+3167658465,id_ID,1995.0,male,374524,Medan  Indonesia,420.0
+1531475209,id_ID,1991.0,female,375335,Surabaya  08,420.0
+1090447281,en_US,1984.0,female,374606,New Haven  Connecticut,-420.0
+1895679477,fr_FR,1994.0,female,375756,Moka  Mauritius,240.0
+873272013,id_ID,1990.0,female,374984,Medan  Indonesia,420.0
+98054194,id_ID,1991.0,female,375388,Yogyakarta,420.0
+2789880308,en_US,1992.0,male,375382,Surabaya,420.0
+770526360,en_US,1994.0,female,375479,Phnom Penh,420.0
+3504868122,id_ID,1992.0,female,375277,Palembang  Indonesia,420.0
+792037916,id_ID,1994.0,male,374722,Takengon  Aceh  Indonesia,420.0
+2957852218,en_US,1985.0,male,375429,Los Angeles  CA,-480.0
+931677473,id_ID,1993.0,male,376084,Los Angeles  California,420.0
+2643058163,ko_KR,1987.0,female,375749,Phnom Pen  Phnum Penh  Cambodia,420.0
+1804164018,en_GB,1997.0,female,375475,Quatre Bornes  17,240.0
+2703461171,en_US,1992.0,male,375879,Phnom Penh,420.0
+1566021834,es_ES,1996.0,female,375666,Santo Domingo  Dominican Republic,300.0
+2884249863,id_ID,1998.0,male,374746,Medan  Indonesia,420.0
+3365642090,es_LA,1994.0,male,375460,Santo Domingo  Dominican Republic,-120.0
+728332848,en_US,1989.0,male,374300,,-420.0
+2205536033,en_US,1998.0,female,374951,Pacoima  CA,-480.0
+3338812734,en_US,1991.0,female,375055,Los Angeles  California,-420.0
+2842187594,en_US,1981.0,female,375490,Phnom Penh  11,420.0
+1075504486,es_ES,1997.0,male,375429,Santo Domingo  Dominican Republic,-240.0
+4275037038,id_ID,1985.0,male,374762,Medan  Indonesia,420.0
+193113796,ru_RU,1990.0,male,374327,New Kingston  Saint Andrew  Jamaica,-240.0
+2456225582,en_GB,1984.0,female,375862,Toronto  Ontario,-270.0
+2590409583,en_US,1989.0,male,375411,Jakarta  Indonesia,420.0
+3505202339,id_ID,1997.0,female,374670,Medan  26,420.0
+2791418962,es_LA,1997.0,female,375431,Santo Domingo  05,-240.0
+3044183470,id_ID,1994.0,male,375747,Bekasi,420.0
+1668862262,id_ID,1977.0,male,375488,Djokja  Yogyakarta  Indonesia,420.0
+431015679,id_ID,1990.0,male,374803,Medan  Indonesia,420.0
+2954668845,en_US,1987.0,female,375339,  ,480.0
+2584536356,en_US,1992.0,female,375306,London  ON,-300.0
+1821733300,id_ID,1982.0,female,374816,Medan  Indonesia,420.0
+3165928866,en_US,1990.0,female,374835,Medan  Indonesia,420.0
+666534021,en_US,1990.0,female,374584,Waterbury  Connecticut,-300.0
+3427056824,en_GB,1992.0,female,375447,Yogyakarta,420.0
+2473747678,id_ID,1994.0,male,375685,Medan  Indonesia,420.0
+1018886228,id_ID,1995.0,female,375126,Medan  Indonesia,420.0
+3898478698,id_ID,1994.0,male,374896,Medan  Indonesia,420.0
+996222490,ar_AR,1993.0,male,374772,  ,180.0
+2444212053,es_ES,1997.0,female,375380,Santo Domingo  Dominican Republic,-240.0
+2630238456,en_US,1996.0,female,375481,Phnom Penh,-480.0
+2571348801,en_US,1996.0,male,375484,Phnom Penh,420.0
+1966851184,en_US,1980.0,male,375322,Islamabad  Pakistan,300.0
+2467980416,en_US,1993.0,male,374852,Medan  Indonesia,420.0
+1091746693,id_ID,1994.0,male,374789,Medan  Indonesia,420.0
+2962659545,en_US,1993.0,female,375587,  ,420.0
+3338007773,id_ID,1990.0,male,375571,Bantoel  Yogyakarta  Indonesia,420.0
+2312878118,id_ID,1997.0,female,374742,Medan  Indonesia,420.0
+2285462405,en_US,1993.0,male,375462,Phnom Penh,420.0
+3474900298,en_GB,1989.0,male,374533,Ottawa  Ontario,-240.0
+1615303306,id_ID,1994.0,male,374642,Medan  Indonesia,420.0
+677234912,en_US,1989.0,female,374660,Venice  California,-420.0
+2609061039,en_US,1994.0,male,375540,Phnom Penh  11,420.0
+1917038415,ar_AR,1987.0,male,375353,  ,180.0
+3391264132,en_US,1991.0,male,375458,Phnom Penh,420.0
+1507678209,en_US,,male,370990,,-240.0
+3388914512,en_US,1980.0,male,372148,,-240.0
+3043278753,id_ID,1996.0,female,374749,Medan  Indonesia,420.0
+914476369,en_US,1989.0,male,375841,Phnom Penh,420.0
+460608021,en_US,,male,371016,,-300.0
+2971846635,en_US,1993.0,female,374610,New Haven  Connecticut,-300.0
+1339643555,id_ID,1991.0,female,375373,Jakarta  04,420.0
+2248506579,en_US,1988.0,female,375461,Yogyakarta,420.0
+2291885035,id_ID,1996.0,female,375366,Medan  Indonesia,420.0
+3193697919,id_ID,1990.0,male,375489,Semarang  Indonesia,420.0
+481236042,en_US,1982.0,male,374566,San Francisco  California,-480.0
+1923507186,en_US,1997.0,male,375438,,240.0
+605378672,id_ID,1988.0,male,375448,Yogyakarta,420.0
+2243396544,en_GB,1978.0,male,374607,Toronto  Ontario,-300.0
+2626409021,en_US,1971.0,male,373980,,-300.0
+612098420,en_US,1981.0,male,371284,,-240.0
+3404441712,en_US,1995.0,female,375490,Phnom Penh,420.0
+3594731327,id_ID,1991.0,male,375474,Yogyakarta,-300.0
+38974975,id_ID,1998.0,female,374775,Medan  Indonesia,660.0
+1625116475,ka_GE,1974.0,female,375654,Tbilisi  Georgia,240.0
+1134784132,id_ID,1988.0,male,374579,Medan  Indonesia,420.0
+3903823612,id_ID,1992.0,female,374863,Jakarta  Indonesia,420.0
+3157328676,id_ID,1992.0,female,375377,Yogyakarta,450.0
+3657701087,en_US,1980.0,male,375167,Lakewood  California,-420.0
+2319889082,id_ID,1994.0,male,375124,Medan  Indonesia,420.0
+2844491503,en_US,1988.0,male,375512,  ,210.0
+3348417635,id_ID,1997.0,female,374765,Medan  Indonesia,420.0
+3326031604,en_US,1989.0,male,375455,Phnom Penh  11,420.0
+2766172404,id_ID,1990.0,male,374580,Medan  Indonesia,600.0
+2936324533,en_US,1981.0,female,372193,,-240.0
+2343762978,id_ID,1994.0,male,375465,Tanjungbalai  Sumatera Utara  Indonesia,420.0
+2677559053,id_ID,1998.0,female,374820,Medan  26,420.0
+2928822295,en_US,1988.0,male,375372,Flacq  Flacq  Mauritius,240.0
+916547437,en_US,1987.0,male,375488,undefined  undefined,-300.0
+3052191172,id_ID,1996.0,male,375347,Kota  Riau  Indonesia,-570.0
+3527940337,id_ID,1995.0,female,375439,Kuala Lumpur  Malaysia,420.0
+1703562892,es_ES,1994.0,female,375379,Santo Domingo  Dominican Republic,-180.0
+395305791,en_US,1975.0,female,375312,Los Angeles  California,-480.0
+2862718608,en_US,1987.0,male,375375,  ,300.0
+2212919969,id_ID,1994.0,male,374789,Medan  Indonesia,420.0
+469837401,en_US,1989.0,female,375140,San Jose  California,-480.0
+441391794,en_US,1988.0,female,375488,Phnom Penh,420.0
+4135589149,id_ID,1992.0,female,375001,Medan  Indonesia,420.0
+1467007408,en_US,1993.0,male,375329,Jokjakarta  Yogyakarta  Indonesia,540.0
+651240040,id_ID,1991.0,male,375310,Padangsidimpuan  Sumatera Utara  Indonesia,420.0
+3300092451,en_US,1992.0,male,374845,Medan  Indonesia,420.0
+3963277827,en_US,1992.0,male,375660,Los Angeles  California,60.0
+3697489067,id_ID,1993.0,male,374967,Medan  Indonesia,420.0
+3350047181,en_US,1984.0,male,376158,Irvine  California,-480.0
+3176074542,en_US,1993.0,female,374118,,-420.0
+555384690,en_US,1986.0,female,375289,San Francisco  California,-480.0
+2315042356,en_US,1984.0,male,376287,Manila  Philippines,-480.0
+715159059,id_ID,1993.0,female,374815,Medan  Indonesia,420.0
+3724535659,en_US,1994.0,female,375470,Phnom Penh,420.0
+3148555709,id_ID,1997.0,male,374629,Medan  Indonesia,420.0
+1160667975,en_US,1991.0,male,375489,Phnom Pen  Phnum Penh  Cambodia,420.0
+4246010516,id_ID,1997.0,male,374958,Medan  Indonesia,390.0
+2199467633,en_GB,1994.0,male,375441,Phnom Penh,420.0
+2501052021,id_ID,1998.0,female,374749,Bekasi,420.0
+1346837558,pt_BR,1994.0,female,374738,Cachoeirinha,-180.0
+4024104633,en_US,1983.0,male,375491,Redondo Beach  California,-300.0
+1073821707,id_ID,1995.0,male,374655,Medan  Indonesia,420.0
+3360609244,en_US,1992.0,male,374854,London  Ontario,-300.0
+965181412,zh_CN,1988.0,female,375752,Stanford  California,-480.0
+681315287,en_US,1992.0,male,374586,Shelton  Connecticut,-240.0
+2890467561,id_ID,1989.0,male,374802,Medan  Indonesia,420.0
+1541756008,id_ID,1991.0,female,375133,DKI Jakarta,420.0
+166685992,id_ID,1991.0,male,375396,Yogyakarta,420.0
+72298333,en_US,1990.0,male,375462,Phnom Penh,420.0
+2278013791,en_US,1994.0,male,375660,American Canyon  California,60.0
+320000323,en_US,1991.0,male,373061,,270.0
+3005728385,en_US,1968.0,female,376132,Dallas  Texas,-360.0
+3956190115,id_ID,1995.0,male,375727,Jakarta  Indonesia,420.0
+2856937853,id_ID,1992.0,male,375482,Medan  Indonesia,420.0
+3970825989,ar_AR,1986.0,male,376071,  ,270.0
+3053992683,en_US,1981.0,male,375896,Hayward  CA,-480.0
+934187073,en_US,1985.0,male,375659,Los Angeles  CA,-480.0
+2858760089,en_US,1980.0,male,375193,Los Angeles  California,-480.0
+4156731925,id_ID,1989.0,male,375182,Medan  Indonesia,420.0
+2768250886,fr_FR,1997.0,male,375443,Casablanca  45,60.0
+2963121670,id_ID,1986.0,male,375387,Yogyakarta,420.0
+2490559498,en_US,1974.0,male,374666,Milton  Ontario,-300.0
+2995967526,es_LA,1942.0,male,374569,Caracas  Venezuela,-240.0
+1873687001,en_US,1995.0,male,375461,Phnom Penh  11,420.0
+3945099542,en_GB,1994.0,male,376151,Los Angeles  California,-480.0
+2062768867,es_LA,1994.0,female,375549,Cruce De Guayacanes  Valverde  Dominican Republic,480.0
+630652349,en_PI,1996.0,male,376165,Battamban  Batdambang  Cambodia,150.0
+3389773360,id_ID,1998.0,male,374886,Medan  Indonesia,420.0
+272165392,id_ID,1993.0,male,375398,Pekanbaru,420.0
+4285564534,id_ID,1995.0,male,374808,Bekasi,420.0
+2463413235,en_US,1993.0,male,374759,Los Angeles  California,-510.0
+28806872,id_ID,1995.0,male,375543,Yogyakarta,420.0
+1747573617,id_ID,1994.0,male,374695,Medan  Indonesia,420.0
+4055395044,id_ID,1992.0,male,374837,Madrid  Spain,420.0
+2090888096,es_ES,1990.0,female,375475,Santo Domingo  Dominican Republic,-300.0
+4108811510,en_US,1989.0,male,375462,Phnom Penh,510.0
+2153152806,id_ID,1996.0,female,375150,Medan  Indonesia,420.0
+2378571713,en_US,1993.0,female,375976,Pailles Village  Moka  Mauritius,240.0
+1037260580,en_US,1993.0,male,375486,Phnom Penh,420.0
+1104375072,en_US,1986.0,female,375904,Toronto  Ontario,-300.0
+3676872343,es_ES,1993.0,male,375454,Santo Domingo  Dominican Republic,-240.0
+608372256,id_ID,1994.0,female,374763,Medan  Indonesia,420.0
+853658665,fr_FR,1987.0,male,375683,  ,
+1598750229,en_US,1993.0,male,375489,Phnom Penh,420.0
+712040216,en_GB,1995.0,male,375551,Phnom Penh  11,420.0
+1295003824,id_ID,1988.0,female,374705,  ,420.0
+2761832946,id_ID,1992.0,male,375488,Yogyakarta,420.0
+3108358241,en_US,1963.0,female,375143,Woodland Hills  California,-480.0
+4178291537,fr_FR,1991.0,male,374851,Hollywood  California,120.0
+3244067756,id_ID,1991.0,male,375424,Medan  26,420.0
+765240064,en_GB,1988.0,male,375945,Los Angeles  California,-480.0
+700438783,en_US,1991.0,female,375487,Phnom Penh  11,420.0
+1228133573,en_US,1991.0,male,375445,Phnom Penh  11,420.0
+3943175229,en_GB,1966.0,female,372924,,-300.0
+653909548,en_US,1984.0,male,374139,,-300.0
+1615717851,en_US,1983.0,male,372700,,-300.0
+419456233,id_ID,1994.0,female,375441,Purworejo  Jawa Tengah  Indonesia,60.0
+336493147,id_ID,1994.0,male,374603,Bekasi,420.0
+2217853337,en_US,1993.0,male,374608,Derby  Connecticut,-300.0
+328922601,es_LA,1987.0,male,375278,Murcia  Murcia,60.0
+900897870,en_GB,1995.0,female,375657,Fond du Sac  Mauritius,240.0
+1117272184,en_US,1957.0,male,374295,,-300.0
+1586029420,es_ES,1990.0,female,376177,Santo Domingo  05,-240.0
+1912698965,en_US,1967.0,male,370652,,-480.0
+1234792409,id_ID,1989.0,male,375092,Medan  Indonesia,420.0
+3123712598,en_US,1988.0,female,375487,Phnom Penh,420.0
+883237232,en_US,1998.0,female,376407,High Point  North Carolina,-300.0
+1711604959,en_US,1988.0,male,375714,Phnom Penh  11,420.0
+3459927853,en_US,1983.0,male,375487,Phnom Penh  11,420.0
+3456890538,en_US,1993.0,male,374633,Bogor  Indonesia,420.0
+3926920467,id_ID,1990.0,male,375395,Djokja  Yogyakarta  Indonesia,420.0
+1543462230,id_ID,1995.0,male,374799,Jogjakarta  Indonesia,420.0
+4226575687,id_ID,1992.0,female,374821,Sibolga,420.0
+1350285710,es_ES,1996.0,female,375697,Bajos De Haina  San Cristobal  Dominican Republic,-180.0
+210626346,en_US,1993.0,male,375624,Huntington Beach  California,-480.0
+1541564886,en_US,1993.0,male,375444,Phnom Penh  11,420.0
+1579613783,en_GB,1988.0,female,374518,New Haven  Connecticut,-300.0
+1625052108,en_US,1980.0,male,372484,,-480.0
+3681459280,en_US,1989.0,female,375486,Phnom Penh,420.0
+3172189947,id_ID,1996.0,female,375314,Medan  26,420.0
+374950100,id_ID,1995.0,male,375214,Bekasi,420.0
+2337052402,en_US,1992.0,male,374418,Phoenix  AZ,-420.0
+2818464367,en_US,1977.0,male,375426,Port Louis  Mauritius,240.0
+2690867178,id_ID,1993.0,male,375855,Yogyakarta,60.0
+2063714458,id_ID,1993.0,male,375376,Yogyakarta,420.0
+515567373,es_LA,1987.0,male,376269,Anaheim  California,-480.0
+608310969,id_ID,1992.0,male,374795,Medan  Indonesia,420.0
+3194014105,id_ID,1987.0,male,374753,Medan  Indonesia,690.0
+411205694,en_US,1987.0,female,375442,Phnom Pen  Phnum Penh  Cambodia,420.0
+4261340176,en_US,1982.0,male,374875,San Francisco  California,-420.0
+3804509987,en_US,1987.0,male,374608,Rochester  New York,-300.0
+242262473,id_ID,1994.0,female,375392,Medan  Indonesia,420.0
+3350877536,id_ID,1983.0,male,375363,Jakarta  Indonesia,420.0
+3196759129,en_US,1992.0,female,372287,,-420.0
+570405433,id_ID,1993.0,male,375584,Sibolga,420.0
+3732091250,id_ID,1994.0,male,375388,San Francisco  CA,420.0
+3669515588,id_ID,1997.0,male,374793,Medan  Indonesia,420.0
+1233774081,id_ID,1997.0,female,375420,Medan  Indonesia,420.0
+3231004341,id_ID,1996.0,male,375177,Medan  Indonesia,420.0
+947750317,es_LA,1996.0,female,375373,Santiago De Los Caballeros  Santiago  Dominican Republic,-240.0
+2937013787,en_US,1994.0,male,375868,Santa Clara  California,-480.0
+88554519,id_ID,1992.0,female,375466,Djokja  Yogyakarta  Indonesia,420.0
+1221271987,id_ID,1996.0,male,375442,Jombang  Jawa Timur  Indonesia,420.0
+111840914,id_ID,1997.0,male,374798,Medan  Indonesia,420.0
+2766269208,es_LA,1996.0,male,375743,Santo Domingo  Dominican Republic,-360.0
+2156846040,en_US,1994.0,male,375445,Phnom Penh,420.0
+1871580056,en_US,1986.0,male,375480,Phnom Pen  Phnum Penh  Cambodia,420.0
+1027250316,en_US,1991.0,female,374311,Glendale  Arizona,-480.0
+2577093097,en_US,1988.0,male,374914,Anaheim  CA,-480.0
+1452056386,id_ID,1995.0,female,375080,Medan  Indonesia,420.0
+1823716058,en_US,1990.0,male,375710,Los Angeles  California,-480.0
+1640786388,es_ES,1992.0,female,375427,Santo Domingo  05,-180.0
+2925400415,en_US,1992.0,male,374770,Medan  Indonesia,420.0
+1737429301,en_GB,1984.0,male,374223,,-300.0
+4057602883,en_US,1968.0,male,374830,Oakland  California,-480.0
+2166518457,id_ID,1990.0,male,374803,Medan  Indonesia,420.0
+2314166008,fr_FR,1993.0,male,375490,Port Louis  Mauritius,240.0
+447244169,ro_RO,1988.0,male,374814,Los Angeles  California,60.0
+1289232847,id_ID,1996.0,male,374838,Medan  Indonesia,420.0
+3147626282,en_US,1991.0,female,374254,,-480.0
+2286248913,id_ID,1991.0,male,375425,Kalasan  Yogyakarta  Indonesia,420.0
+2222162186,id_ID,1994.0,female,374798,Jakarta  Indonesia,120.0
+4207448575,en_US,,male,371437,,-300.0
+3253822509,en_US,1994.0,male,376335,Pasadena  CA,-480.0
+3076967009,id_ID,1995.0,female,375437,Yogyakarta,390.0
+2425859426,en_US,1992.0,male,376194,Quetta  Pakistan,300.0
+3464554032,id_ID,1993.0,female,374867,Medan  Indonesia,-300.0
+1150230846,en_US,1988.0,male,374619,Ottawa  Ontario,-240.0
+1101021964,id_ID,1996.0,female,374813,Medan  Indonesia,-420.0
+3480044787,en_US,1973.0,female,374699,Fredericton  New Brunswick,-240.0
+2254327912,en_GB,1986.0,female,372703,,180.0
+681010476,fr_FR,1997.0,male,375463,Trou D'Eau Douce  Flacq  Mauritius,240.0
+3779883288,id_ID,1994.0,female,375357,Cilacap  Jawa Tengah  Indonesia,420.0
+326930040,en_US,1973.0,male,373097,,-300.0
+3418659271,en_US,1970.0,male,373516,,-240.0
+1749528606,en_US,1995.0,male,375439,Los Angeles  California,240.0
+2080715583,en_US,1979.0,male,374437,Mississauga  Ontario,-300.0
+3115928657,km_KH,1993.0,male,375485,Phnom Penh  11,420.0
+3205053921,id_ID,1996.0,male,374670,Medan  Indonesia,420.0
+1985852583,en_US,1992.0,male,375445,Phnom Penh,420.0
+3877440809,id_ID,1996.0,female,375636,Cirebon,420.0
+4199616576,id_ID,1992.0,male,375106,Medan  Indonesia,420.0
+1066906993,en_US,1990.0,male,374524,Hoboken  New Jersey,-300.0
+3822987687,en_GB,1995.0,male,375459,Phnom Penh,420.0
+1264179509,en_US,1905.0,male,375346,Kotagede  Yogyakarta  Indonesia,420.0
+3587335204,id_ID,1990.0,male,375932,Medan  Indonesia,420.0
+2694023881,id_ID,1993.0,female,375364,Jakarta  Indonesia,420.0
+2446596885,en_US,1988.0,male,376118,Torrance  CA,300.0
+2282422131,en_US,1989.0,male,375756,Phnom Penh  11,420.0
+2954864792,en_US,1988.0,female,371714,,-300.0
+2727600790,es_ES,1987.0,male,376082,Los Angeles  California,-480.0
+3793812304,id_ID,1993.0,female,374798,Medan  Indonesia,420.0
+167200370,id_ID,1992.0,female,375438,Tabanan  02,420.0
+292529766,en_US,1991.0,male,374488,Lukachukai  AZ,-420.0
+4286635694,en_US,1984.0,male,376282,Los Angeles  California,120.0
+4145252615,id_ID,1993.0,male,375365,Yogyakarta,420.0
+306153925,id_ID,1990.0,male,375490,Yogyakarta,420.0
+2648736219,en_GB,1995.0,female,375469,Yogyakarta,420.0
+220184636,fr_CA,1982.0,female,375107,,-240.0
+3253486500,en_US,1984.0,male,375258,Scottsdale  Arizona,-420.0
+785251375,id_ID,1967.0,female,374896,Medan  Indonesia,420.0
+1879459765,id_ID,1989.0,male,375435,Temanggung  Jawa Tengah  Indonesia,420.0
+1399383819,id_ID,1988.0,male,375814,Jakarta  Indonesia,420.0
+1109967945,en_US,1983.0,male,375168,Los Angeles  CA,-480.0
+1955766052,id_ID,1990.0,male,375426,Yogyakarta,420.0
+3734794530,en_US,1961.0,female,374819,Ottawa  Ontario,-300.0
+3475233110,en_US,1994.0,male,374807,Los Angeles  California,-420.0
+2338481531,en_US,1972.0,male,373115,,-240.0
+2711152367,en_GB,1989.0,female,375318,Djokja  Yogyakarta  Indonesia,420.0
+436392678,en_US,1991.0,male,375480,Phnom Penh,420.0
+1594431230,en_US,1992.0,male,375456,Phnom Penh  11,420.0
+1023717643,id_ID,1988.0,male,374811,Medan  Indonesia,420.0
+4206471336,en_US,1992.0,male,375485,Phnom Penh  11,420.0
+2483584418,id_ID,1995.0,male,374241,,420.0
+1437617088,en_US,1988.0,male,375488,Phnom Pen  Phnum Penh  Cambodia,420.0
+3833425001,en_US,1994.0,male,374420,Tucson  Arizona,-420.0
+1071319145,id_ID,1993.0,male,375463,Jakarta  04,420.0
+3778197718,en_US,1990.0,male,373273,,-240.0
+1422103142,en_GB,1992.0,female,375453,Phnom Penh,420.0
+589199943,id_ID,1992.0,male,374739,Siantar,420.0
+364700925,id_ID,1990.0,male,375541,Medan  Indonesia,420.0
+3069569833,en_US,1977.0,female,374825,San Francisco  California,-480.0
+2424565945,id_ID,1988.0,female,375559,Medan  Indonesia,420.0
+3021411633,id_ID,1989.0,female,375487,Surabaya  Indonesia,420.0
+4089111119,en_US,1973.0,female,374532,Toronto  Ontario,-300.0
+1374956141,en_US,1990.0,male,375588,Mataram,420.0
+2691223445,en_US,1984.0,male,375194,Los Angeles  California,-480.0
+3299562450,en_US,1994.0,female,374519,Bronx  NY,-240.0
+1374205441,ka_GE,1976.0,female,375485,Tbilisi  Georgia,240.0
+2342735753,id_ID,1993.0,female,374768,Medan  Indonesia,420.0
+3890676452,es_LA,1993.0,female,375374,Santo Domingo  Dominican Republic,60.0
+1996678705,en_US,1980.0,male,375883,San Pedro  CA,-480.0
+2883315236,id_ID,1992.0,male,375410,Yogyakarta,420.0
+1788256739,id_ID,1989.0,male,374726,Medan  Indonesia,420.0
+3668457471,id_ID,1995.0,male,375554,Medan  Indonesia,420.0
+2378242378,en_US,1982.0,male,375407,Los Angeles  California,-480.0
+4164388326,en_US,1989.0,female,375459,Djokja  Yogyakarta  Indonesia,420.0
+1548590231,es_LA,1996.0,male,375866,Santo Domingo  Dominican Republic,-240.0
+2621463744,id_ID,1994.0,male,374837,Medan  Indonesia,420.0
+419778061,id_ID,1992.0,male,374989,Medan  Indonesia,420.0
+3033728418,id_ID,1995.0,male,374839,Medan  Indonesia,420.0
+2023976924,id_ID,1995.0,male,374917,Medan  Indonesia,420.0
+338395830,en_US,1983.0,male,375987,Sierra Madre  California,-480.0
+2700330302,en_GB,1982.0,,375770,Toronto  Ontario,-300.0
+1832146052,id_ID,1989.0,male,374828,Medan  Indonesia,420.0
+1210853041,id_ID,1997.0,female,375344,Jombang  Jawa Timur  Indonesia,420.0
+3166414361,en_US,1991.0,female,374815,Medan  Indonesia,420.0
+2794470551,id_ID,1985.0,female,375985,Surakarta  07,420.0
+3435412352,en_US,1994.0,female,375162,Santa Fe Springs  California,-480.0
+3172450732,id_ID,1994.0,female,375108,Medan  Indonesia,420.0
+488389895,en_GB,1989.0,female,375365,Yogyakarta,420.0
+3833637800,id_ID,1981.0,male,375387,Medan  Indonesia,420.0
+811791433,en_US,1990.0,male,373009,,-300.0
+4293103086,id_ID,1993.0,female,375390,Yogyakarta  10,420.0
+2644266735,en_US,1986.0,male,375244,San Gabriel  California,-480.0
+489170488,en_US,1992.0,male,374136,,-300.0
+2254352523,en_US,1970.0,female,373477,,-240.0
+891035674,en_US,1969.0,female,374849,Gilbert  Arizona,-420.0
+567820539,en_US,1971.0,female,372973,,-240.0
+2495110802,id_ID,1995.0,male,374761,Medan  Indonesia,420.0
+1197154185,en_US,1981.0,male,374787,San Francisco  California,-480.0
+2451466347,id_ID,1992.0,male,375439,Cilacap  Jawa Tengah  Indonesia,420.0
+1123244794,en_US,1994.0,female,375487,  ,-480.0
+1540524189,id_ID,1994.0,male,374742,Medan  Indonesia,420.0
+2888420415,en_US,1951.0,female,375770,Toronto  Ontario,-300.0
+3511417249,en_US,1990.0,male,375486,Phnom Penh,420.0
+3289417890,en_US,1990.0,male,373049,,-240.0
+2329661605,id_ID,1998.0,female,375556,Kebumen  Jawa Tengah  Indonesia,420.0
+3096946503,en_US,1990.0,female,375291,Yogyakarta,-480.0
+2597201802,en_US,,female,374071,,-420.0
+1865714809,id_ID,1990.0,male,375436,Yogyakarta,420.0
+1911617585,id_ID,1989.0,male,375329,Yogyakarta,420.0
+1987194661,en_US,,male,371259,,-300.0
+2147677924,en_US,1969.0,male,373032,,-240.0
+2660754061,id_ID,1994.0,female,375920,Sibolga,420.0
+1462984861,en_US,1996.0,female,375391,Jakarta  Indonesia,420.0
+2522377610,ar_AR,1987.0,female,375986,  ,180.0
+95170590,id_ID,1996.0,male,374842,Korea  Puerto Rico,-60.0
+1017536864,id_ID,1995.0,male,375541,Medan  Indonesia,420.0
+85640691,en_US,1989.0,female,374304,Toronto  ON,-240.0
+3787931088,en_US,1991.0,male,375371,Yogyakarta,420.0
+374464774,id_ID,1995.0,male,374610,Medan  Indonesia,420.0
+3315282129,en_GB,1993.0,male,375444,Phnom Penh  11,420.0
+2746088407,en_US,1990.0,female,374557,Mount Vernon  NY,-240.0
+3968152684,en_US,1982.0,female,374559,Toronto  Ontario,-240.0
+723110955,en_US,1993.0,male,374711,Montebello  CA,-480.0
+818241254,en_US,1990.0,female,373123,,-240.0
+1666288434,id_ID,1994.0,male,374793,Medan  Indonesia,420.0
+1747042580,en_US,1978.0,female,373704,,-300.0
+1302145719,id_ID,1993.0,male,374725,Medan  Indonesia,420.0
+2694809416,id_ID,1990.0,male,374597,Medan  Indonesia,420.0
+351801772,en_US,1975.0,male,375361,Waianae  Hawaii,-600.0
+2792856754,id_ID,1993.0,male,374738,Medan  Indonesia,420.0
+3256961152,en_US,1994.0,male,375457,Phnom Pen  Phnum Penh  Cambodia,420.0
+1157924193,ka_GE,1993.0,male,375614,Tbilisi  Georgia,240.0
+4195660981,id_ID,1991.0,male,375661,Yogyakarta,420.0
+4190165036,id_ID,1993.0,male,374786,Medan  Indonesia,420.0
+1935452377,en_GB,1993.0,male,375367,Kampala  Uganda,180.0
+2624862533,en_GB,1992.0,female,375489,Phnom Penh,420.0
+71688472,en_US,1977.0,male,375931,Los Angeles  CA,-480.0
+2465513009,en_US,1986.0,male,373352,,-360.0
+1152125988,fr_FR,1990.0,female,375343,Bel Air  Flacq  Mauritius,240.0
+3310268237,en_US,1981.0,male,375445,Phnom Penh,420.0
+1101602207,id_ID,1995.0,female,375488,Jombang  Jawa Timur  Indonesia,420.0
+880096064,id_ID,1994.0,male,375948,Medan  Indonesia,420.0
+516353916,en_US,1991.0,male,375461,Phnom Penh,420.0
+437050836,es_LA,1999.0,male,375976,Santo Domingo  Dominican Republic,-300.0
+1528359455,id_ID,1995.0,male,375443,Medan  Indonesia,420.0
+1767855106,id_ID,1997.0,female,375627,Medan  Indonesia,-420.0
+51165908,id_ID,1997.0,male,375129,Medan  Indonesia,420.0
+1195601618,id_ID,1994.0,male,375341,Yogyakarta,420.0
+1404395751,id_ID,1998.0,male,374961,London  Ohio,420.0
+486884397,id_ID,1994.0,female,375439,Yogyakarta,420.0
+1150601139,en_US,1989.0,female,374641,Toronto  Ontario,-300.0
+687313787,en_US,1988.0,male,375384,Yogyakarta,420.0
+4122019703,es_ES,1997.0,female,375570,Santo Domingo  Dominican Republic,-240.0
+45139176,id_ID,1993.0,female,375391,Jogjakarta  Indonesia,420.0
+2244689014,id_ID,1994.0,female,375086,Medan  Indonesia,-300.0
+2634481972,en_US,1995.0,male,375460,Battambang,420.0
+1531339765,id_ID,1995.0,male,374575,DKI Jakarta,420.0
+1620608449,id_ID,1996.0,male,374812,Medan  Indonesia,420.0
+2353444142,en_US,1993.0,female,375583,Port Louis  Mauritius,240.0
+4000106370,en_US,1991.0,female,375458,New York  New York,-480.0
+3815063730,id_ID,1993.0,male,375396,Padang Sidempuan,420.0
+4197193550,en_US,1958.0,female,373955,,-480.0
+351313256,id_ID,1991.0,male,375357,Yogyakarta,420.0
+1304321680,id_ID,1993.0,female,374741,Medan  Indonesia,420.0
+3867241412,ms_MY,1996.0,male,375432,Jombang  Jawa Timur  Indonesia,420.0
+4201750807,es_ES,1992.0,male,375480,Santo Domingo  Dominican Republic,-240.0
+240018991,en_US,1994.0,male,375488,Phnom Pen  Phnum Penh  Cambodia,-300.0
+3093978794,en_US,1988.0,female,375474,La Flora  Savanne  Mauritius,240.0
+1287950172,en_GB,1984.0,female,375540,Phnom Penh,420.0
+677048573,en_US,1977.0,male,375430,Bantul,420.0
+2467409062,en_US,1996.0,female,375489,Paris  France,240.0
+3946163681,id_ID,1996.0,male,374750,Medan  Indonesia,420.0
+603763318,en_GB,1953.0,male,375471,Epsom,
+4205646791,id_ID,1991.0,male,375484,Yogyakarta,420.0
+4057542584,fa_IR,1983.0,male,376150,  ,210.0
+2332715028,en_US,1991.0,male,375486,Phnom Penh,420.0
+4141924620,es_ES,1997.0,female,375481,Santo Domingo  Dominican Republic,-240.0
+1761058217,id_ID,1991.0,male,375392,Yogyakarta,420.0
+2184501135,en_US,1988.0,male,375544,Phnom Pen  Phnum Penh  Cambodia,420.0
+3820521570,en_US,1994.0,male,374971,Miami  Florida,180.0
+3861090052,id_ID,1998.0,male,375438,Medan  Indonesia,510.0
+2295726157,ka_GE,1961.0,female,375654,Tbilisi  Georgia,240.0
+1420338074,id_ID,1994.0,female,374746,Medan  Indonesia,420.0
+2275313265,es_ES,1986.0,male,375885,Hollywood  California,-420.0
+321386359,id_ID,1998.0,male,374872,Medan  Indonesia,420.0
+3913824397,es_LA,1995.0,male,375450,Santo Domingo  Dominican Republic,420.0
+1386214900,en_GB,1987.0,male,372864,,-240.0
+2711982636,id_ID,1993.0,male,374745,Medan  Indonesia,420.0
+2810188071,en_GB,1976.0,male,375448,Phnom Penh,420.0
+4030798150,en_US,1995.0,female,375395,Palermo  Italy,240.0
+2286292570,id_ID,1986.0,male,374662,Jakarta  Indonesia,420.0
+1120323401,en_US,1994.0,male,375059,North Richmond  New South Wales  Australia,660.0
+4066782471,id_ID,1996.0,male,375319,San Francisco  CA,420.0
+3511155378,id_ID,1991.0,male,374763,Medan  Indonesia,420.0
+3384563138,fr_CA,1977.0,female,374902,Montreal  Quebec,-300.0
+3691949299,es_ES,1997.0,female,375341,Santo Domingo  Dominican Republic,-120.0
+2098552598,en_GB,1965.0,female,373124,,-300.0
+1191714842,en_US,1964.0,female,374861,Hamilton  Ontario,-240.0
+3191592351,id_ID,1995.0,female,375421,Medan  Indonesia,420.0
+3117046697,en_US,1991.0,male,375458,Phnom Pen  Phnum Penh  Cambodia,420.0
+1666085128,en_US,1997.0,male,375450,Port Louis  18,240.0
+4232243965,id_ID,1989.0,female,375420,Purwokerto  Jawa Tengah  Indonesia,420.0
+2202079852,en_US,1993.0,male,374305,Tempe  Arizona,-420.0
+2671029253,es_LA,1993.0,female,374860,Brooklyn  NY,-300.0
+2676225924,id_ID,1994.0,male,375307,Yogyakarta,420.0
+3505511916,en_US,1993.0,male,375435,Phnom Penh,420.0
+547259551,en_US,1992.0,female,375619,Phnom Penh  11,420.0
+786776836,id_ID,1998.0,female,374715,Medan  Indonesia,420.0
+639409951,en_US,1981.0,male,373331,,-240.0
+2685090431,id_ID,1994.0,male,375440,Kebumen  Jawa Tengah  Indonesia,420.0
+2411451936,en_US,1990.0,male,375440,Djokja  Yogyakarta  Indonesia,420.0
+3236041774,en_US,1990.0,female,375126,Corona  CA,-480.0
+4032639394,en_US,1994.0,male,373739,,330.0
+294167146,en_US,1988.0,female,375617,Yogyakarta,420.0
+3680140922,id_ID,1993.0,male,375466,Medan  Indonesia,420.0
+3757671214,en_US,1957.0,male,374714,San Francisco  California,-480.0
+1829290442,es_LA,1990.0,female,375731,Santo Domingo  Dominican Republic,-240.0
+2833011810,en_US,1996.0,female,375556,Phnom Pen  Phnum Penh  Cambodia,420.0
+466698547,es_LA,1993.0,male,375445,Santo Domingo  Dominican Republic,-240.0
+2500150280,en_US,1974.0,female,374513,Toronto  Ontario,-300.0
+2325340243,en_US,1994.0,female,375892,Phnom Penh  11,420.0
+3200119975,id_ID,1989.0,male,375658,Jombang  Jawa Timur  Indonesia,420.0
+3591151863,en_US,1982.0,male,374475,Mesa  Arizona,-420.0
+2449307177,en_US,1968.0,male,374621,Vaughan  Ontario,-300.0
+508837021,en_US,1979.0,male,375487,San Francisco  California,-480.0
+1386311924,en_US,1985.0,male,375443,Yogyakarta,420.0
+265142861,en_US,1985.0,female,371735,,-240.0
+1474775097,id_ID,1991.0,male,375303,Medan  Indonesia,420.0
+1954193338,en_US,1972.0,male,375683,Yogyakarta,450.0
+1109825061,id_ID,1995.0,female,375030,Jakarta  Indonesia,360.0
+761616937,id_ID,1999.0,male,375328,Medan  Indonesia,420.0
+2086869786,en_US,1990.0,male,375031,Long Beach  CA,-420.0
+4140744216,zh_CN,1988.0,male,374720,Los Angeles  California,-420.0
+3199368063,en_US,1994.0,female,374896,Spanish Town  10,60.0
+569536605,id_ID,1993.0,male,375386,Purworejo  Jawa Tengah  Indonesia,420.0
+2176419410,en_US,1987.0,male,375461,Phnom Penh,420.0
+3151272434,id_ID,1987.0,male,375460,Medan  Indonesia,420.0
+286293491,id_ID,1985.0,male,375777,Yogyakarta,420.0
+3987610774,en_US,1992.0,female,375415,Bel Air  Flacq  Mauritius,240.0
+2764881224,es_ES,1995.0,female,375398,Santo Domingo  Dominican Republic,-180.0
+203050907,id_ID,1993.0,male,374748,Medan  Indonesia,420.0
+551538117,es_LA,1995.0,male,375474,Santo Domingo  Dominican Republic,480.0
+4146675310,en_US,1995.0,male,375485,Phnom Pen  Phnum Penh  Cambodia,420.0
+248805577,en_US,1988.0,female,375440,Phnom Penh  11,420.0
+2774351000,id_ID,1995.0,male,375275,Medan  Indonesia,420.0
+2191468400,id_ID,1986.0,male,374823,Medan  Indonesia,420.0
+2936209614,id_ID,1997.0,female,374769,Jakarta  04,420.0
+2962003608,en_US,1991.0,female,375311,Medan  Indonesia,420.0
+160071273,en_US,1992.0,female,375438,Pamplemousses  Pamplemousses  Mauritius,240.0
+441103517,id_ID,1997.0,male,375102,Medan  Indonesia,420.0
+158531231,id_ID,1995.0,male,374753,Medan  Indonesia,420.0
+3298977709,en_US,1993.0,male,374896,Costa Mesa  CA,-480.0
+3383460510,en_US,1989.0,male,375904,Westminster  California,-480.0
+2111847795,id_ID,1995.0,female,375580,Gorontalo,480.0
+1418885681,en_GB,1985.0,male,375434,Sydney  02,420.0
+2444012189,en_US,1976.0,male,373636,,-420.0
+363257522,en_US,1992.0,female,374351,Tucson  Arizona,-420.0
+3519657066,id_ID,1990.0,male,375290,Jakarta  Indonesia,420.0
+599144899,id_ID,1995.0,male,374826,Medan  Indonesia,420.0
+2031754020,en_US,1993.0,female,375632,Phnom Pen  Phnum Penh  Cambodia,420.0
+2789486165,en_US,1989.0,male,374971,Los Angeles  California,-480.0
+732078356,fr_FR,1993.0,male,374974,Beverly Hills  California,60.0
+4138013784,id_ID,1995.0,male,374622,Medan  Indonesia,420.0
+1320034490,id_ID,1993.0,male,374814,Medan  Indonesia,420.0
+2692979972,id_ID,1994.0,female,374775,Medan  Indonesia,420.0
+4103923906,id_ID,1994.0,male,375794,Medan  Indonesia,420.0
+3674200063,id_ID,1997.0,male,374787,Medan  Indonesia,450.0
+57075229,en_GB,1910.0,male,375297,Yogyakarta,420.0
+1131940169,en_US,1992.0,male,375473,Phnom Penh,420.0
+69302861,en_US,1992.0,male,374521,Ottawa  Ontario,-240.0
+445442743,zh_CN,1992.0,male,374691,Whittier  California,-480.0
+1555879260,en_US,1989.0,male,375209,Los Angeles  California,-480.0
+2722968909,id_ID,1994.0,male,374956,Jakarta  04,420.0
+631446479,en_US,1986.0,female,375225,Los Angeles  California,-480.0
+2187693519,id_ID,1992.0,female,375445,Surakarta  Indonesia,420.0
+2539871585,en_US,1990.0,male,375441,Phnom Penh,420.0
+2723513568,en_US,1987.0,male,375432,Yogyakarta,420.0
+1844741381,id_ID,1999.0,male,374768,Medan  Indonesia,420.0
+3725766398,id_ID,1994.0,male,374246,,420.0
+699877746,en_GB,1981.0,female,372810,,-300.0
+135706634,en_US,1995.0,male,375376,Triolet  Mauritius,240.0
+1296007357,es_ES,1995.0,male,375453,,-180.0
+803166736,en_GB,1992.0,female,375461,  ,420.0
+2107308395,es_LA,1976.0,male,375624,Santiago De Los Caballeros  Santiago  Dominican Republic,-240.0
+866032649,en_US,1977.0,female,373122,,-240.0
+2116203935,id_ID,1991.0,male,374564,Medan  Indonesia,-300.0
+47659843,en_US,1990.0,male,375564,Phnom Penh  11,420.0
+3042642967,id_ID,1910.0,male,375193,Medan  Indonesia,420.0
+3434508639,id_ID,1993.0,female,375481,Medan  Indonesia,420.0
+1754474767,id_ID,1995.0,male,375272,Medan  Indonesia,-240.0
+540360566,en_US,1991.0,male,374977,Salinas  CA,-480.0
+3436781566,en_US,1989.0,male,375461,Dudhnai  Assam  India,330.0
+427471768,id_ID,1995.0,male,375258,Jakarta  04,420.0
+508282809,id_ID,1991.0,male,375451,Yogyakarta,420.0
+743008535,en_US,1990.0,male,374934,Toronto  Ontario,-240.0
+2805293886,en_US,1995.0,male,375462,Phnom Penh,420.0
+3041198590,id_ID,1998.0,male,374238,,420.0
+2207460362,id_ID,1990.0,male,375346,Medan  Indonesia,420.0
+1108471961,es_LA,1991.0,male,375581,Los Angeles  CA,-480.0
+3626957091,en_US,1997.0,female,375723,  ,-300.0
+843843832,en_US,1982.0,female,372877,,-240.0
+1959500556,id_ID,1996.0,male,374745,Medan  Indonesia,420.0
+738324703,en_US,1988.0,male,373734,,-240.0
+3477857993,es_LA,1984.0,male,375796,Commerce  California,-480.0
+3616389778,id_ID,1992.0,male,375349,Yogyakarta,-420.0
+156584666,id_ID,1989.0,male,375553,Yogyakarta,420.0
+249577815,es_ES,1984.0,male,374967,Mexico City  Mexico,-360.0
+3122183291,es_LA,1993.0,female,375357,Miami  Florida,-240.0
+256692717,id_ID,1995.0,female,375362,Medan  Indonesia,420.0
+4047903240,en_US,1983.0,male,374535,Waterbury  Connecticut,-300.0
+3461518589,en_US,,female,371513,,-240.0
+1663149119,en_US,1993.0,female,374660,Anaheim  California,-420.0
+4171765566,id_ID,1997.0,male,374797,Medan  Indonesia,420.0
+341641838,id_ID,1991.0,male,374725,Medan  Indonesia,420.0
+2071663365,es_LA,1993.0,male,376340,Barboursville  WV,-480.0
+2559754952,en_US,1982.0,male,371401,,-240.0
+3770864710,en_US,1993.0,male,375348,Camp Thorel  Moka  Mauritius,240.0
+3502990892,en_US,1993.0,male,375439,Phnom Penh,-480.0
+3798379681,id_ID,1990.0,male,375340,Jogjakarta  Indonesia,420.0
+3818876690,ka_GE,1995.0,female,375488,Bat'Umi  Ajaria  Georgia,240.0
+2138239477,en_US,1989.0,male,375394,Yogyakarta,420.0
+3186268838,id_ID,1994.0,male,375473,Yogyakarta,300.0
+2133006016,en_GB,1991.0,female,375474,Moscow  Russia,240.0
+3686871863,es_LA,1994.0,female,375853,Miami  Florida,-240.0
+221442949,id_ID,1994.0,male,374860,Medan  Indonesia,420.0
+1906220044,en_US,1988.0,male,374741,Medan  Indonesia,420.0
+988213942,id_ID,1997.0,male,375364,Medan  Indonesia,420.0
+2217177799,id_ID,1989.0,male,376008,Wonosobo  Jawa Tengah  Indonesia,420.0
+2624413719,id_ID,1994.0,female,375454,Temanggung  Jawa Tengah  Indonesia,420.0
+283716061,en_US,1992.0,female,375486,Phnom Penh,420.0
+1585175216,id_ID,1993.0,male,375162,Jogjakarta  Indonesia,420.0
+2092954906,id_ID,1996.0,male,375364,Indrapura  Sumatera Utara  Indonesia,420.0
+2305032569,en_US,1994.0,female,375606,Sihanoukville,420.0
+1572816023,es_ES,1993.0,male,375639,Santo Domingo  Dominican Republic,-360.0
+2438466073,id_ID,1997.0,female,375416,Djokja  Yogyakarta  Indonesia,420.0
+2852759815,en_US,1988.0,male,375999,Doha  01,180.0
+299446963,en_US,1993.0,male,375441,Sihanoukville,420.0
+4073053389,en_US,1989.0,male,371973,,-360.0
+2949876199,id_ID,1994.0,male,375420,Medan  Indonesia,420.0
+754938428,id_ID,1993.0,male,375124,Yogyakarta,420.0
+528289771,en_US,1993.0,male,375418,Trabek  05,420.0
+2920617215,en_US,1994.0,male,375501,San Francisco  California,
+3669633546,en_US,1981.0,female,374668,Toronto  Ontario,-300.0
+1707093494,id_ID,1990.0,male,375369,Yogyakarta,-510.0
+3424054391,id_ID,1998.0,male,375036,Jakarta  Indonesia,420.0
+2596513149,en_US,1992.0,male,375545,Yogyakarta,-300.0
+2010045207,id_ID,1994.0,female,374787,Medan  Indonesia,420.0
+1328697582,id_ID,1995.0,female,375486,Yogyakarta,420.0
+580008340,en_US,1991.0,male,375488,Phnom Pen  Phnum Penh  Cambodia,420.0
+2949537983,en_US,1977.0,female,371898,,-300.0
+292322045,id_ID,1993.0,female,375483,Purwokerto  Jawa Tengah  Indonesia,420.0
+4081921627,fr_FR,1992.0,male,374892,Los Angeles  California,60.0
+988160405,en_US,1994.0,male,375489,Phnom Penh,420.0
+1063337028,id_ID,1989.0,male,375271,Yogyakarta,420.0
+1223566187,en_US,1992.0,male,373666,,-240.0
+532589341,en_US,1994.0,male,375379,Camp Thorel  Moka  Mauritius,240.0
+555631167,es_LA,1993.0,male,375350,Santo Domingo  Dominican Republic,-180.0
+2039668267,en_US,1997.0,female,375591,Tbilisi  Georgia,240.0
+3504006486,id_ID,1992.0,male,375451,Yogyakarta,420.0
+3042360462,en_US,1995.0,male,375831,Garden Grove  California,-480.0
+659158929,id_ID,1995.0,male,375607,Tasikmalaya,420.0
+2987144847,id_ID,1990.0,female,375393,Yogyakarta,420.0
+1634011224,id_ID,1995.0,male,375439,Medan  Indonesia,420.0
+3889944197,id_ID,1992.0,female,375393,Bantul,420.0
+1748492203,id_ID,1991.0,male,375417,Yogyakarta,420.0
+4087630383,es_LA,1991.0,male,375447,San Felipe de Puerto Plata,-360.0
+3467307298,es_LA,1981.0,male,374665,Mexico City  Mexico,480.0
+1754904960,en_GB,1993.0,female,375869,Toronto  Ontario,-300.0
+3452705349,id_ID,1987.0,male,375999,Medan  Indonesia,420.0
+4075466480,en_GB,1979.0,male,371946,,-420.0
+2979487597,id_ID,1993.0,male,375421,Gamping  Yogyakarta  Indonesia,420.0
+3910177999,id_ID,1986.0,male,375350,Medan  Indonesia,360.0
+3488552280,id_ID,1992.0,male,375486,Surabaya  Indonesia,420.0
+610133863,es_LA,1987.0,male,375373,Santo Domingo  Dominican Republic,-240.0
+2895220130,en_US,1979.0,male,372433,,-240.0
+747578727,en_US,1995.0,female,375395,Port Louis  Mauritius,-660.0
+3693095617,es_LA,1997.0,female,375397,Santo Domingo  Dominican Republic,-300.0
+3909374079,en_GB,1990.0,female,375718,New York  New York,-300.0
+48380986,id_ID,1993.0,male,375185,Djokja  Yogyakarta  Indonesia,480.0
+1122537977,id_ID,1995.0,male,374760,Medan  Indonesia,420.0
+443931185,es_ES,1990.0,male,375477,Santo Domingo  Dominican Republic,-240.0
+307071731,en_US,1992.0,female,375457,Kompong Cham  Kampong Cham  Cambodia,420.0
+2062977016,id_ID,1997.0,male,375385,Medan  Indonesia,420.0
+4125376571,id_ID,1994.0,male,374618,Medan  Indonesia,420.0
+591781953,id_ID,1991.0,male,376000,Medan  Indonesia,420.0
+2736679402,id_ID,1998.0,male,374792,Bekasi,420.0
+1952293169,id_ID,1990.0,male,375396,Yogyakarta,420.0
+3021174039,en_US,1990.0,male,373119,,180.0
+2945726385,en_US,1988.0,female,373744,,-300.0
+3577629547,id_ID,1993.0,female,375461,Medan  Indonesia,420.0
+3299137750,id_ID,1989.0,female,375561,Yogyakarta,420.0
+1177603447,en_GB,1994.0,female,374501,Montclair  NJ,-300.0
+3221482892,es_LA,1993.0,male,375432,Isabelita  Distrito Nacional  Dominican Republic,-300.0
+4106927042,en_US,1983.0,female,375368,San Francisco  California,-480.0
+1309915074,en_US,1971.0,male,374636,Ottawa  ON,-300.0
+1672939792,en_US,1910.0,male,375389,Hamilton  Ontario,-300.0
+82610705,en_GB,1990.0,male,375372,Jogjakarta  Indonesia,420.0
+4005906279,id_ID,1993.0,male,375364,Banyuwangi  Jawa Timur  Indonesia,420.0
+552316934,id_ID,1993.0,female,375360,Jokjakarta  Yogyakarta  Indonesia,420.0
+1155485546,en_US,1999.0,female,375437,Phnom Penh,420.0
+3138635490,en_US,1974.0,male,370633,,-480.0
+1459241748,en_US,,male,371455,,-240.0
+383587770,en_US,1998.0,female,375418,Flacq  Flacq  Mauritius,240.0
+384269001,en_GB,1985.0,male,374041,,-300.0
+1657497614,en_US,1985.0,male,375483,Phnom Penh,420.0
+3594879390,id_ID,1989.0,male,375438,Yogyakarta,420.0
+3600455391,id_ID,1978.0,female,375473,Jogjakarta  Indonesia,420.0
+1615336827,es_LA,1993.0,female,375551,Santo Domingo  Dominican Republic,120.0
+925172794,id_ID,1994.0,female,375388,Yogyakarta,420.0
+724978354,id_ID,1993.0,male,375350,Los Angeles  California,420.0
+486162423,id_ID,1998.0,female,375365,Bandung  Indonesia,420.0
+73288922,en_PI,1993.0,female,374588,Boston  Massachusetts,-240.0
+1339315323,en_GB,1986.0,female,374683,Toronto  Ontario,-300.0
+3330527170,ka_GE,1988.0,female,375490,Tbilisi  Georgia,180.0
+411622998,id_ID,1993.0,female,375958,  ,420.0
+910947719,en_US,1977.0,male,374586,Middletown  Orange County  New York,-300.0
+2105308456,en_US,1987.0,male,375281,Los Angeles  California,-420.0
+1821206755,es_ES,1990.0,female,375453,Santo Domingo  Dominican Republic,60.0
+3850128249,en_GB,1986.0,male,373870,,-240.0
+61814256,id_ID,1987.0,male,375364,Yogyakarta,420.0
+1463808662,en_US,1989.0,male,373785,,-360.0
+3536031836,id_ID,1990.0,male,375361,Pangkalanbrandan  Sumatera Utara  Indonesia,420.0
+1491636315,id_ID,1990.0,female,375418,Yogyakarta,420.0
+613604753,id_ID,1910.0,male,375350,Djokja  Yogyakarta  Indonesia,420.0
+1289434141,en_US,1994.0,male,375077,Los Angeles  CA,-480.0
+3628146836,en_US,1990.0,male,376064,Karachi  Pakistan,240.0
+609331956,en_US,1996.0,male,375459,Siem Reap,420.0
+2122304529,id_ID,1992.0,male,374717,Medan  Indonesia,420.0
+2557219570,en_US,1982.0,female,375359,Los Angeles  California,-300.0
+2102662137,id_ID,1993.0,male,375548,Medan  Indonesia,420.0
+1697527574,en_US,1991.0,female,375487,Phnom Penh,420.0
+3415507920,id_ID,1991.0,male,375443,Bandar Lampung,420.0
+2713002362,en_US,1969.0,male,373126,,-300.0
+1949443459,id_ID,1994.0,female,374724,Medan  Indonesia,420.0
+4109397627,id_ID,1993.0,female,375413,Klaten  Jawa Tengah  Indonesia,420.0
+2838808644,es_LA,1997.0,male,375334,Santo Domingo  Dominican Republic,60.0
+2403055502,id_ID,1992.0,male,375386,Yogyakarta,420.0
+3001870892,en_US,1994.0,male,375461,Phnom Penh,420.0
+1518400220,es_ES,1956.0,male,376024,Manhattan  New York,-300.0
+3986539301,id_ID,1996.0,male,375726,Kabanjahe,420.0
+366365683,id_ID,1987.0,female,375057,Medan  Indonesia,420.0
+1210062900,en_US,1994.0,male,374707,Medan  Indonesia,420.0
+776020237,en_US,1994.0,male,375456,Phnom Penh  11,-420.0
+1733709559,en_US,,male,374014,,-420.0
+3272389348,id_ID,1991.0,female,374748,Medan  Indonesia,420.0
+3865016311,id_ID,1992.0,male,375457,Jakarta  04,420.0
+948275186,id_ID,1993.0,male,375711,Siborongborong  Sumatera Utara  Indonesia,60.0
+4181468602,fr_FR,1985.0,female,375399,Roches Noires  Riviere Du Rempart  Mauritius,240.0
+1568770334,es_LA,1996.0,male,376011,New London  Connecticut,-150.0
+2989025224,id_ID,1993.0,female,375009,Seoul  Korea,120.0
+1486339292,id_ID,1992.0,male,375684,Los Angeles  California,420.0
+973677184,id_ID,1990.0,female,375685,Medan  Indonesia,420.0
+2452785645,id_ID,1992.0,male,375319,Medan  Indonesia,-420.0
+3929074393,en_US,1991.0,male,375477,Burlington  Ontario,-300.0
+2980440229,en_US,1991.0,female,375484,Trabek  05,420.0
+1536104641,en_US,1974.0,male,373121,,-240.0
+4122483286,en_US,1994.0,male,374949,Los Angeles  CA,-480.0
+1788141082,en_US,1987.0,male,375817,Poipet,420.0
+3279257076,id_ID,1992.0,male,374789,Medan  Indonesia,420.0
+66260844,id_ID,1993.0,male,375442,Rantauprapat  Sumatera Utara  Indonesia,420.0
+1551848670,en_US,1991.0,male,373035,,-240.0
+3975666608,en_US,1987.0,male,375490,Phnom Penh  11,420.0
+3453760477,en_US,1984.0,male,375812,Hollywood  California,120.0
+382550204,en_US,1988.0,male,374673,Poughkeepsie  NY,-300.0
+1169783448,id_ID,1997.0,female,374703,Medan  Indonesia,420.0
+1805025807,id_ID,1988.0,male,375449,Yogyakarta,420.0
+3841682652,en_US,1993.0,male,374337,Glendale  Arizona,-420.0
+1859726822,id_ID,1997.0,female,374790,Medan  Indonesia,420.0
+1427469971,id_ID,1993.0,male,375590,Yogyakarta,420.0
+3257224121,id_ID,1905.0,male,375128,undefined  undefined,420.0
+1067164735,en_US,1990.0,female,375119,Los Angeles  California,-480.0
+2944246732,en_US,1993.0,male,375446,Phnom Penh,420.0
+1356079140,en_US,1972.0,female,375446,Cassis  Port Louis  Mauritius,240.0
+2404499203,id_ID,1993.0,male,375447,Surabaya  Indonesia,420.0
+2259554717,en_GB,1978.0,male,371925,,480.0
+589091561,fr_FR,1988.0,male,375490,Phnom Penh,420.0
+3810123859,id_ID,1992.0,female,374667,Medan  Indonesia,-480.0
+2889282959,en_US,1996.0,male,375485,Rose Hill  Mauritius,240.0
+3492585943,en_US,1994.0,male,376407,Los Angeles  California,-300.0
+1280283349,es_ES,1997.0,female,375454,Santiago De Los Caballeros  Santiago  Dominican Republic,-240.0
+2298623317,id_ID,1990.0,male,374762,Medan  Indonesia,420.0
+2501280523,en_US,1994.0,female,375442,Phnom Penh  11,420.0
+24978365,id_ID,1997.0,female,375441,Lahat  Sumatera Selatan  Indonesia,420.0
+1116289197,id_ID,1990.0,male,375353,Dortmund  Germany,420.0
+16210231,id_ID,1991.0,male,375387,Bekasi,420.0
+2890295436,en_US,1990.0,female,375431,Yogyakarta,420.0
+2874765790,en_US,1994.0,male,375440,Phnom Penh,420.0
+1544526064,en_US,1988.0,male,375490,Rose Belle  Grand Port  Mauritius,-480.0
+4220962429,id_ID,1990.0,male,374725,Bekasi,420.0
+1735204308,es_ES,1993.0,female,375356,Yonkers  New York,420.0
+1107746429,id_ID,1997.0,male,374717,Medan  Indonesia,420.0
+240521211,ka_GE,1992.0,male,375640,Tbilisi  Georgia,240.0
+2321085380,en_GB,1987.0,male,375395,Purwokerto  Jawa Tengah  Indonesia,-420.0
+3904408941,en_US,1988.0,male,375008,Long Beach  CA,-480.0
+932480867,id_ID,1993.0,male,376186,Medan  Indonesia,420.0
+3515391844,es_LA,1905.0,male,375363,Saint Domingue  Distrito Nacional  Dominican Republic,-240.0
+2419536569,en_US,1997.0,male,375347,Lalmatie  Flacq  Mauritius,240.0
+26389537,id_ID,1994.0,male,374844,Medan  Indonesia,420.0
+2440023887,en_US,1970.0,female,375326,Dabadie  Saint George  Trinidad And Tobago,-240.0
+762911677,en_US,1979.0,female,373565,,-420.0
+107783241,en_US,1989.0,male,373748,,-480.0
+3442212683,zh_CN,1989.0,male,375146,Los Angeles  California,-480.0
+971079958,en_GB,1991.0,male,374543,Medan  Indonesia,420.0
+2344133160,id_ID,1945.0,male,375351,Medan  Indonesia,420.0
+964581027,id_ID,1986.0,male,375914,Medan  Indonesia,420.0
+1941314046,en_US,1991.0,male,374521,Branford  Connecticut,-300.0
+4124005270,id_ID,1995.0,male,374795,Medan  Indonesia,420.0
+194257626,fr_FR,1991.0,male,375636,Barcelona  Spain,60.0
+1918148274,en_US,1985.0,female,375429,Hamilton  Ontario,-300.0
+1268093476,id_ID,1997.0,male,375348,Tangerangscheweg  Jawa Barat  Indonesia,420.0
+304983697,id_ID,1996.0,female,375439,Jakarta  Indonesia,420.0
+3861589862,en_US,1966.0,male,374827,Fredericton  New Brunswick,-240.0
+3555067038,en_US,1993.0,male,374686,Long Beach  California,-480.0
+3481743878,id_ID,1984.0,male,375355,Cilegon,420.0
+898918449,en_US,1989.0,female,375144,Los Angeles  California,-480.0
+2807567247,id_ID,1995.0,male,374749,Medan  Indonesia,420.0
+3947821070,en_GB,1987.0,male,375437,Phnom Penh,420.0
+3245391379,es_LA,1976.0,male,373549,,-240.0
+969572676,en_US,1992.0,male,375418,Phnom Penh,420.0
+195973264,id_ID,1989.0,male,374595,Pekalongan  Indonesia,420.0
+2837984655,en_US,1990.0,female,374838,Irvine  California,-480.0
+2772609387,id_ID,1995.0,male,375372,Pekanbaru,420.0
+183275855,es_ES,1994.0,male,375482,Santo Domingo  Dominican Republic,-150.0
+3893362486,id_ID,1993.0,male,374843,Medan  Indonesia,420.0
+2541238114,id_ID,1990.0,male,374648,Sigli  Aceh  Indonesia,420.0
+43026617,en_GB,1990.0,male,375390,Terre Rouge  Pamplemousses  Mauritius,240.0
+1803816912,id_ID,1996.0,male,375723,Medan  Indonesia,420.0
+2560745948,id_ID,1990.0,female,374671,Medan  Indonesia,420.0
+2815688436,id_ID,1991.0,female,375051,Medan  Indonesia,420.0
+393817534,en_US,1994.0,male,375469,Phnom Penh,420.0
+123290209,en_US,1982.0,male,375354,Norwalk  California,-480.0
+2787327616,id_ID,1992.0,female,375627,Yogyakarta,420.0
+120053518,id_ID,1993.0,male,374938,Medan  Indonesia,420.0
+4239920443,en_US,1987.0,male,372461,,-480.0
+3183278547,en_US,1989.0,male,373419,,-240.0
+2114638118,en_US,1990.0,female,374347,Phoenix  Arizona,-420.0
+3311830643,en_US,1990.0,male,375489,Phnom Penh  11,420.0
+1126868438,id_ID,1995.0,female,375446,Yogyakarta,420.0
+522776668,id_ID,1992.0,male,375354,Jakarta  04,420.0
+830686203,id_ID,1991.0,male,375787,Yogyakarta,420.0
+1232503863,en_US,1991.0,female,375485,Phnom Penh,420.0
+4070008434,id_ID,1997.0,female,375344,Medan  Indonesia,420.0
+1582474481,id_ID,1994.0,female,375397,Jogjakarta  Indonesia,-480.0
+307271704,en_US,1985.0,female,375479,Phnom Penh,420.0
+2069145631,id_ID,1994.0,male,375443,Yogyakarta,450.0
+3613178093,id_ID,1993.0,male,375433,Los Angeles  California,420.0
+1452633375,id_ID,1995.0,female,374216,,-480.0
+777634122,en_US,1990.0,male,374829,Toronto  Ontario,-300.0
+4291083982,id_ID,1985.0,male,374818,Medan  Indonesia,480.0
+2193664477,id_ID,1992.0,female,375417,Montasik  Aceh  Indonesia,420.0
+812299615,id_ID,1995.0,male,374665,Medan  Indonesia,420.0
+2416903887,id_ID,1996.0,male,375364,Medan  Indonesia,420.0
+708073241,en_US,1987.0,male,373445,,-240.0
+794355051,en_US,1992.0,male,375843,New York  New York,-360.0
+4119250454,en_GB,1993.0,female,375439,Djokja  Yogyakarta  Indonesia,420.0
+743802819,en_US,1992.0,male,375608,Los Angeles  California,420.0
+1235578437,es_LA,1991.0,male,375447,Los Angeles  CA,-480.0
+3279061945,id_ID,1991.0,male,375243,Jakarta  Indonesia,420.0
+2400078243,en_US,1990.0,male,374327,Scottsdale  AZ,-420.0
+3601021922,en_US,1994.0,female,374923,Montebello  California,-480.0
+3883721026,es_ES,1993.0,female,375446,Santo Domingo  Dominican Republic,-240.0
+3625917937,id_ID,1995.0,female,375438,Surabaya  08,420.0
+492612031,id_ID,1990.0,male,375007,Medan  Indonesia,420.0
+275264384,id_ID,1993.0,female,375268,Pematangsiantar,420.0
+3962251454,id_ID,1991.0,male,375402,Djokja  Yogyakarta  Indonesia,420.0
+92410554,id_ID,1994.0,female,374725,Medan  Indonesia,420.0
+2860912043,en_US,1993.0,male,375463,Phnom Penh  11,420.0
+3278092752,en_US,1993.0,male,375638,Chandigarh  India,330.0
+3240337776,es_LA,1994.0,male,374697,Santa Ana  California,-480.0
+2559434877,id_ID,1995.0,female,374577,Medan  Indonesia,420.0
+1838926600,id_ID,1994.0,female,375801,Ciamis  Jawa Barat  Indonesia,420.0
+121528378,id_ID,1990.0,male,375567,Yogyakarta,420.0
+2328301807,id_ID,1997.0,male,374985,Medan  Indonesia,420.0
+1221420614,es_LA,1994.0,female,375375,Santo Domingo  Dominican Republic,480.0
+3555641932,en_GB,1991.0,male,375257,Los Angeles  California,240.0
+197344023,id_ID,1994.0,male,375422,Pematangsieantar  Sumatera Utara  Indonesia,420.0
+4236087068,id_ID,1998.0,female,375555,Medan  26,-300.0
+427369081,id_ID,1994.0,male,375461,Jogjakarta  Indonesia,420.0
+3885352810,en_US,1984.0,female,373824,,-300.0
+2023721073,id_ID,1994.0,male,374771,Medan  Indonesia,420.0
+3930161610,id_ID,1994.0,female,374749,Medan  Indonesia,420.0
+2183586456,en_US,1984.0,female,375752,Tbilisi  Georgia,240.0
+3406326706,en_US,1954.0,female,374618,London  Ontario,-240.0
+467001379,en_US,1980.0,male,372315,,-300.0
+2350981164,ka_GE,1993.0,female,375486,Tbilisi  Georgia,240.0
+3841001673,id_ID,1991.0,male,375372,Yogyakarta,420.0
+2681199273,id_ID,1992.0,male,375650,San Francisco  CA,420.0
+1130900979,id_ID,1996.0,female,375372,Medan  Indonesia,420.0
+3406478396,id_ID,1994.0,female,374845,Medan  Indonesia,420.0
+1085794659,id_ID,1996.0,female,374817,Jakarta  Indonesia,420.0
+3182595870,en_US,1992.0,female,375449,Jogjakarta  Indonesia,420.0
+881544435,en_US,1994.0,male,375465,Ville De Phnom Penh  Phnum Penh  Cambodia,420.0
+904520689,id_ID,1983.0,male,375547,Yogyakarta,420.0
+96542289,en_US,1992.0,male,375649,Riverside  CA,-480.0
+2193628344,id_ID,1997.0,male,374839,Medan  Indonesia,420.0
+2496837007,en_US,1992.0,female,375455,Medan  Indonesia,420.0
+3108480638,id_ID,1988.0,female,375391,Medan  Indonesia,420.0
+1061545438,hu_HU,1999.0,male,375393,Miskolc  Hungary,120.0
+1989811285,en_US,1990.0,male,375440,Yogyakarta,420.0
+495379217,id_ID,1988.0,male,375417,Makassar,810.0
+1023714879,id_ID,1992.0,male,375376,Yogyakarta,420.0
+3415673411,en_US,1993.0,female,375563,Nouvelle France  Grand Port  Mauritius,240.0
+1889089758,id_ID,1991.0,male,375430,Yogyakarta,480.0
+3294080054,en_US,1997.0,male,375344,Belle Mare  Flacq  Mauritius,240.0
+3118938050,id_ID,1991.0,male,374944,Medan  Indonesia,420.0
+310846555,id_ID,1994.0,male,375184,Medan  Indonesia,420.0
+2566144998,en_US,1985.0,male,375240,Los Angeles  California,-300.0
+5574997,en_US,1982.0,male,375455,Phnom Pen  Phnum Penh  Cambodia,-360.0
+1583772039,id_ID,1994.0,female,375367,Djokja  Yogyakarta  Indonesia,420.0
+1426944148,fa_IR,1985.0,male,375954,Coyote  CA,-570.0
+2458053629,en_US,1996.0,male,375566,Curepipe  Mauritius,300.0
+1349737346,en_US,1989.0,male,375749,Quito  Ecuador,-480.0
+2892947506,id_ID,1995.0,female,375317,Medan  Indonesia,420.0
+1651844876,id_ID,1993.0,male,374787,Medan  Indonesia,420.0
+3663573906,id_ID,1993.0,male,375348,Yogyakarta,-480.0
+673356819,en_US,1994.0,female,375456,Surabaya  08,420.0
+1414301782,en_US,1980.0,female,372838,,-420.0
+4168402703,id_ID,1992.0,female,375432,Jayapura  Indonesia,540.0
+331982192,en_GB,1987.0,male,375489,Phnom Penh,420.0
+1318722285,id_ID,1993.0,male,374847,Medan  Indonesia,420.0
+3286878858,en_US,1992.0,male,375872,  ,300.0
+180779799,id_ID,1994.0,female,374815,Medan  Indonesia,420.0
+1833128849,id_ID,1993.0,male,376083,Curup  Bengkulu  Indonesia,-300.0
+197704997,es_ES,1997.0,female,375449,,480.0
+2817061625,id_ID,1992.0,male,375452,Yogyakarta,420.0
+3891396601,id_ID,1994.0,male,374742,Medan  Indonesia,390.0
+2788859591,id_ID,1995.0,male,375475,Batavia  Jawa Barat  Indonesia,420.0
+1269478831,es_ES,1993.0,male,375453,Bajos De Haina  33,480.0
+2260760754,en_GB,1988.0,male,375447,Phnom Penh,420.0
+2600683125,en_US,1997.0,female,373111,,-240.0
+4233914020,en_US,1981.0,male,375352,Hollywood  California,-480.0
+2921156307,id_ID,1990.0,male,375442,Ciamis  Jawa Barat  Indonesia,420.0
+3408163802,en_US,1993.0,female,375649,Paris  France,420.0
+203456139,es_LA,1997.0,male,375422,Santo Domingo  Dominican Republic,-180.0
+2033574675,en_US,1996.0,male,375445,Phnom Penh,420.0
+531662584,id_ID,1992.0,female,375487,Salatiga,420.0
+826927178,id_ID,1991.0,male,374744,Medan  26,420.0
+279323206,en_US,1989.0,male,375469,Phnom Penh,420.0
+828445240,id_ID,1992.0,female,374738,Medan  Indonesia,390.0
+178517662,en_US,1992.0,male,375196,Medan  Indonesia,420.0
+1772941037,id_ID,1994.0,male,374642,Medan  Indonesia,420.0
+659447721,en_GB,1960.0,male,373916,,-300.0
+1611204256,en_US,1990.0,male,374670,Los Angeles  CA,-480.0
+139210489,es_LA,1995.0,female,375547,undefined  undefined,-300.0
+571415268,id_ID,1985.0,male,375360,Jogjakarta  Indonesia,420.0
+2057625114,id_ID,1945.0,male,375349,undefined  undefined,420.0
+3761442030,id_ID,1994.0,male,375423,Yogyakarta,420.0
+1535643599,jv_ID,1993.0,male,375345,Jokjakarta  Yogyakarta  Indonesia,420.0
+2069512156,en_US,1969.0,male,373115,,-240.0
+3285425249,en_US,1974.0,male,374496,Tempe  Arizona,-420.0
+1856999246,en_GB,1996.0,female,375486,Phnom Penh,420.0
+649114603,en_US,1990.0,female,374694,Los Angeles  California,-420.0
+1667532620,id_ID,1992.0,female,375461,Yogyakarta,420.0
+381155306,id_ID,1993.0,female,375385,Jogjakarta  Indonesia,420.0
+722675569,ko_KR,1992.0,female,375447,Jokjakarta  Yogyakarta  Indonesia,420.0
+793842953,id_ID,1996.0,female,375447,Bandar Lampung,420.0
+3508414044,id_ID,1993.0,male,375289,Jogjakarta  Indonesia,420.0
+1954960931,id_ID,1993.0,female,375054,Medan  Indonesia,420.0
+2464597212,en_US,1983.0,female,372766,,-480.0
+848363602,id_ID,1996.0,female,375441,Yogyakarta,420.0
+4054029300,es_LA,1995.0,male,375358,Santo Domingo  Dominican Republic,-240.0
+4111854243,es_ES,1978.0,male,375928,Los Angeles  California,-480.0
+4170453600,en_US,1986.0,male,375583,San Francisco  California,-480.0
+3565456636,id_ID,1972.0,female,375486,Purworejo  Jawa Tengah  Indonesia,420.0
+3995442796,en_US,1986.0,male,375753,  ,-480.0
+1931485787,id_ID,1986.0,male,375412,Tanjungbalai  Sumatera Utara  Indonesia,420.0
+4244109605,en_US,1981.0,male,374606,Toronto  Ontario,-240.0
+395811323,en_US,1992.0,male,375483,Phnom Penh  11,420.0
+1583577411,en_US,1988.0,female,375333,Toronto  Ontario,-300.0
+3598524699,es_LA,1987.0,female,375448,Santo Domingo  Dominican Republic,-300.0
+1926859556,id_ID,1990.0,male,375602,Soerabaya,420.0
+1227446685,es_ES,1987.0,male,374764,Los Angeles  CA,-480.0
+2291100279,en_US,1988.0,female,375320,Phoenix  Arizona,-420.0
+1069507870,en_GB,1996.0,male,375414,Port Louis  Mauritius,240.0
+3877652693,ru_RU,1980.0,male,373403,,-240.0
+1287353407,id_ID,1995.0,female,375393,Surabaya  Indonesia,420.0
+912476748,en_GB,1993.0,female,375485,  ,240.0
+4219701031,id_ID,1988.0,female,375412,Zhonghe  Heilongjiang  China,480.0
+4012638060,id_ID,1986.0,female,375437,Mataram,480.0
+2134808475,en_US,1989.0,male,375492,Phnom Penh,420.0
+255311196,en_US,1983.0,male,376076,Los Angeles  California,-480.0
+3464961116,en_US,1979.0,male,372237,,-300.0
+2981133909,en_US,1988.0,female,375310,Fontana  California,-480.0
+2670196825,en_US,1988.0,male,375484,Phnom Penh,420.0
+4042546595,en_US,1991.0,male,370875,,-300.0
+3410532659,en_US,,male,371095,,-420.0
+4190879012,en_US,1980.0,male,372796,,-240.0
+4198845543,es_LA,1990.0,male,375431,Santo Domingo  Dominican Republic,-690.0
+423256429,en_GB,1993.0,male,375545,Phnom Penh,420.0
+2614389627,en_US,1996.0,male,375438,Rose Belle  Grand Port  Mauritius,240.0
+2740017993,id_ID,1905.0,male,375574,Medan  Indonesia,420.0
+4007830365,en_US,1976.0,male,374585,Toronto  Ontario,-300.0
+1093568005,id_ID,1994.0,male,376068,Temanggung  Jawa Tengah  Indonesia,420.0
+2864836500,en_US,1978.0,female,376369,Los Angeles  CA,-480.0
+3357589225,id_ID,1986.0,male,374840,Medan  Indonesia,-540.0
+4165482530,id_ID,1993.0,male,375300,Medan  Indonesia,420.0
+3715196259,en_US,1988.0,male,374906,Placentia  California,-420.0
+3390146258,id_ID,1996.0,male,374861,Jakarta  Indonesia,420.0
+2864899561,en_US,1990.0,female,374538,Toronto  Ontario,-300.0
+2633145288,en_US,1993.0,male,375490,Phnom Penh,420.0
+140576550,pt_BR,1981.0,female,373778,,-240.0
+4138499822,en_US,1983.0,male,376346,Los Angeles  California,600.0
+2351788775,id_ID,1990.0,male,375360,Yogyakarta,420.0
+2217567238,id_ID,1992.0,male,375490,Medan  Indonesia,420.0
+1217122759,en_US,1990.0,female,375455,Phnom Penh,420.0
+4214369322,id_ID,1993.0,female,374881,Semarang  Indonesia,420.0
+306422496,id_ID,1995.0,male,375154,Medan  Indonesia,420.0
+1537885461,id_ID,1992.0,female,375301,Yogyakarta,420.0
+1267593079,en_US,1981.0,male,371665,,-240.0
+3362701480,en_US,1993.0,female,375362,Jogjakarta  Indonesia,420.0
+3389282421,id_ID,1996.0,male,375683,Padangsidimpuan  Sumatera Utara  Indonesia,420.0
+1044598291,en_US,1992.0,male,375487,Phnom Penh,420.0
+3641159022,en_US,1974.0,male,374612,Mill Valley  California,-480.0
+2348719537,en_US,1980.0,male,373092,,-240.0
+1258447015,en_US,1996.0,male,374805,Manila  Philippines,480.0
+3061307316,id_ID,1993.0,male,375100,Medan  Indonesia,420.0
+1132746796,id_ID,1990.0,male,375560,Jogjakarta  Indonesia,420.0
+1377585598,es_ES,1989.0,male,375989,Los Angeles  California,-480.0
+3601181201,id_ID,1994.0,male,375386,Bekasi,420.0
+531967718,id_ID,1997.0,male,374821,Medan  Indonesia,420.0
+2517213950,id_ID,1995.0,male,375681,Medan  Indonesia,420.0
+3758003912,en_US,1985.0,male,373947,,-240.0
+3220398573,en_US,1991.0,male,375671,Los Angeles  California,-480.0
+3365445357,id_ID,1988.0,male,375200,Medan  Indonesia,420.0
+1890732196,es_LA,1990.0,male,375373,Santo Domingo  05,-240.0
+1873358601,id_ID,1990.0,female,375349,Purworejo  Jawa Tengah  Indonesia,420.0
+2021435753,en_US,1992.0,male,375635,Shinjuku-ku  Tokyo  Japan,420.0
+2282257791,id_ID,1988.0,male,374922,Medan  Indonesia,-540.0
+2893327845,en_US,1989.0,female,375471,Phnom Penh,420.0
+3633091100,en_US,1990.0,male,375863,Beverly Hills  California,-480.0
+3570943696,en_US,1982.0,male,375353,Solo City,420.0
+309131167,id_ID,1993.0,male,375265,Medan  Indonesia,420.0
+344313409,en_US,1985.0,male,375889,Beverly Hills  California,-480.0
+3554343310,es_ES,1994.0,male,375438,Santo Domingo  Dominican Republic,480.0
+2600681841,id_ID,1989.0,male,374648,Medan  Indonesia,420.0
+1411780050,en_US,1992.0,male,376062,Bihar Sharif,-480.0
+3308173668,id_ID,1989.0,male,376022,Yogyakarta,420.0
+550625442,en_GB,1991.0,female,375868,Sudbury  Ontario,-300.0
+2667370728,id_ID,1991.0,female,375795,Medan  Indonesia,420.0
+2415400273,id_ID,1994.0,male,374722,Medan  Indonesia,420.0
+1076497247,es_ES,1995.0,female,375337,Santo Domingo  Dominican Republic,-240.0
+2841225823,id_ID,1992.0,male,375427,Medan  Indonesia,420.0
+848730816,en_US,1996.0,female,375445,Centre de Flacq  Mauritius,240.0
+2063287658,en_US,1990.0,male,376036,Medan  Indonesia,420.0
+447504709,en_US,1991.0,female,374596,Medan  Indonesia,420.0
+3573906831,en_US,1988.0,male,375460,Phnom Penh,30.0
+3739086221,en_US,1986.0,male,373271,,330.0
+65801702,en_US,1982.0,female,372999,,-300.0
+686151443,en_GB,1962.0,female,375315,Medan  Indonesia,420.0
+500857618,en_GB,1976.0,male,375444,Sleman,420.0
+2334852679,id_ID,1997.0,female,374772,Medan  Indonesia,420.0
+2835299246,id_ID,1989.0,male,375423,Djokja  Yogyakarta  Indonesia,420.0
+2463864814,en_US,1986.0,male,375749,Gardena  CA,-480.0
+3395187066,en_US,1977.0,female,372806,,-360.0
+2477193718,en_US,1993.0,female,374372,Cottage Grove  Minnesota,-360.0
+1967689783,en_US,1982.0,male,375566,Santo Domingo  Dominican Republic,-240.0
+2985391759,en_US,1985.0,female,374635,Atlanta  Georgia,-480.0
+2448969855,id_ID,1985.0,male,374948,Medan  Indonesia,420.0
+2381156995,id_ID,1997.0,female,375488,Jakarta  Indonesia,420.0
+453809966,id_ID,1992.0,female,374813,Medan  Indonesia,420.0
+2326237915,en_US,1991.0,male,375469,Phnom Pen  Phnum Penh  Cambodia,540.0
+2205166542,id_ID,1991.0,male,375772,Kupang  18,420.0
+1072368701,en_GB,1989.0,female,375437,Port Louis  Mauritius,240.0
+3903245015,en_US,1988.0,male,375479,Phnom Penh,420.0
+279699155,ka_GE,1994.0,female,375490,Tbilisi  Georgia,180.0
+588924229,es_ES,1993.0,female,375334,Santo Domingo  Dominican Republic,480.0
+2489551967,id_ID,1985.0,male,374725,Medan  Indonesia,420.0
+398134674,en_US,1994.0,male,375424,Phnom Penh,420.0
+1240674478,id_ID,1991.0,male,375486,Yogyakarta,420.0
+1997928281,en_US,1988.0,male,375470,  ,420.0
+3964170614,en_US,1984.0,male,375880,Lynwood  California,-480.0
+1800702076,id_ID,1995.0,male,374555,Medan  Indonesia,420.0
+78065188,id_ID,1993.0,female,375373,Yogyakarta,420.0
+22840021,en_US,1990.0,male,375286,Heatherton  07,660.0
+4123476974,en_US,1997.0,female,375459,  ,420.0
+1073831349,en_US,1992.0,male,374147,,330.0
+2623537385,en_US,1991.0,male,375414,Los Angeles  California,-480.0
+3261632504,en_US,1989.0,male,375041,Los Angeles  California,-480.0
+2504328739,en_US,1987.0,male,375266,Queens  New York,-300.0
+2458429643,fr_FR,1994.0,female,375488,Curepipe  Mauritius,-480.0
+2744115938,en_US,1992.0,female,375446,Phnom Penh,420.0
+2768571751,en_US,1988.0,male,375188,Los Angeles  California,-480.0
+1130967213,es_ES,1994.0,female,375373,Santo Domingo  Dominican Republic,480.0
+3548820422,id_ID,1995.0,male,374577,Medan  Indonesia,420.0
+3208908819,id_ID,1993.0,male,375431,Yogyakarta,420.0
+156603823,en_US,1995.0,female,375446,Siem Reap,420.0
+627948360,id_ID,1992.0,male,374960,Medan  Indonesia,420.0
+2255113076,id_ID,1992.0,female,375607,Medan  26,420.0
+2878084097,id_ID,1992.0,male,375852,Temanggung  Jawa Tengah  Indonesia,420.0
+439316726,en_US,1989.0,female,375918,Hanoi  44,420.0
+422699736,id_ID,1991.0,male,374810,Medan  Indonesia,420.0
+280410144,id_ID,1993.0,male,374870,Medan  26,420.0
+3726154528,id_ID,1994.0,male,375353,Medan  Indonesia,420.0
+842198355,id_ID,1993.0,female,375413,Djokjakarta  Yogyakarta  Indonesia,420.0
+1275857085,id_ID,1993.0,male,374815,Medan  Indonesia,420.0
+1148170980,en_US,1994.0,male,375487,Phnom Penh,420.0
+2583651606,en_US,1996.0,female,375484,Saint Hubert  Grand Port  Mauritius,-180.0
+2417747893,en_US,1997.0,female,375678,Quatre Bornes  Mauritius,240.0
+3513858183,en_US,1992.0,female,375435,Phnom Penh,420.0
+2849010050,en_US,1966.0,male,370636,,-480.0
+3742693550,es_LA,1980.0,male,375769,Los Angeles  CA,-480.0
+350964414,id_ID,1992.0,male,375540,Sibolga,420.0
+41934198,en_US,1994.0,male,375289,El Monte  CA,-360.0
+1669357187,id_ID,1996.0,male,375433,Santos  Sao Paulo  Brazil,420.0
+1964309262,id_ID,1991.0,male,374914,Medan  Indonesia,420.0
+4268611130,en_US,1987.0,male,371806,,-300.0
+818504714,en_US,1993.0,male,375388,Yogyakarta,420.0
+3530946278,id_ID,1992.0,male,375325,Rantauprapat  Sumatera Utara  Indonesia,420.0
+983894136,id_ID,1997.0,female,375421,,420.0
+2394083016,en_GB,1989.0,male,375448,Los Angeles  California,180.0
+2674968860,en_US,1994.0,male,375489,Phnom Pen  Phnum Penh  Cambodia,420.0
+296271448,id_ID,1988.0,male,374695,Medan  Indonesia,420.0
+2416491105,id_ID,1993.0,male,375386,Medan  Indonesia,420.0
+3410667855,en_GB,1990.0,female,374815,Medan  Indonesia,420.0
+3074133478,en_US,1996.0,male,375485,Phnom Penh,420.0
+15469418,id_ID,1984.0,male,374850,Medan  Indonesia,420.0
+1652448351,es_LA,1978.0,female,374927,San Francisco  California,-420.0
+1353265512,fr_FR,1993.0,male,375483,Los Angeles  California,60.0
+2594894760,id_ID,1995.0,male,375154,Medan  Indonesia,420.0
+2105508317,en_US,1993.0,male,375444,Cottage  Riviere Du Rempart  Mauritius,240.0
+3757971767,id_ID,1988.0,male,374785,Medan  Indonesia,420.0
+2216123501,fr_FR,1989.0,female,372884,,-240.0
+132341149,en_US,1989.0,male,375490,  ,420.0
+3695179498,es_ES,1987.0,male,375455,Villa Consuelo,480.0
+655721325,en_US,1984.0,male,373142,,-240.0
+1315208123,id_ID,1997.0,male,374822,Medan  26,420.0
+3282950773,id_ID,1996.0,male,374774,Medan  Indonesia,420.0
+2669808667,en_US,1988.0,male,375581,Phnom Penh,-480.0
+3719575513,id_ID,1993.0,female,374916,Medan  Indonesia,420.0
+618927177,en_US,1990.0,male,374775,Los Angeles  California,-450.0
+694709965,id_ID,1993.0,male,375489,Surabaya  08,420.0
+3031242464,en_GB,1994.0,female,375392,,240.0
+3813354209,id_ID,1996.0,female,375443,Seoul  Korea,420.0
+661656054,en_US,1992.0,male,374945,Los Angeles  California,330.0
+869017322,en_US,1986.0,male,376095,Salalah  Oman,240.0
+2644859372,id_ID,1995.0,male,374808,DKI Jakarta,270.0
+1726345056,fr_FR,1986.0,male,375350,  ,60.0
+3657335672,en_US,1999.0,female,375455,Phnom Penh,420.0
+1353596523,id_ID,1989.0,male,374875,Medan  Indonesia,420.0
+1075375005,en_GB,1993.0,female,375605,Wonosobo  Jawa Tengah  Indonesia,420.0
+70152834,id_ID,1995.0,male,374813,Medan  Indonesia,420.0
+528810329,en_GB,1991.0,male,375733,Long Beach  California,-480.0
+1301544506,id_ID,1990.0,male,375437,Medan  Indonesia,420.0
+1890318514,en_US,1979.0,female,372789,,-240.0
+1016040879,en_US,1987.0,female,375486,Battambang,420.0
+2409482937,id_ID,1991.0,male,375346,Medan  Indonesia,420.0
+3614812788,id_ID,1994.0,male,375462,Medan  Indonesia,420.0
+3721561384,es_ES,1995.0,female,375395,Fort Lauderdale  Florida,360.0
+1114094430,en_US,1981.0,male,373388,,-300.0
+2520120463,en_US,1984.0,female,376070,  ,-360.0
+2668221937,id_ID,1999.0,male,375462,Sleman,420.0
+1440749616,id_ID,1990.0,female,375352,Djokja  Yogyakarta  Indonesia,420.0
+2375503792,en_GB,1996.0,female,375457,Phnom Penh  11,420.0
+2251800772,en_US,1994.0,male,375483,Phnom Penh,420.0
+2536496919,en_US,1992.0,male,375776,  ,300.0
+3870800241,en_US,,male,370774,,-360.0
+263599897,en_US,1996.0,male,374744,Berastagi,420.0
+3365349866,id_ID,1988.0,female,375131,Pematangsiantar,420.0
+2416484731,id_ID,1994.0,female,374701,Medan  Indonesia,420.0
+2196976878,en_US,1993.0,male,374908,Miami  Florida,-300.0
+3935809106,id_ID,1995.0,male,375486,Medan  26,420.0
+686015101,en_US,1975.0,female,374594,Ottawa  Ontario,-300.0
+4185425091,zh_HK,1982.0,female,373003,,-240.0
+1977271538,en_US,1993.0,female,375452,Mulia  35,420.0
+2461816241,en_US,1992.0,male,375447,Phnom Penh,420.0
+4200601044,en_US,1975.0,male,374488,Phoenix  Arizona,-420.0
+1354205322,id_ID,1994.0,male,375089,Tarutung  Sumatera Utara  Indonesia,420.0
+1232677153,en_US,1967.0,female,374958,Peoria  Arizona,-420.0
+2756550887,en_US,1990.0,male,375575,Phnom Penh,420.0
+3102217094,en_US,,female,372938,,-240.0
+3811264923,id_ID,1997.0,male,374847,Medan  Indonesia,420.0
+3210719423,id_ID,1990.0,male,375882,Jogjakarta  Indonesia,420.0
+3054205479,en_US,1992.0,male,374488,Gilbert  Arizona,-420.0
+1622366272,id_ID,1948.0,male,374849,Medan  Indonesia,420.0
+3979775182,id_ID,1997.0,male,374765,Medan  26,420.0
+4001997352,en_US,1990.0,male,374850,Rancho Palos Verdes  California,-480.0
+3814621161,es_LA,1998.0,female,375431,Santo Domingo  Dominican Republic,-240.0
+2635547119,id_ID,1990.0,male,375546,Yogyakarta,420.0
+3210947692,id_ID,1993.0,male,375336,Bantoel  Yogyakarta  Indonesia,420.0
+2993320562,id_ID,1993.0,male,374844,Medan  Indonesia,420.0
+3791414763,en_US,1991.0,male,375488,Phnom Penh,420.0
+1515828822,en_US,1980.0,male,375832,Los Angeles  California,
+3038024163,id_ID,1992.0,male,375579,Yogyakarta,420.0
+1060747655,id_ID,1992.0,male,375320,Cilegong  Jawa Barat  Indonesia,420.0
+3044012,id_ID,1990.0,male,374775,Binjai,480.0
+4176403253,en_US,1990.0,female,375313,Semarang  Indonesia,420.0
+1058920791,en_US,1950.0,female,374738,Mayaguez  00,-240.0
+1298546667,es_LA,1990.0,male,375480,Santo Domingo  Dominican Republic,-240.0
+121856257,id_ID,1989.0,female,375480,Cirebon,420.0
+2162567305,id_ID,1996.0,male,375488,Yogyakarta,420.0
+3290663177,id_ID,1993.0,female,374960,Medan  Indonesia,420.0
+1815721382,id_ID,1993.0,female,375084,Medan  26,420.0
+1849546291,id_ID,1995.0,male,374741,Medan  Indonesia,420.0
+3969691423,id_ID,1989.0,male,374801,Medan  Indonesia,420.0
+3427391302,en_US,1987.0,male,373214,,-240.0
+4206915288,en_US,1985.0,male,375619,Los Angeles  California,-480.0
+414832767,en_US,1987.0,male,374123,,-300.0
+2238790970,en_GB,1987.0,male,376068,Kuala Lumpur  Malaysia,480.0
+4135593225,en_US,1992.0,male,374321,Tempe  Arizona,-360.0
+439366650,en_US,1992.0,male,375482,Phnom Pen  Phnum Penh  Cambodia,420.0
+4282954307,en_US,,male,371087,,-300.0
+3471761709,en_US,1980.0,male,375684,Phnom Penh,420.0
+1493407039,en_US,1993.0,male,375190,Ghhanike  Punjab  Pakistan,-480.0
+1342752171,id_ID,1980.0,female,375382,Yogyakarta,420.0
+545289514,id_ID,1989.0,female,375395,Yogyakarta,420.0
+3834655845,en_GB,1990.0,female,375577,Toronto  Ontario,-300.0
+1897267951,id_ID,1991.0,female,375804,Medan  Indonesia,420.0
+814715283,en_US,1983.0,male,375313,Toronto  Ontario,-300.0
+33966018,en_US,1967.0,male,374679,Berkeley  California,-480.0
+3961511121,en_US,1990.0,female,374439,Toronto  Ontario,-240.0
+3242215738,id_ID,1994.0,male,374537,Medan  Indonesia,420.0
+602317951,es_LA,1998.0,female,375904,Santo Domingo  Dominican Republic,-240.0
+3252326922,id_ID,1986.0,female,375077,Medan  Indonesia,480.0
+4272342830,en_US,1965.0,male,375476,Phnom Pen  Phnum Penh  Cambodia,420.0
+2721011967,en_US,1990.0,male,375489,Phnom Penh,420.0
+2006663136,en_US,1991.0,male,375924,Udaipur  Rajasthan,330.0
+2129920319,en_US,1991.0,male,375486,Phnom Pen  Phnum Penh  Cambodia,420.0
+2713603391,id_ID,1997.0,female,375442,Rantauprapat  Sumatera Utara  Indonesia,420.0
+3041705231,en_GB,1978.0,female,373668,,-300.0
+4235386848,en_US,1983.0,female,374594,Toronto  Ontario,-300.0
+1703748926,en_GB,1992.0,male,373847,,-240.0
+1766663257,ru_RU,1972.0,female,376410,Hollywood  California,-480.0
+3838242688,en_US,1985.0,male,375481,Phnom Penh,420.0
+2329755329,id_ID,1995.0,male,374983,Medan  Indonesia,420.0
+2650493630,es_ES,1993.0,female,375483,Santo Domingo  Dominican Republic,-240.0
+217443195,en_GB,1973.0,female,373091,,-150.0
+2330978075,id_ID,1993.0,male,375393,Djokja  Yogyakarta  Indonesia,420.0
+981252249,en_US,1995.0,male,375893,Seoul  Korea,420.0
+2848481402,fr_FR,1993.0,female,375904,  ,180.0
+4120847672,es_ES,1997.0,male,375423,New York  New York,270.0
+2836886911,en_GB,1994.0,female,374796,Jakarta  Indonesia,420.0
+915098649,en_US,1992.0,female,375447,Phnom Penh,420.0
+895925498,id_ID,1995.0,female,375299,Medan  Indonesia,420.0
+3614158257,id_ID,1978.0,male,374829,DKI Jakarta,420.0
+2834313805,en_US,1981.0,male,375822,San Clemente  California,-480.0
+3104132371,en_US,1985.0,male,376045,  ,60.0
+4115365036,id_ID,1994.0,female,375320,Jakarta  04,420.0
+1055981550,en_US,1994.0,female,375455,Phnom Penh  11,420.0
+2399006053,id_ID,1988.0,male,375351,Purwokerto  Jawa Tengah  Indonesia,420.0
+4181452333,en_US,1992.0,male,375147,Yogyakarta,420.0
+1614494381,id_ID,1996.0,female,374550,Medan  Indonesia,420.0
+193158441,en_US,1910.0,male,375488,  ,420.0
+2777195317,en_US,1993.0,female,375606,Krapyak  Yogyakarta  Indonesia,420.0
+1184737011,es_LA,1996.0,female,375455,Santo Domingo  Dominican Republic,-300.0
+2231607096,id_ID,1995.0,male,375364,Medan  Indonesia,420.0
+601094182,id_ID,1994.0,male,375605,Jakarta  Indonesia,60.0
+3621549603,en_US,1928.0,male,373265,,-300.0
+96931058,id_ID,1991.0,male,375359,Cilegon,420.0
+3292395061,en_US,1995.0,female,375542,Phnom Penh  11,420.0
+3109949526,en_US,1989.0,female,374683,London  Ontario,-480.0
+2523562208,en_US,1989.0,female,375449,Port Louis  Mauritius,-120.0
+252627634,en_GB,1992.0,male,375576,Yogyakarta,420.0
+3953979752,id_ID,1996.0,female,374745,Medan  Indonesia,420.0
+917421982,en_US,1984.0,female,375449,Yogyakarta,420.0
+2940390801,es_LA,1993.0,male,375488,New York  New York,-240.0
+1553019839,id_ID,1996.0,female,374792,Medan  Indonesia,420.0
+1959680039,en_GB,1993.0,female,375049,Los Angeles  California,-420.0
+2919431452,en_US,1994.0,female,374567,Staten Island  New York,-240.0
+2717402855,en_US,1991.0,female,374927,Pasadena  California,-420.0
+1912059312,id_ID,1994.0,male,375486,Jakarta  Indonesia,420.0
+3467140948,id_ID,1987.0,male,374822,Medan  Indonesia,420.0
+4192733318,id_ID,1985.0,male,374914,undefined  undefined,420.0
+1980915793,en_US,1982.0,female,372985,,-240.0
+1637039865,en_US,1992.0,male,375424,Seoul  Korea,420.0
+2408246939,id_ID,1991.0,male,375435,Yogyakarta,420.0
+3521411736,en_US,1990.0,female,375445,  ,420.0
+3169024744,id_ID,1990.0,female,374728,Jakarta  04,420.0
+4030714899,en_US,1991.0,male,375424,Los Angeles  California,300.0
+725162516,en_US,1982.0,male,376069,Lowell  Massachusetts,-300.0
+2388007096,es_LA,1993.0,male,375547,Santo Domingo  Dominican Republic,-240.0
+3316008620,en_GB,1982.0,male,373101,,-300.0
+1048933817,en_US,1986.0,male,375451,Phnom Penh  11,420.0
+14411090,en_US,1993.0,female,375609,Yogyakarta,480.0
+3531604778,en_US,1993.0,male,374525,New York  New York,-300.0
+2194245277,en_US,1990.0,male,374582,Medan  Indonesia,450.0
+490500468,id_ID,1989.0,male,375390,Yogyakarta  10,420.0
+1560565543,en_US,1985.0,male,375446,Phnom Pen  Phnum Penh  Cambodia,420.0
+1060557660,id_ID,1996.0,male,374913,Medan  Indonesia,420.0
+1342961341,id_ID,1996.0,female,375417,Yogyakarta,420.0
+1696361679,id_ID,1994.0,male,374620,Medan  Indonesia,420.0
+2842951963,en_US,1992.0,male,375644,Palmdale  California,-480.0
+1336647234,id_ID,1991.0,male,374633,Medan  26,420.0
+3089564924,id_ID,1998.0,male,374816,Bekasi,420.0
+3287429621,es_LA,1993.0,male,375221,Pomona  California,-480.0
+3828329584,en_US,1980.0,male,373671,,-300.0
+3064452030,en_US,1989.0,male,375120,Toronto  Ontario,-300.0
+516110926,id_ID,1987.0,male,375488,Yogyakarta,-60.0
+2160639516,en_US,1986.0,female,373021,,-240.0
+533192042,en_US,1990.0,female,375386,Melrose  Moka  Mauritius,240.0
+584188387,en_US,1980.0,male,376116,Los Angeles  California,60.0
+2328481418,en_US,1968.0,male,374301,,-420.0
+282487230,en_US,1982.0,male,375836,San Jacinto  California,-480.0
+335269852,id_ID,1993.0,male,374733,Medan  Indonesia,420.0
+1610329121,id_ID,1986.0,male,375368,Yogyakarta,420.0
+1668335332,en_US,1989.0,male,375601,Phnom Penh,420.0
+3597496510,es_ES,1992.0,male,375483,New York  New York,-270.0
+1952851403,id_ID,1994.0,male,375478,Yogyakarta,420.0
+4264591455,en_US,1993.0,male,375482,Phnom Penh,420.0
+451317840,en_US,1996.0,male,375792,New York  New York,-240.0
+3052673147,en_US,1979.0,male,375211,Los Angeles  California,-480.0
+3080858756,fr_FR,1996.0,female,375415,Trou D'Eau Douce  Flacq  Mauritius,240.0
+3663559651,id_ID,1993.0,male,374554,Medan  Indonesia,420.0
+458848274,id_ID,1990.0,male,374675,Medan  Indonesia,420.0
+3368369538,id_ID,1990.0,male,374556,Medan  Indonesia,420.0
+4024053152,en_US,1987.0,male,375441,Phnom Pen  Phnum Penh  Cambodia,420.0
+4202081674,id_ID,1994.0,female,375008,Medan  Indonesia,420.0
+2916716118,en_US,1991.0,male,374501,Montclair  NJ,-300.0
+2512917389,id_ID,1995.0,female,375448,Tangerang,420.0
+4129856023,en_US,1990.0,male,374496,Scottsdale  Arizona,-420.0
+3330927216,id_ID,1995.0,male,374761,Medan  Indonesia,420.0
+3705805946,en_US,1986.0,male,374970,Huntington Beach  California,-480.0
+305160382,id_ID,1992.0,male,375480,Surabaya  08,420.0
+3039417842,fr_FR,1952.0,male,372937,,-300.0
+967988763,en_US,1984.0,male,375938,Hollywood  California,-480.0
+1358222118,es_LA,1995.0,male,375664,Mao Adentro  Valverde  Dominican Republic,480.0
+4188511767,en_US,1987.0,female,375483,Phnom Penh,420.0
+635462786,id_ID,1992.0,male,375037,Sibolga,420.0
+4026562594,en_GB,1994.0,female,375416,Surabaya  Indonesia,420.0
+187910813,id_ID,1994.0,male,374966,Medan  Indonesia,420.0
+4262496040,id_ID,1998.0,female,374788,Medan  Indonesia,420.0
+10329108,id_ID,1992.0,female,375627,Tangerang,420.0
+3593927263,es_ES,1979.0,male,375444,Santo Domingo  Dominican Republic,480.0
+2040340167,en_US,1992.0,female,375622,Djokja  Yogyakarta  Indonesia,420.0
+2962725194,en_US,1994.0,female,375490,Phnom Penh  11,420.0
+1486465606,en_US,1990.0,male,375487,Phnom Penh,420.0
+641836752,en_US,1977.0,male,375770,Desert Hot Springs  CA,-480.0
+3222079869,en_US,1993.0,male,374035,,-240.0
+4098096768,id_ID,1992.0,male,374761,Medan  Indonesia,420.0
+272886293,id_ID,1995.0,male,374833,Medan  Indonesia,420.0
+1669178531,en_US,1995.0,male,375447,Phnom Penh  11,420.0
+2572315833,id_ID,1992.0,male,375393,Probolinggo,420.0
+1313492534,id_ID,1989.0,male,375452,Medan  Indonesia,420.0
+3325628838,es_ES,1994.0,female,375429,Santo Domingo  Dominican Republic,480.0
+2197210107,id_ID,1989.0,male,374833,Medan  Indonesia,420.0
+2984260178,id_ID,1997.0,male,375344,Jakarta  Indonesia,420.0
+3944910705,id_ID,1995.0,female,375488,San Francisco  CA,420.0
+3841524478,id_ID,1995.0,male,375292,Seoul  Korea,420.0
+1545906782,en_US,1988.0,male,374732,Los Angeles  California,-480.0
+1419064403,en_US,1992.0,male,375203,Pune  16,120.0
+254306319,en_US,1961.0,female,376272,Long Beach  California,-480.0
+310296684,en_US,1992.0,male,375370,Hangzhou  China,180.0
+3848620961,en_US,1982.0,male,375489,,420.0
+2243065045,id_ID,1995.0,male,374784,Medan  Indonesia,420.0
+604530209,id_ID,1996.0,female,375411,Medan  Indonesia,420.0
+1143069903,id_ID,1990.0,male,374922,Medan  Indonesia,420.0
+2718796148,id_ID,1992.0,male,374592,Bekasi,420.0
+2043422334,en_US,1993.0,male,375890,Hollywood  California,-480.0
+3839562998,id_ID,1992.0,male,375341,Bandung  30,420.0
+871177088,id_ID,1980.0,male,375615,Jombang  Jawa Timur  Indonesia,420.0
+4141359923,id_ID,1994.0,female,375413,Yogyakarta,420.0
+3221698850,en_US,1982.0,female,372858,,-240.0
+1967928641,en_US,1982.0,male,373598,,-240.0
+1757951758,en_US,1990.0,female,374512,Toronto  Ontario,-240.0
+1575376083,en_US,1986.0,male,375556,Phnom Penh,420.0
+3035907343,fa_IR,1991.0,female,375036,  ,210.0
+2209002289,en_US,1979.0,female,375625,Orleans  Ontario,-300.0
+1953913885,en_US,1995.0,female,375487,Phnom Penh,420.0
+413881487,id_ID,1993.0,male,375894,Yogyakarta,420.0
+4081761804,en_US,1989.0,male,372021,,-240.0
+1567970024,es_ES,1982.0,male,375439,Santo Domingo  Dominican Republic,-240.0
+1567057770,id_ID,1994.0,male,375420,Yogyakarta,420.0
+2692015370,en_US,1967.0,male,375338,Lagos  Nigeria,60.0
+2727221059,en_US,1990.0,male,375198,Anaheim  California,-480.0
+1793590520,en_US,1993.0,female,373193,,-240.0
+4246728549,id_ID,1993.0,male,374677,Medan  Indonesia,420.0
+1027766032,id_ID,1993.0,female,374794,Medan  Indonesia,420.0
+1774252774,id_ID,1992.0,female,374815,Medan  Indonesia,420.0
+1345896548,id_ID,1995.0,male,375342,Medan  Indonesia,420.0
+1707278925,en_US,1990.0,male,375366,Hargeisa  Somalia,480.0
+1622015724,en_US,1994.0,female,375694,Surabaya  Indonesia,420.0
+3258281955,id_ID,1997.0,female,375388,Padangsidimpuan  Sumatera Utara  Indonesia,420.0
+900679620,en_US,1988.0,male,375440,Poipet,420.0
+2855659739,id_ID,1994.0,male,374812,Medan  Indonesia,420.0
+620032149,en_GB,1990.0,male,375673,Los Angeles  CA,-480.0
+3626676306,en_US,1994.0,male,375442,Phnom Penh  11,420.0
+2858284447,en_US,,male,371569,,-300.0
+2990855864,es_LA,1995.0,female,375430,Santo Domingo  Dominican Republic,420.0
+1680807465,id_ID,1996.0,male,374773,Medan  Indonesia,420.0
+1710009181,id_ID,1992.0,male,374677,Sheffield,420.0
+2467706552,id_ID,1993.0,male,374885,Medan  Indonesia,420.0
+3035544663,en_US,1980.0,male,372329,,-240.0
+648931301,en_GB,1910.0,female,375783,Phnom Penh,420.0
+1239364869,en_US,1993.0,male,374303,Phoenix  Arizona,-420.0
+3486057072,id_ID,1991.0,female,374869,Los Angeles  California,240.0
+1115249498,es_LA,1999.0,female,375451,,-240.0
+3697799491,id_ID,1991.0,female,375658,Yogyakarta,420.0
+2635167233,id_ID,1994.0,male,375342,Yogyakarta,420.0
+1104038607,id_ID,1992.0,female,375424,Yogyakarta,420.0
+3377526627,id_ID,1992.0,male,374811,Medan  Indonesia,420.0
+2939775948,id_ID,1982.0,male,374849,Medan  Indonesia,420.0
+156079457,id_ID,1988.0,male,375341,Yogyakarta,420.0
+4005594979,en_US,,female,371438,,-300.0
+4239378941,en_US,1988.0,male,372691,,-240.0
+913235409,id_ID,1996.0,male,374815,Medan  Indonesia,420.0
+1931818423,es_LA,1992.0,female,375383,Santo Domingo  Dominican Republic,-240.0
+2722906127,en_GB,1988.0,male,375436,Phnom Penh  11,420.0
+3357905099,id_ID,1994.0,male,374775,Medan  Indonesia,420.0
+1144485498,id_ID,1992.0,male,375434,Yogyakarta,420.0
+903486144,es_LA,1998.0,female,375483,Santo Domingo  Dominican Republic,-240.0
+3333431092,en_US,1992.0,female,374731,Buena Park  California,-420.0
+2171206786,en_US,1977.0,male,375331,South Kenosha  Wisconsin,-360.0
+2196432988,id_ID,1992.0,female,375442,Sleman,420.0
+2148913954,id_ID,1995.0,male,375475,Jombang  Jawa Timur  Indonesia,420.0
+3251840412,es_LA,1986.0,male,376184,Konya  Turkey,-480.0
+1716791097,en_US,1986.0,female,375729,Kwidzynia  Elblag  Poland,60.0
+3228579807,en_US,1982.0,female,373490,,-240.0
+4217222631,id_ID,1993.0,male,374991,Madrid  Spain,420.0
+3071093998,id_ID,1985.0,female,375681,Yogyakarta,420.0
+1016099896,id_ID,1990.0,male,375048,Medan  Indonesia,420.0
+2763959582,id_ID,1993.0,male,374811,Medan  Indonesia,420.0
+2212184935,id_ID,1995.0,female,375200,Medan  Indonesia,420.0
+2823307221,id_ID,1993.0,female,375703,Yogyakarta,420.0
+1123831146,en_US,1996.0,male,375488,Fond du Sac  Mauritius,240.0
+3009580143,en_US,1992.0,male,374552,Queens  New York,-420.0
+128723876,en_US,1992.0,male,375132,Pematangsiantar,420.0
+2112130968,en_US,1985.0,male,374694,Los Angeles  California,-480.0
+2457737664,es_LA,1990.0,female,375143,Panorama City  CA,-480.0
+3972581484,id_ID,1997.0,male,375130,Barcelona  Spain,420.0
+3279316025,id_ID,1994.0,female,375590,Pontianak  Indonesia,30.0
+244644122,en_GB,1993.0,male,375488,Union Park  Grand Port  Mauritius,240.0
+2885761776,en_US,1994.0,male,375083,Los Angeles  California,480.0
+1433939064,id_ID,1993.0,female,374847,Medan  Indonesia,420.0
+3514195773,en_US,1974.0,male,375447,Oakland  California,-480.0
+2493952533,en_US,1977.0,female,375809,Lake Forest  California,-480.0
+2342474285,id_ID,1994.0,female,375464,Yogyakarta,420.0
+906981127,id_ID,1992.0,female,375446,Malang,420.0
+2316950688,id_ID,1992.0,male,375431,Laguboti  Sumatera Utara  Indonesia,-480.0
+1737346733,id_ID,1992.0,male,375426,Yogyakarta,420.0
+392706219,en_US,1995.0,female,375387,Cirebon,420.0
+1190190812,en_US,1996.0,male,375446,Siem Reap,420.0
+4213772349,en_US,1989.0,female,375669,Los Angeles  California,-480.0
+3573650571,en_US,1990.0,male,375463,Phnom Penh,-540.0
+2796038131,id_ID,1989.0,male,374709,Sigli  Aceh  Indonesia,
+680402144,id_ID,1994.0,male,375377,Semarang  07,420.0
+2239318984,en_US,1992.0,male,375568,Triolet  Mauritius,240.0
+3436715440,id_ID,1996.0,male,374765,Medan  Indonesia,420.0
+3484099744,es_ES,1994.0,male,375594,San Lorenzo  Santa Fe,-180.0
+458097400,en_GB,1978.0,male,376099,Mesa  Arizona,-420.0
+1525918364,id_ID,1995.0,male,375321,Medan  Indonesia,420.0
+1932371532,id_ID,1992.0,male,376106,Medan  Indonesia,420.0
+1826190863,es_LA,1979.0,male,376072,Pomona  California,-480.0
+4062975904,id_ID,1985.0,male,375554,Cilacap  Jawa Tengah  Indonesia,390.0
+694221975,id_ID,1980.0,male,374677,Medan  Indonesia,420.0
+1287850161,id_ID,1997.0,male,375726,Bekasi,420.0
+3793249811,en_US,1984.0,female,376325,Los Angeles  CA,-480.0
+223870698,id_ID,1993.0,male,375394,Jogjakarta  Indonesia,420.0
+2256989025,en_US,1995.0,male,375461,Phnom Pen  Phnum Penh  Cambodia,420.0
+596044827,en_US,1986.0,female,372027,,-300.0
+193920233,id_ID,1980.0,male,374605,Wonogiri  Jawa Tengah  Indonesia,420.0
+3186577794,id_ID,1991.0,female,375430,Medan  Indonesia,420.0
+1169270868,en_GB,1989.0,male,375421,Yogyakarta,420.0
+4007974189,en_US,1990.0,female,375301,Los Angeles  CA,-480.0
+3145229913,id_ID,1997.0,male,374793,Medan  Indonesia,420.0
+3554586211,en_GB,1992.0,male,375362,Yogyakarta,420.0
+1377253602,id_ID,1992.0,female,374816,Medan  Indonesia,420.0
+1665746866,en_US,1987.0,male,373681,,-300.0
+4175659797,id_ID,1997.0,male,375557,Singkil  Aceh  Indonesia,420.0
+2946269473,id_ID,1995.0,female,374718,Medan  Indonesia,60.0
+199120737,id_ID,1993.0,female,375417,Purworejo  Jawa Tengah  Indonesia,420.0
+1716727029,en_US,1989.0,female,375487,Kampot  Cambodia,420.0
+377835263,ar_AR,1983.0,male,375976,  ,180.0
+3780551356,en_US,,male,371528,,-240.0
+499079668,id_ID,1987.0,male,374597,Bekasi,300.0
+1476956307,id_ID,1994.0,female,374984,Medan  Indonesia,420.0
+249918369,en_GB,1994.0,female,375332,Yogyakarta,420.0
+1017178142,en_US,1992.0,male,375572,Los Angeles  CA,-480.0
+238446352,id_ID,1994.0,female,375392,Purwokerto  Jawa Tengah  Indonesia,420.0
+3065586006,en_US,1991.0,male,375811,Torrance  CA,300.0
+1948945052,id_ID,1993.0,male,375100,Medan  Indonesia,420.0
+3421333729,en_US,1994.0,female,375948,,420.0
+3368619983,en_GB,1990.0,male,375584,Banda Aceh  Indonesia,480.0
+1965944390,en_US,1994.0,male,375374,Pamplemousses  Pamplemousses  Mauritius,240.0
+2931803878,es_ES,1979.0,female,376394,Los Angeles  California,-480.0
+2328965162,en_US,1979.0,male,375455,Phnom Penh  11,420.0
+2081059890,en_US,1993.0,male,375456,Phnom Penh,420.0
+2496550100,en_US,1996.0,male,375349,Flacq  Flacq  Mauritius,240.0
+1372630997,en_US,1985.0,male,373677,,-300.0
+1619040661,en_US,1993.0,female,375483,Bantul,420.0
+2771438232,en_US,1979.0,male,373108,,-480.0
+1323529412,id_ID,1994.0,female,375442,Surabaya  08,420.0
+602551909,en_US,1992.0,male,375560,Phnom Pen  Phnum Penh  Cambodia,-480.0
+1543396188,id_ID,1986.0,male,375612,London  United Kingdom,420.0
+3376988073,id_ID,1992.0,male,374847,Medan  Indonesia,-480.0
+1008893291,id_ID,1994.0,female,375757,Bandung  Indonesia,420.0
+836256116,id_ID,1993.0,male,375797,Purwokerto  Jawa Tengah  Indonesia,-300.0
+581584739,en_US,1991.0,female,375444,Phnom Penh  11,420.0
+1330656870,en_US,1991.0,female,375448,Phnom Penh,420.0
+2941044791,en_US,1990.0,male,375151,Hollywood  California,-480.0
+2233880590,id_ID,1993.0,female,374843,Sibolga,420.0
+1328287907,en_US,1980.0,male,373031,,120.0
+2059471156,id_ID,1993.0,female,374697,Medan  Indonesia,420.0
+1080002133,en_US,1986.0,female,375842,San Francisco  California,-480.0
+1717882536,id_ID,1994.0,female,375369,Medan  Indonesia,-390.0
+3765981467,en_US,1990.0,male,375264,Los Angeles  CA,-480.0
+1438134738,en_US,1994.0,male,376046,Lahore  04,300.0
+1577437083,id_ID,1991.0,male,375476,Medan  Indonesia,420.0
+491792092,id_ID,1992.0,male,376038,Medan  Indonesia,420.0
+20041353,id_ID,1992.0,male,374749,Medan  Indonesia,420.0
+2393678699,en_US,1985.0,male,375497,Los Angeles  California,-480.0
+2246918838,en_US,1993.0,female,371976,,-300.0
+4180930546,hu_HU,1982.0,male,375373,Hamilton  Ontario,-300.0
+3269471699,id_ID,1992.0,male,375323,Yogyakarta,420.0
+1176550521,id_ID,1992.0,female,375394,Pematangsieantar  Sumatera Utara  Indonesia,420.0
+2824647204,id_ID,1992.0,male,375350,Djokja  Yogyakarta  Indonesia,420.0
+3627421819,id_ID,1993.0,male,374595,Medan  Indonesia,60.0
+2460812912,en_US,1988.0,male,375487,Phnom Penh,420.0
+2488018670,id_ID,1992.0,male,375441,Bantul,420.0
+803991005,en_US,1984.0,female,375246,Long Beach  CA,-480.0
+3488485988,id_ID,1988.0,male,374880,Bogor  30,420.0
+1392332761,id_ID,1992.0,female,375630,Yogyakarta,420.0
+1299595690,id_ID,1994.0,male,375486,Medan  Indonesia,420.0
+1842145373,id_ID,1995.0,male,375321,Cikampek  Jawa Barat  Indonesia,420.0
+4247553940,en_US,1972.0,male,375716,  ,-480.0
+2326463380,en_US,1992.0,male,375459,Phnom Penh,420.0
+990496397,id_ID,1988.0,female,374904,Jakarta  Indonesia,-600.0
+3761533297,ka_GE,1996.0,male,375475,Tbilisi  Georgia,180.0
+3422212913,en_US,1985.0,male,375480,Palo Alto  California,-480.0
+2024711643,en_US,1991.0,male,371999,,-240.0
+45148230,en_US,1991.0,male,375483,Cilegon,420.0
+1857390350,id_ID,1996.0,male,374719,Medan  Indonesia,420.0
+1724694030,en_GB,1988.0,male,375407,Purwokerto  Jawa Tengah  Indonesia,420.0
+1808101898,id_ID,1994.0,male,375447,Jakarta  04,420.0
+4107349498,id_ID,1991.0,male,374598,Medan  Indonesia,420.0
+2902208687,es_LA,1980.0,male,375372,Santo Domingo  Dominican Republic,-180.0
+97374877,en_US,1991.0,male,375349,Hargeisa  Somalia,-480.0
+1038182690,en_US,1976.0,male,375456,Phnom Pen  Phnum Penh  Cambodia,420.0
+486871070,id_ID,1997.0,male,375445,Surabaya  08,420.0
+4276320842,en_US,1991.0,female,375393,Djokja  Yogyakarta  Indonesia,420.0
+1732859563,id_ID,1997.0,male,374769,Medan  Indonesia,420.0
+3803199563,en_US,1994.0,male,375442,Port Louis  Mauritius,240.0
+1914182220,id_ID,1992.0,male,374848,Medan  Indonesia,420.0
+4101515763,id_ID,1995.0,female,374963,Jakarta  04,420.0
+2780094512,id_ID,1992.0,male,375373,Djokja  Yogyakarta  Indonesia,420.0
+3078024483,en_US,1990.0,female,375567,Yogyakarta,420.0
+2673355078,id_ID,1989.0,female,375437,Yogyakarta,180.0
+3147653776,en_US,1986.0,male,375456,Phnom Penh,420.0
+33930603,ms_MY,1983.0,male,375990,Los Angeles  California,480.0
+2544817539,id_ID,1998.0,male,374679,Medan  Indonesia,420.0
+763694881,en_US,1991.0,male,375490,Phnom Penh,420.0
+2695530712,id_ID,1910.0,male,375454,Batam  Ouham  Central African Republic,420.0
+825875823,id_ID,1997.0,female,374741,Medan  Indonesia,420.0
+2489943153,id_ID,1985.0,male,376183,Jakarta  Indonesia,420.0
+236194065,id_ID,1993.0,male,374678,Medan  26,420.0
+1011223331,id_ID,1995.0,male,375555,Purworejo  Jawa Tengah  Indonesia,420.0
+2187324082,id_ID,1993.0,male,374745,Medan  Indonesia,420.0
+641678389,en_GB,1978.0,male,374635,Toronto  Ontario,-300.0
+1107615001,en_US,1980.0,male,375116,Scottsdale  Arizona,-420.0
+1344492095,en_US,1972.0,female,374631,San Francisco  California,-480.0
+1799323346,en_US,1957.0,male,375488,New Delhi  India,330.0
+3934266336,id_ID,1994.0,male,374654,Medan  Indonesia,420.0
+403467810,en_US,1994.0,female,375434,Phnom Penh,420.0
+3525941406,id_ID,1989.0,male,375484,Surabaya  08,420.0
+2610662061,en_US,1989.0,female,375443,Yogyakarta,420.0
+1662308136,id_ID,1997.0,female,375486,Medan  Indonesia,420.0
+333508463,en_US,1991.0,male,375480,Phnom Penh,420.0
+2587246668,id_ID,1990.0,male,375541,Medan  Indonesia,420.0
+3330061773,id_ID,1989.0,male,374825,Medan  Indonesia,420.0
+2056142684,en_US,1993.0,female,375467,Phnom Penh,420.0
+23150045,en_US,1988.0,male,374881,Fontana  CA,-420.0
+1168909050,en_US,1993.0,female,375344,Centre de Flacq  Mauritius,-480.0
+840865386,en_US,1993.0,male,375437,Hargesa  Woqooyi Galbeed  Somalia,180.0
+2272634729,en_US,1994.0,male,375998,Abuja  31,
+491263047,id_ID,1992.0,female,375432,Jogjakarta  Indonesia,420.0
+1908507314,en_US,1993.0,male,375420,Plaine Des Papayes  Pamplemousses  Mauritius,-480.0
+2491957982,en_US,1992.0,female,375457,Jakarta  04,420.0
+689961313,en_GB,1992.0,male,375487,Singkil  Aceh  Indonesia,420.0
+905852095,id_ID,1994.0,female,374812,Medan  Indonesia,420.0
+2536109970,en_US,1993.0,female,375482,Phnom Penh,420.0
+1654935837,en_US,,male,370989,,-240.0
+708262477,id_ID,1997.0,male,374761,Medan  Indonesia,-360.0
+1109682681,id_ID,1994.0,male,374770,Tebing Tinggi,420.0
+4079159663,id_ID,1995.0,female,375101,Medan  Indonesia,420.0
+245442083,id_ID,1991.0,male,375312,Medan  Indonesia,420.0
+3258220935,es_LA,1993.0,male,375376,Santo Domingo  Dominican Republic,-240.0
+3823320698,en_US,1993.0,female,375443,Phnom Penh,420.0
+980272932,en_US,1985.0,female,375717,Los Angeles  California,-660.0
+3956887319,id_ID,1978.0,male,374629,Sigli  Aceh  Indonesia,-480.0
+204568422,id_ID,1997.0,female,376037,Medan  Indonesia,420.0
+4162769577,en_US,1992.0,female,375585,Phnom Penh,420.0
+91139927,id_ID,1993.0,male,375267,Medan  Indonesia,-600.0
+1044078286,id_ID,1995.0,female,375011,Medan  Indonesia,420.0
+2724319931,en_US,1988.0,male,375461,Phnom Penh,420.0
+3699893563,id_ID,1996.0,male,374583,Medan  Indonesia,420.0
+443655774,en_US,1990.0,female,376264,Manhattan  New York,-300.0
+331502829,en_US,1994.0,male,375424,Phnom Penh,420.0
+3162849104,en_US,1994.0,female,375485,Yogyakarta,420.0
+3711334312,es_LA,1983.0,female,375427,Santo Domingo  05,-180.0
+2440671055,en_US,1985.0,female,375390,Bel Air  Flacq  Mauritius,300.0
+3419376657,en_US,1988.0,male,374662,Long Beach  California,-480.0
+102981257,en_US,1990.0,male,375086,Gazipur  Dhaka  Bangladesh,180.0
+3188496109,en_US,1981.0,female,375900,Phnom Penh,420.0
+659725808,id_ID,1993.0,male,375437,Medan  Indonesia,420.0
+2914443596,id_ID,1996.0,female,374893,DKI Jakarta,420.0
+1171363794,en_US,1987.0,male,372929,,-240.0
+2680823346,en_GB,1991.0,,375387,Yogyakarta,420.0
+533051511,en_US,1990.0,female,375446,Phnom Pen  Phnum Penh  Cambodia,420.0
+1482478167,en_US,1979.0,male,375439,Phnom Penh,420.0
+3990579831,ru_RU,1994.0,female,375490,Tbilisi  Georgia,-480.0
+1160148526,en_US,1995.0,female,375446,  ,420.0
+4162525077,tr_TR,1980.0,male,375170,Los Angeles  California,-420.0
+496936219,en_US,1987.0,male,375485,Phnom Penh,420.0
+876103013,en_US,1994.0,male,375420,Los Angeles  California,60.0
+3122564522,id_ID,1990.0,female,375432,Cimanggis  Jawa Barat  Indonesia,420.0
+3784315595,en_US,1993.0,male,374536,New Haven  Connecticut,-240.0
+2169945834,id_ID,1993.0,male,375111,Medan  Indonesia,420.0
+1879908611,id_ID,1993.0,female,374770,Medan  Indonesia,330.0
+3261647162,id_ID,1994.0,male,375342,Medan  Indonesia,420.0
+1721715566,en_US,1989.0,male,375386,Garden Grove  California,-480.0
+1408344828,id_ID,1992.0,male,375457,Jokjakarta  Yogyakarta  Indonesia,420.0
+199379035,id_ID,1995.0,male,374772,Medan  Indonesia,420.0
+147852768,es_LA,1997.0,male,375407,Santo Domingo  Dominican Republic,480.0
+2940917694,en_US,1967.0,male,371084,,-480.0
+3863123259,fr_FR,1990.0,male,375855,Quatre Bornes  17,240.0
+2081393559,id_ID,1995.0,male,375559,Tanjungbalai  Sumatera Utara  Indonesia,420.0
+67249956,en_US,1995.0,male,375369,Flacq  Flacq  Mauritius,240.0
+3239836164,id_ID,1990.0,male,375298,Medan  Indonesia,420.0
+613747359,id_ID,1990.0,male,375367,Pematangsiantar,420.0
+1227484684,id_ID,1994.0,male,374621,Medan  Indonesia,420.0
+1053832375,id_ID,1996.0,male,375077,Medan  Indonesia,420.0
+1628172447,id_ID,1992.0,female,375371,Djokja  Yogyakarta  Indonesia,420.0
+4036343234,id_ID,1993.0,female,375395,Padangsidimpuan  Sumatera Utara  Indonesia,420.0
+3394779937,id_ID,1992.0,female,374826,Medan  Indonesia,420.0
+2234899895,en_US,1989.0,male,375541,Delhi  07,330.0
+614599699,en_US,1996.0,male,375389,Bel Air  Flacq  Mauritius,240.0
+3751606951,en_US,1989.0,male,373597,,540.0
+393035612,id_ID,1952.0,male,374701,Medan  Indonesia,420.0
+985245482,id_ID,1994.0,female,375382,Jogjakarta  Indonesia,420.0

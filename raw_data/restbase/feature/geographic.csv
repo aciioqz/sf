@@ -1,0 +1,169 @@
+id,city,county,region
+1,alameda,alameda county,bay area
+2,alamo,contra costa county,bay area
+3,albany,alameda county,bay area
+4,alviso,santa clara county,bay area
+5,american canyon,unknown,bay area
+6,angwin,napa county,napa valley
+7,antioch,contra costa county,bay area
+8,aptos,santa cruz county,bay area
+9,aromas,unknown,unknown
+10,atherton,san mateo county,bay area
+11,banta,unknown,unknown
+12,belmont,san mateo county,bay area
+13,belvedere tiburon,marin county,bay area
+14,ben lomond,santa cruz county,bay area
+15,benicia,solano county,bay area
+16,berkeley,alameda county,bay area
+17,bethel island,unknown,unknown
+18,big sur,monterey county,monterey
+19,bodega bay,sonoma county,bay area
+20,boulder creek,santa cruz county,bay area
+21,brentwood,contra costa county,bay area
+22,brisbane,san mateo county,bay area
+23,burlingame,san mateo county,bay area
+24,byron,unknown,bay area
+25,calistoga,napa county,napa valley
+26,campbell,santa clara county,bay area
+27,capitola,unknown,bay area
+28,carmel,monterey county,monterey
+29,castro valley,alameda county,bay area
+30,castroville,monterey county,monterey
+31,cerritos,los angeles county,los angeles area
+32,charlotte,unknown,unknown
+33,clayton,contra costa county,bay area
+34,colma,san mateo county,bay area
+35,columbia,tuolumne county,yosemite and mono lake area
+36,concord,contra costa county,bay area
+37,corte madera,marin county,bay area
+38,cotati,sonoma county,bay area
+39,crockett,unknown,bay area
+40,cupertino,santa clara county,bay area
+41,daly city,san mateo county,bay area
+42,danville,contra costa county,bay area
+43,davenport,santa cruz county,bay area
+44,davis,yolo county,sacramento area
+45,dixon,solano county,bay area
+46,dublin,alameda county,bay area
+47,eagan,unknown,unknown
+48,east palo alto,san mateo county,bay area
+49,el cerrito,contra costa county,bay area
+50,el granada,san mateo county,bay area
+51,el sobrante,contra costa county,bay area
+52,emeryville,alameda county,bay area
+53,fairfield,solano county,bay area
+54,felton,unknown,bay area
+55,forestville,sonoma county,bay area
+56,fort bragg,mendocino county,northern california
+57,foster city,san mateo county,bay area
+58,freedom,unknown,unknown
+59,fremont,alameda county,bay area
+60,gilroy,santa clara county,bay area
+61,glen ellen,sonoma county,bay area
+62,grass valley,unknown,unknown
+63,half moon bay,san mateo county,bay area
+64,hayward,alameda county,bay area
+65,healdsburg,sonoma county,bay area
+66,hercules,contra costa county,bay area
+67,hollister,san benito county,northern california
+68,inverness,marin county,bay area
+69,jenner,sonoma county,bay area
+70,kensington,unknown,bay area
+71,kenwood,sonoma county,bay area
+72,la honda,san mateo county,bay area
+73,lafayette,contra costa county,bay area
+74,larkspur,marin county,bay area
+75,livermore,alameda county,bay area
+76,los altos,santa clara county,bay area
+77,los gatos,santa clara county,bay area
+78,mammoth lakes,unknown,yosemite and mono lake area
+79,mare island,unknown,unknown
+80,marietta,unknown,unknown
+81,marina,monterey county,monterey
+82,martinez,contra costa county,bay area
+83,menlo park,san mateo county,bay area
+84,mill valley,marin county,bay area
+85,millbrae,san mateo county,bay area
+86,milpitas,santa clara county,bay area
+87,montara,san mateo county,bay area
+88,monte vista,unknown,unknown
+89,monterey,monterey county,monterey
+90,moraga,unknown,bay area
+91,morgan hill,santa clara county,bay area
+92,moss beach,san mateo county,bay area
+93,moss landing,monterey county,monterey
+94,mountain view,santa clara county,bay area
+95,napa,napa county,napa valley
+96,newark,alameda county,bay area
+97,novato,marin county,bay area
+98,oakland,alameda county,bay area
+99,oakley,contra costa county,bay area
+100,oakville,napa county,napa valley
+101,orinda,contra costa county,bay area
+102,pacheco,unknown,unknown
+103,pacific grove,monterey county,monterey
+104,pacifica,san mateo county,bay area
+105,palo alto,santa clara county,bay area
+106,pengrove,sonoma county,bay area
+107,pescadero,san mateo county,bay area
+108,petaluma,sonoma county,bay area
+109,piedmont,alameda county,bay area
+110,pinole,contra costa county,bay area
+111,pittsburg,contra costa county,bay area
+112,pleasant hill,contra costa county,bay area
+113,pleasanton,alameda county,bay area
+114,port costa,unknown,unknown
+115,portola valley,san mateo county,bay area
+116,redwood city,san mateo county,bay area
+117,richmond,contra costa county,bay area
+118,rio del mar,unknown,unknown
+119,rio vista,solano county,bay area
+120,rodeo,unknown,unknown
+121,rohnert park,sonoma county,bay area
+122,rutherford,napa county,napa valley
+123,saint helena,napa county,napa valley
+124,salinas,monterey county,monterey
+125,san anselmo,marin county,bay area
+126,san bruno,san mateo county,bay area
+127,san carlos,san mateo county,bay area
+128,san francisco,san francisco county,bay area
+129,san jose,santa clara county,bay area
+130,san juan bautista,san benito county,northern california
+131,san leandro,alameda county,bay area
+132,san lorenzo,alameda county,bay area
+133,san martin,santa clara county,bay area
+134,san mateo,san mateo county,bay area
+135,san pablo,contra costa county,bay area
+136,san rafael,marin county,bay area
+137,san ramon,contra costa county,bay area
+138,santa clara,santa clara county,bay area
+139,santa cruz,santa cruz county,bay area
+140,santa rosa,sonoma county,bay area
+141,saratoga,santa clara county,bay area
+142,sausalito,unknown,bay area
+143,scotts valley,unknown,bay area
+144,seaside,monterey county,monterey
+145,sebastopol,sonoma county,bay area
+146,sonoma,sonoma county,bay area
+147,sonora,tuolumne county,yosemite and mono lake area
+148,soquel,unknown,bay area
+149,south lake tahoe,el dorado county,lake tahoe
+150,south san francisco,san mateo county,bay area
+151,suisun city,solano county,bay area
+152,sunnyvale,santa clara county,bay area
+153,tahoe city,placer county,lake tahoe
+154,tahoe vista,placer county,lake tahoe
+155,tiburon,marin county,bay area
+156,tracy,san joaquin county,unknown
+157,tres pinos,unknown,unknown
+158,ukiah,mendocino county,northern california
+159,union city,alameda county,bay area
+160,vacaville,solano county,bay area
+161,vallejo,solano county,bay area
+162,vancouver,unknown,unknown
+163,walnut creek,contra costa county,bay area
+164,watsonville,santa cruz county,bay area
+165,west pittsburg,contra costa county,bay area
+166,winters,yolo county,sacramento area
+167,woodside,san mateo county,bay area
+168,yountville,napa county,napa valley

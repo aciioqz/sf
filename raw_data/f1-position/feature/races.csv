@@ -1,0 +1,1102 @@
+raceId,year,round,circuitId,name,date
+1,2009,1,1,Australian Grand Prix,1238306400
+2,2009,2,2,Malaysian Grand Prix,1238922000
+3,2009,3,17,Chinese Grand Prix,1240124400
+4,2009,4,3,Bahrain Grand Prix,1240747200
+5,2009,5,4,Spanish Grand Prix,1241956800
+6,2009,6,6,Monaco Grand Prix,1243166400
+7,2009,7,5,Turkish Grand Prix,1244376000
+8,2009,8,9,British Grand Prix,1245585600
+9,2009,9,20,German Grand Prix,1247400000
+10,2009,10,11,Hungarian Grand Prix,1248609600
+11,2009,11,12,European Grand Prix,1251028800
+12,2009,12,13,Belgian Grand Prix,1251633600
+13,2009,13,14,Italian Grand Prix,1252843200
+14,2009,14,15,Singapore Grand Prix,1254052800
+15,2009,15,22,Japanese Grand Prix,1254632400
+16,2009,16,18,Brazilian Grand Prix,1255881600
+17,2009,17,24,Abu Dhabi Grand Prix,1257073200
+18,2008,1,1,Australian Grand Prix,1205641800
+19,2008,2,2,Malaysian Grand Prix,1206255600
+20,2008,3,3,Bahrain Grand Prix,1207481400
+21,2008,4,4,Spanish Grand Prix,1209297600
+22,2008,5,5,Turkish Grand Prix,1210507200
+23,2008,6,6,Monaco Grand Prix,1211716800
+24,2008,7,7,Canadian Grand Prix,1212944400
+25,2008,8,8,French Grand Prix,1214136000
+26,2008,9,9,British Grand Prix,1215345600
+27,2008,10,10,German Grand Prix,1216555200
+28,2008,11,11,Hungarian Grand Prix,1217764800
+29,2008,12,12,European Grand Prix,1219579200
+30,2008,13,13,Belgian Grand Prix,1220788800
+31,2008,14,14,Italian Grand Prix,1221393600
+32,2008,15,15,Singapore Grand Prix,1222603200
+33,2008,16,16,Japanese Grand Prix,1223785800
+34,2008,17,17,Chinese Grand Prix,1224399600
+35,2008,18,18,Brazilian Grand Prix,1225645200
+36,2007,1,1,Australian Grand Prix,1174186800
+37,2007,2,2,Malaysian Grand Prix,1176015600
+38,2007,3,3,Bahrain Grand Prix,1176636600
+39,2007,4,4,Spanish Grand Prix,1179057600
+40,2007,5,6,Monaco Grand Prix,1180267200
+41,2007,6,7,Canadian Grand Prix,1181494800
+42,2007,7,19,United States Grand Prix,1182099600
+43,2007,8,8,French Grand Prix,1183291200
+44,2007,9,9,British Grand Prix,1183896000
+45,2007,10,20,European Grand Prix,1185105600
+46,2007,11,11,Hungarian Grand Prix,1186315200
+47,2007,12,5,Turkish Grand Prix,1188129600
+48,2007,13,14,Italian Grand Prix,1189339200
+49,2007,14,13,Belgian Grand Prix,1189944000
+50,2007,15,16,Japanese Grand Prix,1191126600
+51,2007,16,17,Chinese Grand Prix,1191736800
+52,2007,17,18,Brazilian Grand Prix,1192982400
+53,2006,1,3,Bahrain Grand Prix,1142173800
+54,2006,2,2,Malaysian Grand Prix,1142780400
+55,2006,3,1,Australian Grand Prix,1143986400
+56,2006,4,21,San Marino Grand Prix,1145800800
+57,2006,5,20,European Grand Prix,1147010400
+58,2006,6,4,Spanish Grand Prix,1147615200
+59,2006,7,6,Monaco Grand Prix,1148824800
+60,2006,8,9,British Grand Prix,1150027200
+61,2006,9,7,Canadian Grand Prix,1151240400
+62,2006,10,19,United States Grand Prix,1151848800
+63,2006,11,8,French Grand Prix,1153058400
+64,2006,12,10,German Grand Prix,1154268000
+65,2006,13,11,Hungarian Grand Prix,1154872800
+66,2006,14,5,Turkish Grand Prix,1156690800
+67,2006,15,14,Italian Grand Prix,1157896800
+68,2006,16,17,Chinese Grand Prix,1159711200
+69,2006,17,22,Japanese Grand Prix,1160316000
+70,2006,18,18,Brazilian Grand Prix,1161525600
+71,2005,1,1,Australian Grand Prix,1110117600
+72,2005,2,2,Malaysian Grand Prix,1111330800
+73,2005,3,3,Bahrain Grand Prix,1112538600
+74,2005,4,21,San Marino Grand Prix,1114351200
+75,2005,5,4,Spanish Grand Prix,1115560800
+76,2005,6,6,Monaco Grand Prix,1116770400
+77,2005,7,20,European Grand Prix,1117375200
+78,2005,8,7,Canadian Grand Prix,1118581200
+79,2005,9,19,United States Grand Prix,1119189600
+80,2005,10,8,French Grand Prix,1120399200
+81,2005,11,9,British Grand Prix,1121004000
+82,2005,12,10,German Grand Prix,1122213600
+83,2005,13,11,Hungarian Grand Prix,1122818400
+84,2005,14,5,Turkish Grand Prix,1124636400
+85,2005,15,14,Italian Grand Prix,1125842400
+86,2005,16,13,Belgian Grand Prix,1126447200
+87,2005,17,18,Brazilian Grand Prix,1127656800
+88,2005,18,22,Japanese Grand Prix,1128866400
+89,2005,19,17,Chinese Grand Prix,1129471200
+90,2004,1,1,Australian Grand Prix,1078617600
+91,2004,2,2,Malaysian Grand Prix,1079827200
+92,2004,3,3,Bahrain Grand Prix,1081036800
+93,2004,4,21,San Marino Grand Prix,1082851200
+94,2004,5,4,Spanish Grand Prix,1084060800
+95,2004,6,6,Monaco Grand Prix,1085270400
+96,2004,7,20,European Grand Prix,1085875200
+97,2004,8,7,Canadian Grand Prix,1087084800
+98,2004,9,19,United States Grand Prix,1087689600
+99,2004,10,8,French Grand Prix,1088899200
+100,2004,11,9,British Grand Prix,1089504000
+101,2004,12,10,German Grand Prix,1090713600
+102,2004,13,11,Hungarian Grand Prix,1092528000
+103,2004,14,13,Belgian Grand Prix,1093737600
+104,2004,15,14,Italian Grand Prix,1094947200
+105,2004,16,17,Chinese Grand Prix,1096156800
+106,2004,17,22,Japanese Grand Prix,1097366400
+107,2004,18,18,Brazilian Grand Prix,1098576000
+108,2003,1,1,Australian Grand Prix,1047168000
+109,2003,2,2,Malaysian Grand Prix,1048377600
+110,2003,3,18,Brazilian Grand Prix,1049587200
+111,2003,4,21,San Marino Grand Prix,1050796800
+112,2003,5,4,Spanish Grand Prix,1052006400
+113,2003,6,70,Austrian Grand Prix,1053216000
+114,2003,7,6,Monaco Grand Prix,1054425600
+115,2003,8,7,Canadian Grand Prix,1055635200
+116,2003,9,20,European Grand Prix,1056844800
+117,2003,10,8,French Grand Prix,1057449600
+118,2003,11,9,British Grand Prix,1058659200
+119,2003,12,10,German Grand Prix,1059868800
+120,2003,13,11,Hungarian Grand Prix,1061683200
+121,2003,14,14,Italian Grand Prix,1063497600
+122,2003,15,19,United States Grand Prix,1064707200
+123,2003,16,22,Japanese Grand Prix,1065916800
+124,2002,1,1,Australian Grand Prix,1015113600
+125,2002,2,2,Malaysian Grand Prix,1016323200
+126,2002,3,18,Brazilian Grand Prix,1017532800
+127,2002,4,21,San Marino Grand Prix,1018742400
+128,2002,5,4,Spanish Grand Prix,1019952000
+129,2002,6,70,Austrian Grand Prix,1021161600
+130,2002,7,6,Monaco Grand Prix,1022371200
+131,2002,8,7,Canadian Grand Prix,1023580800
+132,2002,9,20,European Grand Prix,1024790400
+133,2002,10,9,British Grand Prix,1026000000
+134,2002,11,8,French Grand Prix,1027209600
+135,2002,12,10,German Grand Prix,1027814400
+136,2002,13,11,Hungarian Grand Prix,1029628800
+137,2002,14,13,Belgian Grand Prix,1030838400
+138,2002,15,14,Italian Grand Prix,1032048000
+139,2002,16,19,United States Grand Prix,1033257600
+140,2002,17,22,Japanese Grand Prix,1034467200
+141,2001,1,1,Australian Grand Prix,983664000
+142,2001,2,2,Malaysian Grand Prix,984873600
+143,2001,3,18,Brazilian Grand Prix,986083200
+144,2001,4,21,San Marino Grand Prix,987292800
+145,2001,5,4,Spanish Grand Prix,988502400
+146,2001,6,70,Austrian Grand Prix,989712000
+147,2001,7,6,Monaco Grand Prix,990921600
+148,2001,8,7,Canadian Grand Prix,992131200
+149,2001,9,20,European Grand Prix,993340800
+150,2001,10,8,French Grand Prix,993945600
+151,2001,11,9,British Grand Prix,995155200
+152,2001,12,10,German Grand Prix,996364800
+153,2001,13,11,Hungarian Grand Prix,998179200
+154,2001,14,13,Belgian Grand Prix,999388800
+155,2001,15,14,Italian Grand Prix,1000598400
+156,2001,16,19,United States Grand Prix,1001808000
+157,2001,17,22,Japanese Grand Prix,1003017600
+158,2000,1,1,Australian Grand Prix,952819200
+159,2000,2,18,Brazilian Grand Prix,954028800
+160,2000,3,21,San Marino Grand Prix,955238400
+161,2000,4,9,British Grand Prix,956448000
+162,2000,5,4,Spanish Grand Prix,957657600
+163,2000,6,20,European Grand Prix,958867200
+164,2000,7,6,Monaco Grand Prix,960076800
+165,2000,8,7,Canadian Grand Prix,961286400
+166,2000,9,8,French Grand Prix,962496000
+167,2000,10,70,Austrian Grand Prix,963705600
+168,2000,11,10,German Grand Prix,964915200
+169,2000,12,11,Hungarian Grand Prix,966124800
+170,2000,13,13,Belgian Grand Prix,967334400
+171,2000,14,14,Italian Grand Prix,968544000
+172,2000,15,19,United States Grand Prix,969753600
+173,2000,16,22,Japanese Grand Prix,970963200
+174,2000,17,2,Malaysian Grand Prix,972172800
+175,1999,1,1,Australian Grand Prix,920764800
+176,1999,2,18,Brazilian Grand Prix,923788800
+177,1999,3,21,San Marino Grand Prix,925603200
+178,1999,4,6,Monaco Grand Prix,926812800
+179,1999,5,4,Spanish Grand Prix,928022400
+180,1999,6,7,Canadian Grand Prix,929232000
+181,1999,7,8,French Grand Prix,930441600
+182,1999,8,9,British Grand Prix,931651200
+183,1999,9,70,Austrian Grand Prix,932860800
+184,1999,10,10,German Grand Prix,933465600
+185,1999,11,11,Hungarian Grand Prix,934675200
+186,1999,12,13,Belgian Grand Prix,935884800
+187,1999,13,14,Italian Grand Prix,937094400
+188,1999,14,20,European Grand Prix,938304000
+189,1999,15,2,Malaysian Grand Prix,940118400
+190,1999,16,22,Japanese Grand Prix,941328000
+191,1998,1,1,Australian Grand Prix,889315200
+192,1998,2,18,Brazilian Grand Prix,891129600
+193,1998,3,25,Argentine Grand Prix,892339200
+194,1998,4,21,San Marino Grand Prix,893548800
+195,1998,5,4,Spanish Grand Prix,894758400
+196,1998,6,6,Monaco Grand Prix,895968000
+197,1998,7,7,Canadian Grand Prix,897177600
+198,1998,8,8,French Grand Prix,898992000
+199,1998,9,9,British Grand Prix,900201600
+200,1998,10,70,Austrian Grand Prix,901411200
+201,1998,11,10,German Grand Prix,902016000
+202,1998,12,11,Hungarian Grand Prix,903225600
+203,1998,13,13,Belgian Grand Prix,904435200
+204,1998,14,14,Italian Grand Prix,905644800
+205,1998,15,20,Luxembourg Grand Prix,906854400
+206,1998,16,22,Japanese Grand Prix,909878400
+207,1997,1,1,Australian Grand Prix,857865600
+208,1997,2,18,Brazilian Grand Prix,859680000
+209,1997,3,25,Argentine Grand Prix,860889600
+210,1997,4,21,San Marino Grand Prix,862099200
+211,1997,5,6,Monaco Grand Prix,863308800
+212,1997,6,4,Spanish Grand Prix,864518400
+213,1997,7,7,Canadian Grand Prix,866332800
+214,1997,8,8,French Grand Prix,867542400
+215,1997,9,9,British Grand Prix,868752000
+216,1997,10,10,German Grand Prix,869961600
+217,1997,11,11,Hungarian Grand Prix,871171200
+218,1997,12,13,Belgian Grand Prix,872380800
+219,1997,13,14,Italian Grand Prix,873590400
+220,1997,14,70,Austrian Grand Prix,874800000
+221,1997,15,20,Luxembourg Grand Prix,875404800
+222,1997,16,22,Japanese Grand Prix,876614400
+223,1997,17,26,European Grand Prix,877824000
+224,1996,1,1,Australian Grand Prix,826416000
+225,1996,2,18,Brazilian Grand Prix,828230400
+226,1996,3,25,Argentine Grand Prix,828835200
+227,1996,4,20,European Grand Prix,830649600
+228,1996,5,21,San Marino Grand Prix,831254400
+229,1996,6,6,Monaco Grand Prix,832464000
+230,1996,7,4,Spanish Grand Prix,833673600
+231,1996,8,7,Canadian Grand Prix,834883200
+232,1996,9,8,French Grand Prix,836092800
+233,1996,10,9,British Grand Prix,837302400
+234,1996,11,10,German Grand Prix,838512000
+235,1996,12,11,Hungarian Grand Prix,839721600
+236,1996,13,13,Belgian Grand Prix,840931200
+237,1996,14,14,Italian Grand Prix,842140800
+238,1996,15,27,Portuguese Grand Prix,843350400
+239,1996,16,22,Japanese Grand Prix,845164800
+240,1995,1,18,Brazilian Grand Prix,796176000
+241,1995,2,25,Argentine Grand Prix,797385600
+242,1995,3,21,San Marino Grand Prix,799200000
+243,1995,4,4,Spanish Grand Prix,800409600
+244,1995,5,6,Monaco Grand Prix,801619200
+245,1995,6,7,Canadian Grand Prix,802828800
+246,1995,7,8,French Grand Prix,804643200
+247,1995,8,9,British Grand Prix,805852800
+248,1995,9,10,German Grand Prix,807062400
+249,1995,10,11,Hungarian Grand Prix,808272000
+250,1995,11,13,Belgian Grand Prix,809481600
+251,1995,12,14,Italian Grand Prix,810691200
+252,1995,13,27,Portuguese Grand Prix,811900800
+253,1995,14,20,European Grand Prix,812505600
+254,1995,15,28,Pacific Grand Prix,814320000
+255,1995,16,22,Japanese Grand Prix,814924800
+256,1995,17,29,Australian Grand Prix,816134400
+257,1994,1,18,Brazilian Grand Prix,764726400
+258,1994,2,28,Pacific Grand Prix,766540800
+259,1994,3,21,San Marino Grand Prix,767750400
+260,1994,4,6,Monaco Grand Prix,768960000
+261,1994,5,4,Spanish Grand Prix,770169600
+262,1994,6,7,Canadian Grand Prix,771379200
+263,1994,7,8,French Grand Prix,773193600
+264,1994,8,9,British Grand Prix,773798400
+265,1994,9,10,German Grand Prix,775612800
+266,1994,10,11,Hungarian Grand Prix,776822400
+267,1994,11,13,Belgian Grand Prix,778032000
+268,1994,12,14,Italian Grand Prix,779241600
+269,1994,13,27,Portuguese Grand Prix,780451200
+270,1994,14,26,European Grand Prix,782265600
+271,1994,15,22,Japanese Grand Prix,784080000
+272,1994,16,29,Australian Grand Prix,784684800
+273,1993,1,30,South African Grand Prix,732067200
+274,1993,2,18,Brazilian Grand Prix,733276800
+275,1993,3,31,European Grand Prix,734486400
+276,1993,4,21,San Marino Grand Prix,735696000
+277,1993,5,4,Spanish Grand Prix,736905600
+278,1993,6,6,Monaco Grand Prix,738115200
+279,1993,7,7,Canadian Grand Prix,739929600
+280,1993,8,8,French Grand Prix,741744000
+281,1993,9,9,British Grand Prix,742348800
+282,1993,10,10,German Grand Prix,743558400
+283,1993,11,11,Hungarian Grand Prix,745372800
+284,1993,12,13,Belgian Grand Prix,746582400
+285,1993,13,14,Italian Grand Prix,747792000
+286,1993,14,27,Portuguese Grand Prix,749001600
+287,1993,15,22,Japanese Grand Prix,751420800
+288,1993,16,29,Australian Grand Prix,752630400
+289,1992,1,30,South African Grand Prix,699408000
+290,1992,2,32,Mexican Grand Prix,701222400
+291,1992,3,18,Brazilian Grand Prix,702432000
+292,1992,4,4,Spanish Grand Prix,704851200
+293,1992,5,21,San Marino Grand Prix,706060800
+294,1992,6,6,Monaco Grand Prix,707270400
+295,1992,7,7,Canadian Grand Prix,708480000
+296,1992,8,8,French Grand Prix,710294400
+297,1992,9,9,British Grand Prix,710899200
+298,1992,10,10,German Grand Prix,712108800
+299,1992,11,11,Hungarian Grand Prix,713923200
+300,1992,12,13,Belgian Grand Prix,715132800
+301,1992,13,14,Italian Grand Prix,716342400
+302,1992,14,27,Portuguese Grand Prix,717552000
+303,1992,15,22,Japanese Grand Prix,719971200
+304,1992,16,29,Australian Grand Prix,721180800
+305,1991,1,33,United States Grand Prix,668563200
+306,1991,2,18,Brazilian Grand Prix,669772800
+307,1991,3,21,San Marino Grand Prix,672796800
+308,1991,4,6,Monaco Grand Prix,674006400
+309,1991,5,7,Canadian Grand Prix,675820800
+310,1991,6,32,Mexican Grand Prix,677030400
+311,1991,7,8,French Grand Prix,678844800
+312,1991,8,9,British Grand Prix,679449600
+313,1991,9,10,German Grand Prix,680659200
+314,1991,10,11,Hungarian Grand Prix,681868800
+315,1991,11,13,Belgian Grand Prix,683078400
+316,1991,12,14,Italian Grand Prix,684288000
+317,1991,13,27,Portuguese Grand Prix,685497600
+318,1991,14,4,Spanish Grand Prix,686102400
+319,1991,15,22,Japanese Grand Prix,687916800
+320,1991,16,29,Australian Grand Prix,689126400
+321,1990,1,33,United States Grand Prix,637113600
+322,1990,2,18,Brazilian Grand Prix,638323200
+323,1990,3,21,San Marino Grand Prix,642556800
+324,1990,4,6,Monaco Grand Prix,643766400
+325,1990,5,7,Canadian Grand Prix,644976000
+326,1990,6,32,Mexican Grand Prix,646185600
+327,1990,7,34,French Grand Prix,647395200
+328,1990,8,9,British Grand Prix,648000000
+329,1990,9,10,German Grand Prix,649209600
+330,1990,10,11,Hungarian Grand Prix,650419200
+331,1990,11,13,Belgian Grand Prix,651628800
+332,1990,12,14,Italian Grand Prix,652838400
+333,1990,13,27,Portuguese Grand Prix,654048000
+334,1990,14,26,Spanish Grand Prix,654652800
+335,1990,15,22,Japanese Grand Prix,656467200
+336,1990,16,29,Australian Grand Prix,657676800
+337,2010,1,3,Bahrain Grand Prix,1268568000
+338,2010,2,1,Australian Grand Prix,1269756000
+339,2010,3,2,Malaysian Grand Prix,1270368000
+340,2010,4,17,Chinese Grand Prix,1271570400
+341,2010,5,4,Spanish Grand Prix,1273406400
+342,2010,6,6,Monaco Grand Prix,1274011200
+343,2010,7,5,Turkish Grand Prix,1275217200
+344,2010,8,7,Canadian Grand Prix,1276444800
+345,2010,9,12,European Grand Prix,1277640000
+346,2010,10,9,British Grand Prix,1278849600
+347,2010,11,10,German Grand Prix,1280059200
+348,2010,12,11,Hungarian Grand Prix,1280664000
+349,2010,13,13,Belgian Grand Prix,1283083200
+350,2010,14,14,Italian Grand Prix,1284292800
+351,2010,15,15,Singapore Grand Prix,1285502400
+352,2010,16,22,Japanese Grand Prix,1286690400
+353,2010,17,35,Korean Grand Prix,1287896400
+354,2010,18,18,Brazilian Grand Prix,1289145600
+355,2010,19,24,Abu Dhabi Grand Prix,1289739600
+356,1989,1,36,Brazilian Grand Prix,606873600
+357,1989,2,21,San Marino Grand Prix,609292800
+358,1989,3,6,Monaco Grand Prix,610502400
+359,1989,4,32,Mexican Grand Prix,612316800
+360,1989,5,33,United States Grand Prix,612921600
+361,1989,6,7,Canadian Grand Prix,614131200
+362,1989,7,34,French Grand Prix,615945600
+363,1989,8,9,British Grand Prix,616550400
+364,1989,9,10,German Grand Prix,617760000
+365,1989,10,11,Hungarian Grand Prix,618969600
+366,1989,11,13,Belgian Grand Prix,620179200
+367,1989,12,14,Italian Grand Prix,621388800
+368,1989,13,27,Portuguese Grand Prix,622598400
+369,1989,14,26,Spanish Grand Prix,623203200
+370,1989,15,22,Japanese Grand Prix,625017600
+371,1989,16,29,Australian Grand Prix,626227200
+372,1988,1,36,Brazilian Grand Prix,576028800
+373,1988,2,21,San Marino Grand Prix,578448000
+374,1988,3,6,Monaco Grand Prix,579657600
+375,1988,4,32,Mexican Grand Prix,580867200
+376,1988,5,7,Canadian Grand Prix,582076800
+377,1988,6,37,Detroit Grand Prix,582681600
+378,1988,7,34,French Grand Prix,583891200
+379,1988,8,9,British Grand Prix,584496000
+380,1988,9,10,German Grand Prix,585705600
+381,1988,10,11,Hungarian Grand Prix,586915200
+382,1988,11,13,Belgian Grand Prix,588729600
+383,1988,12,14,Italian Grand Prix,589939200
+384,1988,13,27,Portuguese Grand Prix,591148800
+385,1988,14,26,Spanish Grand Prix,591753600
+386,1988,15,22,Japanese Grand Prix,594172800
+387,1988,16,29,Australian Grand Prix,595382400
+388,1987,1,36,Brazilian Grand Prix,545184000
+389,1987,2,21,San Marino Grand Prix,546998400
+390,1987,3,13,Belgian Grand Prix,548208000
+391,1987,4,6,Monaco Grand Prix,549417600
+392,1987,5,37,Detroit Grand Prix,551232000
+393,1987,6,34,French Grand Prix,552441600
+394,1987,7,9,British Grand Prix,553046400
+395,1987,8,10,German Grand Prix,554256000
+396,1987,9,11,Hungarian Grand Prix,555465600
+397,1987,10,70,Austrian Grand Prix,556070400
+398,1987,11,14,Italian Grand Prix,557884800
+399,1987,12,27,Portuguese Grand Prix,559094400
+400,1987,13,26,Spanish Grand Prix,559699200
+401,1987,14,32,Mexican Grand Prix,561513600
+402,1987,15,22,Japanese Grand Prix,562723200
+403,1987,16,29,Australian Grand Prix,563932800
+404,1986,1,36,Brazilian Grand Prix,511920000
+405,1986,2,26,Spanish Grand Prix,513734400
+406,1986,3,21,San Marino Grand Prix,514944000
+407,1986,4,6,Monaco Grand Prix,516153600
+408,1986,5,13,Belgian Grand Prix,517363200
+409,1986,6,7,Canadian Grand Prix,519177600
+410,1986,7,37,Detroit Grand Prix,519782400
+411,1986,8,34,French Grand Prix,520992000
+412,1986,9,38,British Grand Prix,521596800
+413,1986,10,10,German Grand Prix,522806400
+414,1986,11,11,Hungarian Grand Prix,524016000
+415,1986,12,70,Austrian Grand Prix,524620800
+416,1986,13,14,Italian Grand Prix,526435200
+417,1986,14,27,Portuguese Grand Prix,527644800
+418,1986,15,32,Mexican Grand Prix,529459200
+419,1986,16,29,Australian Grand Prix,530668800
+420,1985,1,36,Brazilian Grand Prix,481680000
+421,1985,2,27,Portuguese Grand Prix,482889600
+422,1985,3,21,San Marino Grand Prix,484099200
+423,1985,4,6,Monaco Grand Prix,485308800
+424,1985,5,7,Canadian Grand Prix,487728000
+425,1985,6,37,Detroit Grand Prix,488332800
+426,1985,7,34,French Grand Prix,489542400
+427,1985,8,9,British Grand Prix,490752000
+428,1985,9,20,German Grand Prix,491961600
+429,1985,10,70,Austrian Grand Prix,493171200
+430,1985,11,39,Dutch Grand Prix,493776000
+431,1985,12,14,Italian Grand Prix,494985600
+432,1985,13,13,Belgian Grand Prix,495590400
+433,1985,14,38,European Grand Prix,497404800
+434,1985,15,30,South African Grand Prix,498528000
+435,1985,16,29,Australian Grand Prix,499824000
+436,1984,1,36,Brazilian Grand Prix,449020800
+437,1984,2,30,South African Grand Prix,450144000
+438,1984,3,40,Belgian Grand Prix,452044800
+439,1984,4,21,San Marino Grand Prix,452649600
+440,1984,5,41,French Grand Prix,453859200
+441,1984,6,6,Monaco Grand Prix,455068800
+442,1984,7,7,Canadian Grand Prix,456278400
+443,1984,8,37,Detroit Grand Prix,456883200
+444,1984,9,42,Dallas Grand Prix,458092800
+445,1984,10,38,British Grand Prix,459302400
+446,1984,11,10,German Grand Prix,460512000
+447,1984,12,70,Austrian Grand Prix,461721600
+448,1984,13,39,Dutch Grand Prix,462326400
+449,1984,14,14,Italian Grand Prix,463536000
+450,1984,15,20,European Grand Prix,465955200
+451,1984,16,27,Portuguese Grand Prix,467164800
+452,1983,1,36,Brazilian Grand Prix,416361600
+453,1983,2,43,United States Grand Prix West,417571200
+454,1983,3,34,French Grand Prix,419385600
+455,1983,4,21,San Marino Grand Prix,420595200
+456,1983,5,6,Monaco Grand Prix,421804800
+457,1983,6,13,Belgian Grand Prix,422409600
+458,1983,7,37,Detroit Grand Prix,423619200
+459,1983,8,7,Canadian Grand Prix,424224000
+460,1983,9,9,British Grand Prix,427161600
+461,1983,10,10,German Grand Prix,429062400
+462,1983,11,70,Austrian Grand Prix,429667200
+463,1983,12,39,Dutch Grand Prix,430876800
+464,1983,13,14,Italian Grand Prix,432086400
+465,1983,14,38,European Grand Prix,433296000
+466,1983,15,30,South African Grand Prix,435024000
+467,1982,1,30,South African Grand Prix,380592000
+468,1982,2,36,Brazilian Grand Prix,385516800
+469,1982,3,43,United States Grand Prix West,386726400
+470,1982,4,21,San Marino Grand Prix,388540800
+471,1982,5,40,Belgian Grand Prix,389750400
+472,1982,6,6,Monaco Grand Prix,390960000
+473,1982,7,37,Detroit Grand Prix,392169600
+474,1982,8,7,Canadian Grand Prix,392774400
+475,1982,9,39,Dutch Grand Prix,394502400
+476,1982,10,38,British Grand Prix,395798400
+477,1982,11,34,French Grand Prix,396403200
+478,1982,12,10,German Grand Prix,397612800
+479,1982,13,70,Austrian Grand Prix,398217600
+480,1982,14,41,Swiss Grand Prix,399427200
+481,1982,15,14,Italian Grand Prix,400636800
+482,1982,16,44,Caesars Palace Grand Prix,401760000
+483,1981,1,43,United States Grand Prix West,353462400
+484,1981,2,36,Brazilian Grand Prix,354672000
+485,1981,3,25,Argentine Grand Prix,355881600
+486,1981,4,21,San Marino Grand Prix,357696000
+487,1981,5,40,Belgian Grand Prix,358905600
+488,1981,6,6,Monaco Grand Prix,360115200
+489,1981,7,45,Spanish Grand Prix,361929600
+490,1981,8,41,French Grand Prix,363139200
+491,1981,9,9,British Grand Prix,364262400
+492,1981,10,10,German Grand Prix,365558400
+493,1981,11,70,Austrian Grand Prix,366768000
+494,1981,12,39,Dutch Grand Prix,367977600
+495,1981,13,14,Italian Grand Prix,369187200
+496,1981,14,7,Canadian Grand Prix,370396800
+497,1981,15,44,Caesars Palace Grand Prix,372124800
+498,1980,1,25,Argentine Grand Prix,316569600
+499,1980,2,18,Brazilian Grand Prix,317779200
+500,1980,3,30,South African Grand Prix,320716800
+501,1980,4,43,United States Grand Prix West,323222400
+502,1980,5,40,Belgian Grand Prix,326246400
+503,1980,6,6,Monaco Grand Prix,327456000
+504,1980,7,34,French Grand Prix,331084800
+505,1980,8,38,British Grand Prix,332294400
+506,1980,9,10,German Grand Prix,334713600
+507,1980,10,70,Austrian Grand Prix,335318400
+508,1980,11,39,Dutch Grand Prix,336528000
+509,1980,12,21,Italian Grand Prix,337737600
+510,1980,13,7,Canadian Grand Prix,338947200
+511,1980,14,46,United States Grand Prix,339552000
+512,1979,1,25,Argentine Grand Prix,285724800
+513,1979,2,18,Brazilian Grand Prix,286934400
+514,1979,3,30,South African Grand Prix,289267200
+515,1979,4,43,United States Grand Prix West,292377600
+516,1979,5,45,Spanish Grand Prix,294192000
+517,1979,6,40,Belgian Grand Prix,295401600
+518,1979,7,6,Monaco Grand Prix,296611200
+519,1979,8,41,French Grand Prix,299635200
+520,1979,9,9,British Grand Prix,300758400
+521,1979,10,10,German Grand Prix,302054400
+522,1979,11,70,Austrian Grand Prix,303264000
+523,1979,12,39,Dutch Grand Prix,304473600
+524,1979,13,14,Italian Grand Prix,305683200
+525,1979,14,7,Canadian Grand Prix,307497600
+526,1979,15,46,United States Grand Prix,308102400
+527,1978,1,25,Argentine Grand Prix,253670400
+528,1978,2,36,Brazilian Grand Prix,254880000
+529,1978,3,30,South African Grand Prix,257817600
+530,1978,4,43,United States Grand Prix West,260323200
+531,1978,5,6,Monaco Grand Prix,263347200
+532,1978,6,40,Belgian Grand Prix,264556800
+533,1978,7,45,Spanish Grand Prix,265766400
+534,1978,8,47,Swedish Grand Prix,266889600
+535,1978,9,34,French Grand Prix,268185600
+536,1978,10,38,British Grand Prix,269395200
+537,1978,11,10,German Grand Prix,270604800
+538,1978,12,70,Austrian Grand Prix,271814400
+539,1978,13,39,Dutch Grand Prix,273024000
+540,1978,14,14,Italian Grand Prix,274233600
+541,1978,15,46,United States Grand Prix,276048000
+542,1978,16,7,Canadian Grand Prix,276652800
+543,1977,1,25,Argentine Grand Prix,221616000
+544,1977,2,18,Brazilian Grand Prix,222825600
+545,1977,3,30,South African Grand Prix,226368000
+546,1977,4,43,United States Grand Prix West,228873600
+547,1977,5,45,Spanish Grand Prix,231897600
+548,1977,6,6,Monaco Grand Prix,233107200
+549,1977,7,40,Belgian Grand Prix,234316800
+550,1977,8,47,Swedish Grand Prix,235526400
+551,1977,9,41,French Grand Prix,236736000
+552,1977,10,9,British Grand Prix,237859200
+553,1977,11,10,German Grand Prix,239155200
+554,1977,12,70,Austrian Grand Prix,240364800
+555,1977,13,39,Dutch Grand Prix,241574400
+556,1977,14,14,Italian Grand Prix,242784000
+557,1977,15,46,United States Grand Prix,244598400
+558,1977,16,48,Canadian Grand Prix,245203200
+559,1977,17,16,Japanese Grand Prix,246412800
+560,1976,1,18,Brazilian Grand Prix,191376000
+561,1976,2,30,South African Grand Prix,194918400
+562,1976,3,43,United States Grand Prix West,196819200
+563,1976,4,45,Spanish Grand Prix,199843200
+564,1976,5,40,Belgian Grand Prix,201052800
+565,1976,6,6,Monaco Grand Prix,202262400
+566,1976,7,47,Swedish Grand Prix,203472000
+567,1976,8,34,French Grand Prix,205286400
+568,1976,9,38,British Grand Prix,206496000
+569,1976,10,20,German Grand Prix,207705600
+570,1976,11,70,Austrian Grand Prix,208915200
+571,1976,12,39,Dutch Grand Prix,210124800
+572,1976,13,14,Italian Grand Prix,211334400
+573,1976,14,48,Canadian Grand Prix,213148800
+574,1976,15,46,United States Grand Prix,213753600
+575,1976,16,16,Japanese Grand Prix,214963200
+576,1975,1,25,Argentine Grand Prix,158716800
+577,1975,2,18,Brazilian Grand Prix,159926400
+578,1975,3,30,South African Grand Prix,162864000
+579,1975,4,49,Spanish Grand Prix,167788800
+580,1975,5,6,Monaco Grand Prix,168998400
+581,1975,6,40,Belgian Grand Prix,170208000
+582,1975,7,47,Swedish Grand Prix,171417600
+583,1975,8,39,Dutch Grand Prix,172627200
+584,1975,9,34,French Grand Prix,173836800
+585,1975,10,9,British Grand Prix,174960000
+586,1975,11,20,German Grand Prix,176256000
+587,1975,12,70,Austrian Grand Prix,177465600
+588,1975,13,14,Italian Grand Prix,179280000
+589,1975,14,46,United States Grand Prix,181699200
+590,1974,1,25,Argentine Grand Prix,127267200
+591,1974,2,18,Brazilian Grand Prix,128476800
+592,1974,3,30,South African Grand Prix,133833600
+593,1974,4,45,Spanish Grand Prix,136339200
+594,1974,5,50,Belgian Grand Prix,137548800
+595,1974,6,6,Monaco Grand Prix,138758400
+596,1974,7,47,Swedish Grand Prix,139968000
+597,1974,8,39,Dutch Grand Prix,141177600
+598,1974,9,41,French Grand Prix,142387200
+599,1974,10,38,British Grand Prix,143510400
+600,1974,11,20,German Grand Prix,144806400
+601,1974,12,70,Austrian Grand Prix,146016000
+602,1974,13,14,Italian Grand Prix,147830400
+603,1974,14,48,Canadian Grand Prix,149040000
+604,1974,15,46,United States Grand Prix,150249600
+605,1973,1,25,Argentine Grand Prix,97027200
+606,1973,2,18,Brazilian Grand Prix,98236800
+607,1973,3,30,South African Grand Prix,99964800
+608,1973,4,49,Spanish Grand Prix,104889600
+609,1973,5,40,Belgian Grand Prix,106704000
+610,1973,6,6,Monaco Grand Prix,107913600
+611,1973,7,47,Swedish Grand Prix,109123200
+612,1973,8,34,French Grand Prix,110332800
+613,1973,9,9,British Grand Prix,111456000
+614,1973,10,39,Dutch Grand Prix,112752000
+615,1973,11,20,German Grand Prix,113356800
+616,1973,12,70,Austrian Grand Prix,114566400
+617,1973,13,14,Italian Grand Prix,116380800
+618,1973,14,48,Canadian Grand Prix,117590400
+619,1973,15,46,United States Grand Prix,118800000
+620,1972,1,25,Argentine Grand Prix,64972800
+621,1972,2,30,South African Grand Prix,68515200
+622,1972,3,45,Spanish Grand Prix,73526400
+623,1972,4,6,Monaco Grand Prix,74649600
+624,1972,5,50,Belgian Grand Prix,76464000
+625,1972,6,51,French Grand Prix,78883200
+626,1972,7,38,British Grand Prix,80006400
+627,1972,8,20,German Grand Prix,81302400
+628,1972,9,70,Austrian Grand Prix,82512000
+629,1972,10,14,Italian Grand Prix,84931200
+630,1972,11,48,Canadian Grand Prix,86140800
+631,1972,12,46,United States Grand Prix,87350400
+632,1971,1,30,South African Grand Prix,37065600
+633,1971,2,49,Spanish Grand Prix,40780800
+634,1971,3,6,Monaco Grand Prix,43804800
+635,1971,4,39,Dutch Grand Prix,46224000
+636,1971,5,34,French Grand Prix,47433600
+637,1971,6,9,British Grand Prix,48556800
+638,1971,7,20,German Grand Prix,49852800
+639,1971,8,70,Austrian Grand Prix,51062400
+640,1971,9,14,Italian Grand Prix,52876800
+641,1971,10,48,Canadian Grand Prix,54086400
+642,1971,11,46,United States Grand Prix,55296000
+643,1970,1,30,South African Grand Prix,5616000
+644,1970,2,45,Spanish Grand Prix,9331200
+645,1970,3,6,Monaco Grand Prix,11145600
+646,1970,4,13,Belgian Grand Prix,13564800
+647,1970,5,39,Dutch Grand Prix,14774400
+648,1970,6,51,French Grand Prix,15984000
+649,1970,7,38,British Grand Prix,17107200
+650,1970,8,10,German Grand Prix,18403200
+651,1970,9,70,Austrian Grand Prix,19612800
+652,1970,10,14,Italian Grand Prix,21427200
+653,1970,11,52,Canadian Grand Prix,22636800
+654,1970,12,46,United States Grand Prix,23846400
+655,1970,13,32,Mexican Grand Prix,25660800
+656,1969,1,30,South African Grand Prix,-26438400
+657,1969,2,49,Spanish Grand Prix,-20908800
+658,1969,3,6,Monaco Grand Prix,-19699200
+659,1969,4,39,Dutch Grand Prix,-16761600
+660,1969,5,51,French Grand Prix,-15465600
+661,1969,6,9,British Grand Prix,-14342400
+662,1969,7,20,German Grand Prix,-13046400
+663,1969,8,14,Italian Grand Prix,-10022400
+664,1969,9,48,Canadian Grand Prix,-8899200
+665,1969,10,46,United States Grand Prix,-7603200
+666,1969,11,32,Mexican Grand Prix,-6393600
+667,1968,1,30,South African Grand Prix,-63158400
+668,1968,2,45,Spanish Grand Prix,-51753600
+669,1968,3,6,Monaco Grand Prix,-50544000
+670,1968,4,13,Belgian Grand Prix,-49334400
+671,1968,5,39,Dutch Grand Prix,-48124800
+672,1968,6,53,French Grand Prix,-46915200
+673,1968,7,38,British Grand Prix,-45792000
+674,1968,8,20,German Grand Prix,-44496000
+675,1968,9,14,Italian Grand Prix,-41472000
+676,1968,10,52,Canadian Grand Prix,-40262400
+677,1968,11,46,United States Grand Prix,-39052800
+678,1968,12,32,Mexican Grand Prix,-36633600
+679,1967,1,30,South African Grand Prix,-94608000
+680,1967,2,6,Monaco Grand Prix,-83808000
+681,1967,3,39,Dutch Grand Prix,-81388800
+682,1967,4,13,Belgian Grand Prix,-80179200
+683,1967,5,54,French Grand Prix,-78969600
+684,1967,6,9,British Grand Prix,-77846400
+685,1967,7,20,German Grand Prix,-75945600
+686,1967,8,48,Canadian Grand Prix,-74131200
+687,1967,9,14,Italian Grand Prix,-72921600
+688,1967,10,46,United States Grand Prix,-71107200
+689,1967,11,32,Mexican Grand Prix,-69292800
+690,1966,1,6,Monaco Grand Prix,-114048000
+691,1966,2,13,Belgian Grand Prix,-112233600
+692,1966,3,55,French Grand Prix,-110419200
+693,1966,4,38,British Grand Prix,-109296000
+694,1966,5,39,Dutch Grand Prix,-108604800
+695,1966,6,20,German Grand Prix,-107395200
+696,1966,7,14,Italian Grand Prix,-104976000
+697,1966,8,46,United States Grand Prix,-102556800
+698,1966,9,32,Mexican Grand Prix,-100742400
+699,1965,1,56,South African Grand Prix,-157766400
+700,1965,2,6,Monaco Grand Prix,-144892800
+701,1965,3,13,Belgian Grand Prix,-143683200
+702,1965,4,51,French Grand Prix,-142473600
+703,1965,5,9,British Grand Prix,-141350400
+704,1965,6,39,Dutch Grand Prix,-140659200
+705,1965,7,20,German Grand Prix,-139449600
+706,1965,8,14,Italian Grand Prix,-135820800
+707,1965,9,46,United States Grand Prix,-134006400
+708,1965,10,32,Mexican Grand Prix,-132192000
+709,1964,1,6,Monaco Grand Prix,-178156800
+710,1964,2,39,Dutch Grand Prix,-176947200
+711,1964,3,13,Belgian Grand Prix,-175132800
+712,1964,4,53,French Grand Prix,-173923200
+713,1964,5,38,British Grand Prix,-172800000
+714,1964,6,20,German Grand Prix,-170899200
+715,1964,7,57,Austrian Grand Prix,-169084800
+716,1964,8,14,Italian Grand Prix,-167875200
+717,1964,9,46,United States Grand Prix,-165456000
+718,1964,10,32,Mexican Grand Prix,-163641600
+719,1963,1,6,Monaco Grand Prix,-208396800
+720,1963,2,13,Belgian Grand Prix,-207187200
+721,1963,3,39,Dutch Grand Prix,-205977600
+722,1963,4,55,French Grand Prix,-205372800
+723,1963,5,9,British Grand Prix,-203644800
+724,1963,6,20,German Grand Prix,-202348800
+725,1963,7,14,Italian Grand Prix,-199324800
+726,1963,8,46,United States Grand Prix,-196905600
+727,1963,9,32,Mexican Grand Prix,-195091200
+728,1963,10,56,South African Grand Prix,-189734400
+729,1962,1,39,Dutch Grand Prix,-240451200
+730,1962,2,6,Monaco Grand Prix,-239241600
+731,1962,3,13,Belgian Grand Prix,-238032000
+732,1962,4,53,French Grand Prix,-236217600
+733,1962,5,58,British Grand Prix,-235094400
+734,1962,6,20,German Grand Prix,-233798400
+735,1962,7,14,Italian Grand Prix,-230169600
+736,1962,8,46,United States Grand Prix,-228355200
+737,1962,9,56,South African Grand Prix,-221184000
+738,1961,1,6,Monaco Grand Prix,-272505600
+739,1961,2,39,Dutch Grand Prix,-271814400
+740,1961,3,13,Belgian Grand Prix,-269481600
+741,1961,4,55,French Grand Prix,-268272000
+742,1961,5,58,British Grand Prix,-267148800
+743,1961,6,20,German Grand Prix,-265248000
+744,1961,7,14,Italian Grand Prix,-262224000
+745,1961,8,46,United States Grand Prix,-259804800
+746,1960,1,25,Argentine Grand Prix,-312422400
+747,1960,2,6,Monaco Grand Prix,-302745600
+748,1960,3,19,Indianapolis 500,-302659200
+749,1960,4,39,Dutch Grand Prix,-302054400
+750,1960,5,13,Belgian Grand Prix,-300931200
+751,1960,6,55,French Grand Prix,-299721600
+752,1960,7,9,British Grand Prix,-298598400
+753,1960,8,59,Portuguese Grand Prix,-296092800
+754,1960,9,14,Italian Grand Prix,-294278400
+755,1960,10,60,United States Grand Prix,-287625600
+756,1959,1,6,Monaco Grand Prix,-336009600
+757,1959,2,19,Indianapolis 500,-334281600
+758,1959,3,39,Dutch Grand Prix,-334195200
+759,1959,4,55,French Grand Prix,-331171200
+760,1959,5,58,British Grand Prix,-330048000
+761,1959,6,61,German Grand Prix,-328752000
+762,1959,7,62,Portuguese Grand Prix,-326937600
+763,1959,8,14,Italian Grand Prix,-325123200
+764,1959,9,63,United States Grand Prix,-317347200
+765,1958,1,25,Argentine Grand Prix,-377136000
+766,1958,2,6,Monaco Grand Prix,-366854400
+767,1958,3,39,Dutch Grand Prix,-366163200
+768,1958,4,19,Indianapolis 500,-365817600
+769,1958,5,13,Belgian Grand Prix,-364435200
+770,1958,6,55,French Grand Prix,-362620800
+771,1958,7,9,British Grand Prix,-361497600
+772,1958,8,20,German Grand Prix,-360201600
+773,1958,9,59,Portuguese Grand Prix,-358387200
+774,1958,10,14,Italian Grand Prix,-357177600
+775,1958,11,64,Moroccan Grand Prix,-353548800
+776,1957,1,25,Argentine Grand Prix,-409190400
+777,1957,2,6,Monaco Grand Prix,-398304000
+778,1957,3,19,Indianapolis 500,-397353600
+779,1957,4,53,French Grand Prix,-394070400
+780,1957,5,58,British Grand Prix,-392947200
+781,1957,6,20,German Grand Prix,-391651200
+782,1957,7,65,Pescara Grand Prix,-390441600
+783,1957,8,14,Italian Grand Prix,-388627200
+784,1956,1,25,Argentine Grand Prix,-440035200
+785,1956,2,6,Monaco Grand Prix,-430358400
+786,1956,3,19,Indianapolis 500,-428889600
+787,1956,4,13,Belgian Grand Prix,-428544000
+788,1956,5,55,French Grand Prix,-426124800
+789,1956,6,9,British Grand Prix,-425001600
+790,1956,7,20,German Grand Prix,-423100800
+791,1956,8,14,Italian Grand Prix,-420681600
+792,1955,1,25,Argentine Grand Prix,-472089600
+793,1955,2,6,Monaco Grand Prix,-461203200
+794,1955,3,19,Indianapolis 500,-460512000
+795,1955,4,13,Belgian Grand Prix,-459993600
+796,1955,5,39,Dutch Grand Prix,-458784000
+797,1955,6,58,British Grand Prix,-456451200
+798,1955,7,14,Italian Grand Prix,-451526400
+799,1954,1,25,Argentine Grand Prix,-503539200
+800,1954,2,19,Indianapolis 500,-491961600
+801,1954,3,13,Belgian Grand Prix,-490233600
+802,1954,4,55,French Grand Prix,-489024000
+803,1954,5,9,British Grand Prix,-487900800
+804,1954,6,20,German Grand Prix,-486604800
+805,1954,7,66,Swiss Grand Prix,-484790400
+806,1954,8,14,Italian Grand Prix,-483580800
+807,1954,9,67,Spanish Grand Prix,-479347200
+808,1953,1,25,Argentine Grand Prix,-534988800
+809,1953,2,19,Indianapolis 500,-523584000
+810,1953,3,39,Dutch Grand Prix,-522892800
+811,1953,4,13,Belgian Grand Prix,-521683200
+812,1953,5,55,French Grand Prix,-520473600
+813,1953,6,9,British Grand Prix,-519350400
+814,1953,7,20,German Grand Prix,-518054400
+815,1953,8,66,Swiss Grand Prix,-516240000
+816,1953,9,14,Italian Grand Prix,-514425600
+817,1952,1,66,Swiss Grand Prix,-556156800
+818,1952,2,19,Indianapolis 500,-555120000
+819,1952,3,13,Belgian Grand Prix,-553132800
+820,1952,4,53,French Grand Prix,-551923200
+821,1952,5,9,British Grand Prix,-550800000
+822,1952,6,20,German Grand Prix,-549504000
+823,1952,7,39,Dutch Grand Prix,-548294400
+824,1952,8,14,Italian Grand Prix,-546480000
+825,1951,1,66,Swiss Grand Prix,-587001600
+826,1951,2,19,Indianapolis 500,-586742400
+827,1951,3,13,Belgian Grand Prix,-585187200
+828,1951,4,55,French Grand Prix,-583977600
+829,1951,5,9,British Grand Prix,-582854400
+830,1951,6,20,German Grand Prix,-581558400
+831,1951,7,14,Italian Grand Prix,-577324800
+832,1951,8,67,Spanish Grand Prix,-573696000
+833,1950,1,9,British Grand Prix,-619747200
+834,1950,2,6,Monaco Grand Prix,-619056000
+835,1950,3,19,Indianapolis 500,-618278400
+836,1950,4,66,Swiss Grand Prix,-617846400
+837,1950,5,13,Belgian Grand Prix,-616636800
+838,1950,6,55,French Grand Prix,-615427200
+839,1950,7,14,Italian Grand Prix,-609984000
+841,2011,1,1,Australian Grand Prix,1301205600
+842,2011,2,2,Malaysian Grand Prix,1302422400
+843,2011,3,17,Chinese Grand Prix,1303023600
+844,2011,4,5,Turkish Grand Prix,1304856000
+845,2011,5,4,Spanish Grand Prix,1306065600
+846,2011,6,6,Monaco Grand Prix,1306670400
+847,2011,7,7,Canadian Grand Prix,1307898000
+848,2011,8,12,European Grand Prix,1309089600
+849,2011,9,9,British Grand Prix,1310299200
+850,2011,10,20,German Grand Prix,1311508800
+851,2011,11,11,Hungarian Grand Prix,1312113600
+852,2011,12,13,Belgian Grand Prix,1314532800
+853,2011,13,14,Italian Grand Prix,1315742400
+854,2011,14,15,Singapore Grand Prix,1316952000
+855,2011,15,22,Japanese Grand Prix,1318140000
+856,2011,16,35,Korean Grand Prix,1318744800
+857,2011,17,68,Indian Grand Prix,1319967000
+858,2011,18,24,Abu Dhabi Grand Prix,1321189200
+859,2011,19,18,Brazilian Grand Prix,1322409600
+860,2012,1,1,Australian Grand Prix,1332050400
+861,2012,2,2,Malaysian Grand Prix,1332662400
+862,2012,3,17,Chinese Grand Prix,1334473200
+863,2012,4,3,Bahrain Grand Prix,1335096000
+864,2012,5,4,Spanish Grand Prix,1336910400
+865,2012,6,6,Monaco Grand Prix,1338120000
+866,2012,7,7,Canadian Grand Prix,1339351200
+867,2012,8,12,European Grand Prix,1340539200
+868,2012,9,9,British Grand Prix,1341748800
+869,2012,10,10,German Grand Prix,1342958400
+870,2012,11,11,Hungarian Grand Prix,1343563200
+871,2012,12,13,Belgian Grand Prix,1346587200
+872,2012,13,14,Italian Grand Prix,1347192000
+873,2012,14,15,Singapore Grand Prix,1348401600
+874,2012,15,22,Japanese Grand Prix,1349589600
+875,2012,16,35,Korean Grand Prix,1350194400
+876,2012,17,68,Indian Grand Prix,1351416600
+877,2012,18,24,Abu Dhabi Grand Prix,1352034000
+878,2012,19,69,United States Grand Prix,1353265200
+879,2012,20,18,Brazilian Grand Prix,1353859200
+880,2013,1,1,Australian Grand Prix,1363500000
+881,2013,2,2,Malaysian Grand Prix,1364112000
+882,2013,3,17,Chinese Grand Prix,1365922800
+883,2013,4,3,Bahrain Grand Prix,1366545600
+884,2013,5,4,Spanish Grand Prix,1368360000
+885,2013,6,6,Monaco Grand Prix,1369569600
+886,2013,7,7,Canadian Grand Prix,1370800800
+887,2013,8,9,British Grand Prix,1372593600
+888,2013,9,20,German Grand Prix,1373198400
+890,2013,10,11,Hungarian Grand Prix,1375012800
+891,2013,11,13,Belgian Grand Prix,1377432000
+892,2013,12,14,Italian Grand Prix,1378641600
+893,2013,13,15,Singapore Grand Prix,1379851200
+894,2013,14,35,Korean Grand Prix,1381039200
+895,2013,15,22,Japanese Grand Prix,1381644000
+896,2013,16,68,Indian Grand Prix,1382866200
+897,2013,17,24,Abu Dhabi Grand Prix,1383483600
+898,2013,18,69,United States Grand Prix,1384714800
+899,2013,19,18,Brazilian Grand Prix,1385308800
+900,2014,1,1,Australian Grand Prix,1394949600
+901,2014,2,2,Malaysian Grand Prix,1396166400
+902,2014,3,3,Bahrain Grand Prix,1396796400
+903,2014,4,17,Chinese Grand Prix,1397977200
+904,2014,5,4,Spanish Grand Prix,1399809600
+905,2014,6,6,Monaco Grand Prix,1401019200
+906,2014,7,7,Canadian Grand Prix,1402250400
+907,2014,8,70,Austrian Grand Prix,1403438400
+908,2014,9,9,British Grand Prix,1404648000
+909,2014,10,10,German Grand Prix,1405857600
+910,2014,11,11,Hungarian Grand Prix,1406462400
+911,2014,12,13,Belgian Grand Prix,1408881600
+912,2014,13,14,Italian Grand Prix,1410091200
+913,2014,14,15,Singapore Grand Prix,1411300800
+914,2014,15,22,Japanese Grand Prix,1412488800
+915,2014,16,71,Russian Grand Prix,1413111600
+916,2014,17,69,United States Grand Prix,1414958400
+917,2014,18,18,Brazilian Grand Prix,1415548800
+918,2014,19,24,Abu Dhabi Grand Prix,1416747600
+931,2015,6,6,Monaco Grand Prix,1432468800
+932,2015,7,7,Canadian Grand Prix,1433700000
+929,2015,4,3,Bahrain Grand Prix,1429455600
+930,2015,5,4,Spanish Grand Prix,1431259200
+928,2015,3,17,Chinese Grand Prix,1428818400
+926,2015,1,1,Australian Grand Prix,1426395600
+927,2015,2,2,Malaysian Grand Prix,1427612400
+933,2015,8,70,Austrian Grand Prix,1434888000
+934,2015,9,9,British Grand Prix,1436097600
+936,2015,10,11,Hungarian Grand Prix,1437912000
+937,2015,11,13,Belgian Grand Prix,1440331200
+938,2015,12,14,Italian Grand Prix,1441540800
+939,2015,13,15,Singapore Grand Prix,1442750400
+940,2015,14,22,Japanese Grand Prix,1443330000
+941,2015,15,71,Russian Grand Prix,1444561200
+942,2015,16,69,United States Grand Prix,1445799600
+943,2015,17,32,Mexican Grand Prix,1446404400
+944,2015,18,18,Brazilian Grand Prix,1447603200
+945,2015,19,24,Abu Dhabi Grand Prix,1448802000
+948,2016,1,1,Australian Grand Prix,1458450000
+949,2016,2,3,Bahrain Grand Prix,1459695600
+950,2016,3,17,Chinese Grand Prix,1460872800
+951,2016,4,71,Russian Grand Prix,1462104000
+952,2016,5,4,Spanish Grand Prix,1463313600
+953,2016,6,6,Monaco Grand Prix,1464523200
+954,2016,7,7,Canadian Grand Prix,1465754400
+955,2016,8,73,European Grand Prix,1466341200
+956,2016,9,70,Austrian Grand Prix,1467547200
+957,2016,10,9,British Grand Prix,1468152000
+958,2016,11,11,Hungarian Grand Prix,1469361600
+959,2016,12,10,German Grand Prix,1469966400
+960,2016,13,13,Belgian Grand Prix,1472385600
+961,2016,14,14,Italian Grand Prix,1472990400
+962,2016,15,15,Singapore Grand Prix,1474200000
+963,2016,16,2,Malaysian Grand Prix,1475391600
+964,2016,17,22,Japanese Grand Prix,1475989200
+965,2016,18,69,United States Grand Prix,1477249200
+966,2016,19,32,Mexican Grand Prix,1477854000
+967,2016,20,18,Brazilian Grand Prix,1479052800
+968,2016,21,24,Abu Dhabi Grand Prix,1480251600
+969,2017,1,1,Australian Grand Prix,1490504400
+970,2017,2,17,Chinese Grand Prix,1491717600
+971,2017,3,3,Bahrain Grand Prix,1492354800
+972,2017,4,71,Russian Grand Prix,1493553600
+973,2017,5,4,Spanish Grand Prix,1494763200
+974,2017,6,6,Monaco Grand Prix,1495972800
+975,2017,7,7,Canadian Grand Prix,1497204000
+976,2017,8,73,Azerbaijan Grand Prix,1498395600
+977,2017,9,70,Austrian Grand Prix,1499601600
+978,2017,10,9,British Grand Prix,1500206400
+979,2017,11,11,Hungarian Grand Prix,1501416000
+980,2017,12,13,Belgian Grand Prix,1503835200
+981,2017,13,14,Italian Grand Prix,1504440000
+982,2017,14,15,Singapore Grand Prix,1505649600
+983,2017,15,2,Malaysian Grand Prix,1506841200
+984,2017,16,22,Japanese Grand Prix,1507438800
+985,2017,17,69,United States Grand Prix,1508698800
+986,2017,18,32,Mexican Grand Prix,1509303600
+987,2017,19,18,Brazilian Grand Prix,1510502400
+988,2017,20,24,Abu Dhabi Grand Prix,1511701200
+989,2018,1,1,Australian Grand Prix,1521954600
+990,2018,2,3,Bahrain Grand Prix,1523200200
+991,2018,3,17,Chinese Grand Prix,1523772600
+992,2018,4,73,Azerbaijan Grand Prix,1525003800
+993,2018,5,4,Spanish Grand Prix,1526217000
+994,2018,6,6,Monaco Grand Prix,1527426600
+995,2018,7,7,Canadian Grand Prix,1528654200
+996,2018,8,34,French Grand Prix,1529849400
+997,2018,9,70,Austrian Grand Prix,1530450600
+998,2018,10,9,British Grand Prix,1531055400
+999,2018,11,10,German Grand Prix,1532265000
+1000,2018,12,11,Hungarian Grand Prix,1532869800
+1001,2018,13,13,Belgian Grand Prix,1535289000
+1002,2018,14,14,Italian Grand Prix,1535893800
+1003,2018,15,15,Singapore Grand Prix,1537099800
+1004,2018,16,71,Russian Grand Prix,1538305800
+1005,2018,17,22,Japanese Grand Prix,1538889000
+1006,2018,18,69,United States Grand Prix,1540145400
+1007,2018,19,32,Mexican Grand Prix,1540753800
+1008,2018,20,18,Brazilian Grand Prix,1541956200
+1009,2018,21,24,Abu Dhabi Grand Prix,1543151400
+1010,2019,1,1,Australian Grand Prix,1552799400
+1011,2019,2,3,Bahrain Grand Prix,1554045000
+1012,2019,3,17,Chinese Grand Prix,1555222200
+1013,2019,4,73,Azerbaijan Grand Prix,1556453400
+1014,2019,5,4,Spanish Grand Prix,1557666600
+1015,2019,6,6,Monaco Grand Prix,1558876200
+1016,2019,7,7,Canadian Grand Prix,1560103800
+1017,2019,8,34,French Grand Prix,1561295400
+1018,2019,9,70,Austrian Grand Prix,1561900200
+1019,2019,10,9,British Grand Prix,1563109800
+1020,2019,11,10,German Grand Prix,1564319400
+1021,2019,12,11,Hungarian Grand Prix,1564924200
+1022,2019,13,13,Belgian Grand Prix,1567343400
+1023,2019,14,14,Italian Grand Prix,1567948200
+1024,2019,15,15,Singapore Grand Prix,1569154200
+1025,2019,16,71,Russian Grand Prix,1569755400
+1026,2019,17,22,Japanese Grand Prix,1570943400
+1027,2019,18,32,Mexican Grand Prix,1572203400
+1028,2019,19,69,United States Grand Prix,1572808200
+1029,2019,20,18,Brazilian Grand Prix,1574010600
+1030,2019,21,24,Abu Dhabi Grand Prix,1575205800
+1031,2020,1,70,Austrian Grand Prix,1593954600
+1032,2020,2,70,Styrian Grand Prix,1594559400
+1033,2020,3,11,Hungarian Grand Prix,1595164200
+1034,2020,4,9,British Grand Prix,1596373800
+1035,2020,5,9,70th Anniversary Grand Prix,1596978600
+1036,2020,6,4,Spanish Grand Prix,1597583400
+1037,2020,7,13,Belgian Grand Prix,1598793000
+1038,2020,8,14,Italian Grand Prix,1599397800
+1039,2020,9,76,Tuscan Grand Prix,1600002600
+1040,2020,10,71,Russian Grand Prix,1601205000
+1041,2020,11,20,Eifel Grand Prix,1602421800
+1042,2020,12,75,Portuguese Grand Prix,1603627800
+1043,2020,13,21,Emilia Romagna Grand Prix,1604232600
+1044,2020,14,5,Turkish Grand Prix,1605435000
+1045,2020,15,3,Bahrain Grand Prix,1606659000
+1046,2020,16,3,Sakhir Grand Prix,1607274600
+1047,2020,17,24,Abu Dhabi Grand Prix,1607865000
+1053,2021,2,21,Emilia Romagna Grand Prix,1618750800
+1074,2022,1,3,Bahrain Grand Prix,1647788400
+1052,2021,1,3,Bahrain Grand Prix,1616943600
+1051,2021,20,78,Qatar Grand Prix,1637503200
+1054,2021,3,75,Portuguese Grand Prix,1619964000
+1055,2021,4,4,Spanish Grand Prix,1620565200
+1056,2021,5,6,Monaco Grand Prix,1621774800
+1057,2021,6,73,Azerbaijan Grand Prix,1622980800
+1058,2021,8,70,Styrian Grand Prix,1624798800
+1059,2021,7,34,French Grand Prix,1624194000
+1060,2021,9,70,Austrian Grand Prix,1625403600
+1061,2021,10,9,British Grand Prix,1626616800
+1062,2021,11,11,Hungarian Grand Prix,1627822800
+1063,2021,12,13,Belgian Grand Prix,1630242000
+1064,2021,13,39,Dutch Grand Prix,1630846800
+1065,2021,14,14,Italian Grand Prix,1631451600
+1066,2021,15,71,Russian Grand Prix,1632657600
+1067,2021,16,5,Turkish Grand Prix,1633867200
+1069,2021,17,69,United States Grand Prix,1635102000
+1070,2021,18,32,Mexico City Grand Prix,1636311600
+1071,2021,19,18,São Paulo Grand Prix,1636909200
+1072,2021,21,77,Saudi Arabian Grand Prix,1638725400
+1073,2021,22,24,Abu Dhabi Grand Prix,1639314000
+1075,2022,2,77,Saudi Arabian Grand Prix,1648400400
+1076,2022,3,1,Australian Grand Prix,1649566800
+1077,2022,4,21,Emilia Romagna Grand Prix,1650805200
+1078,2022,5,79,Miami Grand Prix,1652038200
+1079,2022,6,4,Spanish Grand Prix,1653224400
+1080,2022,7,6,Monaco Grand Prix,1653829200
+1081,2022,8,73,Azerbaijan Grand Prix,1655031600
+1082,2022,9,7,Canadian Grand Prix,1655661600
+1083,2022,10,9,British Grand Prix,1656856800
+1084,2022,11,70,Austrian Grand Prix,1657458000
+1085,2022,12,34,French Grand Prix,1658667600
+1086,2022,13,11,Hungarian Grand Prix,1659272400
+1087,2022,14,13,Belgian Grand Prix,1661691600
+1088,2022,15,39,Dutch Grand Prix,1662296400
+1089,2022,16,14,Italian Grand Prix,1662901200
+1091,2022,17,15,Singapore Grand Prix,1664712000
+1092,2022,18,22,Japanese Grand Prix,1665291600
+1093,2022,19,69,United States Grand Prix,1666551600
+1094,2022,20,32,Mexico City Grand Prix,1667160000
+1095,2022,21,18,Brazilian Grand Prix,1668362400
+1096,2022,22,24,Abu Dhabi Grand Prix,1668949200
+1098,2023,1,3,Bahrain Grand Prix,1678028400
+1099,2023,2,77,Saudi Arabian Grand Prix,1679245200
+1100,2023,3,1,Australian Grand Prix,1680411600
+1101,2023,4,73,Azerbaijan Grand Prix,1682852400
+1102,2023,5,79,Miami Grand Prix,1683487800
+1104,2023,6,6,Monaco Grand Prix,1685278800
+1105,2023,7,4,Spanish Grand Prix,1685883600
+1106,2023,8,7,Canadian Grand Prix,1687111200
+1107,2023,9,70,Austrian Grand Prix,1688302800
+1108,2023,10,9,British Grand Prix,1688911200
+1109,2023,11,11,Hungarian Grand Prix,1690117200
+1110,2023,12,13,Belgian Grand Prix,1690722000
+1111,2023,13,39,Dutch Grand Prix,1693141200
+1112,2023,14,14,Italian Grand Prix,1693746000
+1113,2023,15,15,Singapore Grand Prix,1694952000
+1114,2023,16,22,Japanese Grand Prix,1695531600
+1115,2023,17,78,Qatar Grand Prix,1696773600
+1116,2023,18,69,United States Grand Prix,1698001200
+1117,2023,19,32,Mexico City Grand Prix,1698609600
+1118,2023,20,18,São Paulo Grand Prix,1699203600
+1119,2023,21,80,Las Vegas Grand Prix,1700373600
+1120,2023,22,24,Abu Dhabi Grand Prix,1701003600

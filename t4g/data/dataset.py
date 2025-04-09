@@ -1,0 +1,112 @@
+import hashlib
+import os
+import shutil
+import tempfile
+import time
+from pathlib import Path
+from typing import List, Tuple, Type, Union
+
+import numpy as np
+import pandas as pd
+from t4g.data.database import Database
+from t4g.data.task import Task
+
+
+class Dataset:
+    def __init__(
+        self,
+        db: Database,
+        task_cls_list: List[Type[Task]],
+    ) -> None:
+        self.db = db
+        self.task_cls_dict = {task_cls.name: task_cls for task_cls in task_cls_list}
+        self.validate_and_correct_db()
+
+    def __repr__(self) -> str:
+        return f"{self.__class__.__name__}()"
+
+    @property
+    def task_names(self) -> List[str]:
+        return list(self.task_cls_dict.keys())
+
+    def get_task(self, task_name: str, *args, **kwargs) -> Task:
+        if task_name not in self.task_cls_dict:
+            raise ValueError(
+                f"{self.__class__.name} does not support the task {task_name}."
+                f"Please choose from {self.task_names}."
+            )
+        return self.task_cls_dict[task_name](self, *args, **kwargs)
+
+    def validate_and_correct_db(self):
+        r"""Validate and correct input db in-place."""
+        # Validate that all primary keys are consecutively index.
+
+        for table_name, table in self.db.table_dict.items():
+            if table.pkey_col is not None:
+                ser = table.df[table.pkey_col]
+                if not (ser.values == np.arange(len(ser))).all():
+                    raise RuntimeError(
+                        f"The primary key column {table.pkey_col} of table "
+                        f"{table_name} is not consecutively index."
+                    )
+
+        # Regard any foreign keys that are larger than primary key table as
+        # dangling foreign keys (represented as None).
+        for table_name, table in self.db.table_dict.items():
+            for fkey_col, pkey_table_name in table.fkey_col_to_pkey_table.items():
+                num_pkeys = len(self.db.table_dict[pkey_table_name])
+                mask = table.df[fkey_col] >= num_pkeys
+                if mask.any():
+                    table.df.loc[mask, fkey_col] = None
+
+
+class BenchDataset(Dataset):
+    name: str
+    task_cls_list: List[Type[Task]]
+
+    db_dir: str = "db"
+
+    def __init__(self, *, process: bool = False, path:str) -> None:
+        if process:
+            print("making Database object from raw files...")
+            tic = time.time()
+            db = self.make_db()
+            toc = time.time()
+            print(f"done in {toc - tic:.2f} seconds.")
+
+            print("reindexing pkeys and fkeys...")
+            tic = time.time()
+            db.reindex_pkeys_and_fkeys()
+            toc = time.time()
+            print(f"done in {toc - tic:.2f} seconds.")
+
+        super().__init__(
+            db, self.task_cls_list
+        )
+
+    def make_db(self) -> Database:
+        raise NotImplementedError
+
+    def pack_db(self, root: Union[str, os.PathLike]) -> Tuple[str, str]:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            db_path = Path(tmpdir) / self.db_dir
+            print(f"saving Database object to {db_path}...")
+            tic = time.time()
+            self._full_db.save(db_path)
+            toc = time.time()
+            print(f"done in {toc - tic:.2f} seconds.")
+
+            print("making zip archive for db...")
+            tic = time.time()
+            zip_path = Path(root) / self.name / self.db_dir
+            zip_path = shutil.make_archive(zip_path, "zip", db_path)
+            toc = time.time()
+            print(f"done in {toc - tic:.2f} seconds.")
+
+        with open(zip_path, "rb") as f:
+            sha256 = hashlib.sha256(f.read()).hexdigest()
+
+        print(f"upload: {zip_path}")
+        print(f"sha256: {sha256}")
+
+        return f"{self.name}/{self.db_dir}.zip", sha256
